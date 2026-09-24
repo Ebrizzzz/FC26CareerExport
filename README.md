@@ -1,5 +1,7 @@
 # FC26CareerExport — export your FC 26 Career at any point + web UI
 
+<img width="1280" height="720" alt="1(5)" src="https://github.com/user-attachments/assets/11b92aa7-2c43-4923-be5c-05cb8c7c7fd3" />
+
 Export **any EA SPORTS FC 26 Career Mode save at any point in the season** (early, mid-season, run-in, or end of season) and turn it into a broadcast-style **Season Review Show** in your browser: league tables, cups with real knockout brackets, transfers, Golden Boot race, Team of the Season, wonderkids/flops, and a full deep-dive on your club.
 
 No servers. No build step. No API keys. One Lua script + static HTML/JS files.
@@ -16,7 +18,7 @@ No servers. No build step. No API keys. One Lua script + static HTML/JS files.
 - [Setup — Part 3: use the UI and upload your export](#setup--part-3-use-the-ui-and-upload-your-export)
 - [What you get in the UI](#what-you-get-in-the-ui)
 - [Sample files in this repo](#sample-files-in-this-repo)
-- [Use your export with NotebookLM](#use-your-export-with-notebooklm)
+- [Use case: Use your export with NotebookLM or other AI platforms](#use-case-use-your-export-with-notebooklm-or-other-ai-platforms)
 - [Internet, photos & privacy](#internet-photos--privacy)
 
 ---
@@ -93,13 +95,28 @@ What gets exported: your manager/club/league/season header, live league tables (
 
 ## What you get in the UI
 
+<img width="1579" height="770" alt="Screenshot 2026-09-25 at 00-02-02 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/b9a7d954-80a6-4bcf-97da-5ca391323316" />
+
 - **Hero** — club crest, league logo, record tiles (P/W/D/L/GF/GA), last-5 form, next fixtures, headlines ticker, Golden Boot snapshot.
+
+<img width="1449" height="435" alt="Screenshot 2026-09-25 at 01-07-03 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/91bb7e35-a6ec-4170-87e3-35f3419fe24a" />
+
 - **Headline Stories** — title race gap, boot leader, record transfer, your story, wonderkid, cold streak.
+<img width="1507" height="855" alt="Screenshot 2026-09-25 at 00-04-18 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/bf173c11-be4a-473e-afb6-99b1e91da0be" />
+
 - **League Tables** — all simulated top flights in your save, zones, W/D/L form pills, season pulse (goals/game, home/draw/away %), biggest wins, per-league top scorers.
+
+<img width="1572" height="819" alt="Screenshot 2026-09-25 at 00-04-31 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/2330a4eb-3322-47e0-aa9f-1912855e9967" />
+
 - **My Club Deep Dive** — running-points chart (bars = pts per match, line = running total), results timeline with Top-3/Goals/Assists details, sortable squad table with OVR tiers (`<68 / 68–76 / 77–83 / 84+`), next fixtures.
-- **Europe** — Swiss league-phase tables with Top-8 / 9–24 cut lines + continental top scorers/assists/ratings.
+<img width="1471" height="738" alt="Screenshot 2026-09-25 at 00-04-46 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/f70f2f1e-6acf-4fd5-9cf7-b50dd69fbace" />
+
 - **Transfers** — your club's SIGNED/SOLD deals, world top-20 marquee moves with fee bars, agreed January pre-contracts, manager merry-go-round.
+<img width="1356" height="676" alt="Screenshot 2026-09-25 at 01-10-04 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/17967db5-d47d-45b0-a848-c4c6c11972a3" />
+
 - **Stars** — Golden Boot race bars, TOTS pitch (4-3-3) + bench, per-league stat tabs, heroes/flops/veterans/teens/defensive elite cards, then-vs-now season comparison with droughts + improvers.
+<img width="1314" height="858" alt="Screenshot 2026-09-25 at 01-10-59 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/af0d902c-9123-4fc5-b936-c49489e21f22" />
+
 - **Cups** — real single-elimination bracket trees (winners feed forward, SVG connectors), aggregate + pens + legs, champion banner, search any club.
 - **World** — compact cards for MLS, Sweden, Norway, China, Korea, Championship, LaLiga Hypermotion, Saudi league, etc.
 
@@ -116,7 +133,10 @@ Open `results.txt` in any text editor to see exactly what the Lua script produce
 
 ---
 
-## Use your export with NotebookLM
+## Use case: Use your export with NotebookLM or other AI platforms
+
+<img width="1890" height="843" alt="Screenshot 2026-09-25 at 00-22-07 FC 26 Football Career - Gemini Notebook" src="https://github.com/user-attachments/assets/3fdfd0e9-fa17-4f97-a732-ad9607e5a2d9" />
+
 
 Your export (`fc26_season_export.txt`) is plain human-readable text, so you can also drop it straight into [NotebookLM](https://notebooklm.google.com/) as a source — no reformatting needed.
 
