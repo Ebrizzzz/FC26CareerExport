@@ -354,6 +354,7 @@ function parseReport(text){
     const line=lines[i],t=line.trim();
     if(!t){continue;}
     let m;
+    if(m=t.match(/^Snapshot:\s*(.+?)\s*\(in-game date:\s*(\S+)/)){D.meta.snapshot=m[1].trim();continue;}
     if(m=t.match(/^Latest in-game date seen:\s*(\S+)/)){D.meta.date=m[1];continue;}
     if(m=t.match(/^User:\s*(.+?)\s*\|\s*Club:\s*(.+?)\s*\|\s*League:\s*(.+?)\s*\|\s*Season:\s*(.+?)\s*$/)){D.meta.manager=m[1].trim();D.meta.club=m[2].trim();D.meta.league=m[3].trim();D.meta.season=m[4].trim();continue;}
     if(t.startsWith("===")){
@@ -557,7 +558,18 @@ function renderAll(D){
 
 function renderHero(){
   const D=DATA,club=D.meta.club||"Your Club";
-  $("#heroKicker").textContent="MID-SEASON SPECIAL • "+(D.meta.date||"2026")+" • "+(D.meta.league||"");
+  const snap=String(D.meta.snapshot||"").toUpperCase();
+  let kicker="MID-SEASON SPECIAL";
+  if(/END/.test(snap))kicker="END-OF-SEASON REVIEW";
+  else if(/EARLY/.test(snap))kicker="EARLY-SEASON SPECIAL";
+  else if(/RUN.?IN/.test(snap))kicker="RUN-IN SPECIAL";
+  else if(/MID/.test(snap))kicker="MID-SEASON SPECIAL";
+  else{
+    // Fallback for old exports without a Snapshot line: June ~= end of season.
+    const mo=String(D.meta.date||"").match(/-(\d{2})-\d{2}$/);
+    if(mo&& (mo[1]==="05"||mo[1]==="06"||mo[1]==="07"))kicker="END-OF-SEASON REVIEW";
+  }
+  $("#heroKicker").textContent=kicker+" • "+(D.meta.date||"2026")+" • "+(D.meta.league||"");
   $("#heroLeague").textContent=(D.meta.league||"")+" • Season "+(D.meta.season||1);
   $("#heroClub").textContent=club;
   $("#heroManager").textContent="Manager "+(D.meta.manager||"")+" • "+(D.club.objectives||"").replace("Board objectives (raw codes): ","Board: ");
