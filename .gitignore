@@ -1,0 +1,24 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+# Live Editor local outputs you don't want to commit by accident
+fc26_season_export.txt
+fc26_manual_notes.txt
+
+# Python / node leftovers (if you add tooling later)
+__pycache__/
+node_modules/

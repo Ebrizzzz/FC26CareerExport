@@ -1,0 +1,2063 @@
+SEASON REVIEW DATA - EA SPORTS FC 26 CAREER MODE
+
+Snapshot: END-OF-SEASON (in-game date: 2027-06-10).
+
+Latest in-game date seen: 2027-06-10
+User: Tom Wirtz | Club: Borussia Mönchengladbach | League: Bundesliga | Season: 1
+
+=== LEAGUES COVERED (simulated domestic leagues in this save) ===
+  Bundesliga  [YOUR LEAGUE]
+  1A Pro League
+  Eredivisie
+  LALIGA EA SPORTS
+  Liga Portugal
+  Ligue 1 McDonald's
+  Premier League
+  Serie A Enilive
+
+=== LEAGUE TABLES (live, from game memory) ===
+
+-- Bundesliga (last season's champion per DB: FC Bayern München)
+ 1. Borussia Mönchengladbach  P34 W24 D5  L5  GF83  GA48  GD+35   77 pts  form LWDWD last season: 1.  <== YOUR CLUB
+ 2. FC Bayern München         P34 W22 D7  L5  GF67  GA34  GD+33   73 pts  form LWDWL last season: 2.
+ 3. Borussia Dortmund          P33 W17 D8  L8  GF54  GA35  GD+19   59 pts  form DDDLL last season: 3.
+ 4. Eintracht Frankfurt        P34 W16 D9  L9  GF55  GA44  GD+11   57 pts  form WLWLW last season: 4.
+ 5. RB Leipzig                 P33 W15 D7  L11 GF50  GA43  GD+7   52 pts  form WDDDL last season: 5.
+ 6. Bayer 04 Leverkusen        P34 W14 D10 L10 GF52  GA48  GD+4   52 pts  form LWWWD last season: 6.
+ 7. TSG Hoffenheim             P33 W13 D9  L11 GF47  GA41  GD+6   48 pts  form WLWDW last season: 7.
+ 8. VfB Stuttgart              P34 W12 D9  L13 GF48  GA50  GD-2   45 pts  form WWWDW last season: 8.
+ 9. 1. FC Köln                P34 W12 D9  L13 GF44  GA49  GD-5   45 pts  form LLWWD last season: 9.
+10. SV Werder Bremen           P33 W11 D9  L13 GF37  GA43  GD-6   42 pts  form WLWDL last season: 10.
+11. 1. FSV Mainz 05            P34 W10 D11 L13 GF34  GA37  GD-3   41 pts  form DWDDL last season: 11.
+12. Sport-Club Freiburg        P34 W10 D11 L13 GF35  GA42  GD-7   41 pts  form DLLWW last season: 12.
+13. FC Augsburg                P34 W11 D8  L15 GF37  GA46  GD-9   41 pts  form DLLLW last season: 13.
+14. 1. FC Union Berlin         P34 W10 D7  L17 GF44  GA53  GD-9   37 pts  form LWLWD last season: 14.
+15. Hamburger SV               P34 W8  D11 L15 GF41  GA54  GD-13   35 pts  form DLLLL last season: 15.
+16. SC Paderborn 07            P34 W9  D8  L17 GF38  GA51  GD-13   35 pts  form DWDLD last season: 16.
+17. FC Schalke 04              P34 W6  D14 L14 GF41  GA56  GD-15   32 pts  form DLLDD last season: 17.
+18. SV Elversberg              P34 W6  D4  L24 GF22  GA55  GD-33   22 pts  form DWLLW last season: 18.
+   Title race: leader Borussia Mönchengladbach, 4 pt(s) ahead of 2nd; gap 1st-4th: 20 pts; gap between 15-th and 16-th (relegation-zone edge): 0 pts
+   304 league matches played | 2.73 goals/game | home wins 32% / draws 26% / away wins 42%
+   Biggest wins:
+     2026-10-23 FC Augsburg 0-4 1. FC Union Berlin
+     2027-04-17 FC Bayern München 0-4 TSG Hoffenheim
+     2027-05-22 RB Leipzig 0-4 TSG Hoffenheim
+     2027-04-25 Borussia Mönchengladbach 5-2 FC Schalke 04
+     2026-08-28 FC Bayern München 4-1 VfB Stuttgart
+   Highest-scoring games:
+     2027-02-28 Borussia Mönchengladbach 6-4 VfB Stuttgart
+     2027-03-14 Borussia Mönchengladbach 6-4 Hamburger SV
+     2027-04-25 Borussia Mönchengladbach 5-2 FC Schalke 04
+
+-- 1A Pro League (last season's champion per DB: Royale Union Saint-Gilloise)
+ 1. Club Brugge                P30 W17 D8  L5  GF47  GA26  GD+21   59 pts  form WWWWD last season: 1.
+ 2. RSC Anderlecht             P30 W15 D10 L5  GF47  GA27  GD+20   55 pts  form WWDLL last season: 3.
+ 3. KRC Genk                   P30 W13 D10 L7  GF46  GA34  GD+12   49 pts  form LWLWW last season: 2.
+ 4. Royale Union Saint-Gilloise P30 W13 D10 L7  GF39  GA31  GD+8   49 pts  form LLLLD last season: 5.
+ 5. KAA Gent                   P30 W12 D12 L6  GF39  GA29  GD+10   48 pts  form WLWWD last season: 4.
+ 6. Royal Antwerp FC           P30 W13 D5  L12 GF36  GA38  GD-2   44 pts  form LLDLD last season: 6.
+ 7. SV Zulte Waregem           P30 W11 D9  L10 GF27  GA24  GD+3   42 pts  form DLLLD last season: 14.
+ 8. Sporting Charleroi         P30 W10 D7  L13 GF25  GA28  GD-3   37 pts  form WWDLD last season: 11.
+ 9. KVC Westerlo               P30 W9  D10 L11 GF27  GA31  GD-4   37 pts  form LWWLL last season: 10.
+10. Standard de Liège         P30 W11 D4  L15 GF33  GA42  GD-9   37 pts  form DLWWW last season: 8.
+11. Sint-Truidense VV          P30 W9  D9  L12 GF28  GA32  GD-4   36 pts  form DLLWW last season: 9.
+12. KV Mechelen                P30 W7  D13 L10 GF34  GA37  GD-3   34 pts  form DWDWL last season: 7.
+13. FCV Dender EH              P30 W8  D9  L13 GF24  GA33  GD-9   33 pts  form WLDLL last season: 15.
+14. Cercle Brugge KSV          P30 W7  D11 L12 GF22  GA32  GD-10   32 pts  form LWWWD last season: 13.
+15. Oud-Heverlee Leuven        P30 W6  D11 L13 GF21  GA32  GD-11   29 pts  form WWDDD last season: 12.
+16. RAAL La Louvière          P30 W6  D8  L16 GF26  GA45  GD-19   26 pts  form LLLDW last season: 16.
+   Title race: leader Club Brugge, 4 pt(s) ahead of 2nd; gap 1st-4th: 10 pts; gap between 13-th and 14-th (relegation-zone edge): 1 pts
+   312 league matches played | 2.15 goals/game | home wins 28% / draws 30% / away wins 42%
+   Biggest wins:
+     2026-08-08 RSC Anderlecht 4-0 KVC Westerlo
+     2026-08-08 Royal Antwerp FC 0-4 Royale Union Saint-Gilloise
+     2026-08-30 Sint-Truidense VV 0-4 RSC Anderlecht
+     2027-05-02 KRC Genk 0-4 Club Brugge
+     2026-11-01 Standard de Liège 1-4 Club Brugge
+   Highest-scoring games:
+     2026-09-20 KRC Genk 4-2 Standard de Liège
+     2026-11-29 KAA Gent 3-3 KV Mechelen
+     2027-02-10 Royale Union Saint-Gilloise 2-4 Royal Antwerp FC
+
+-- Eredivisie (last season's champion per DB: PSV)
+ 1. PSV                        P34 W24 D5  L5  GF69  GA27  GD+42   77 pts  form WWLWW last season: 1.
+ 2. Ajax                       P34 W18 D12 L4  GF57  GA30  GD+27   66 pts  form LWDDW last season: 2.
+ 3. Feyenoord                  P34 W14 D13 L7  GF51  GA36  GD+15   55 pts  form WWDDL last season: 3.
+ 4. N.E.C. Nijmegen            P34 W15 D10 L9  GF41  GA29  GD+12   55 pts  form LLDDD last season: 4.
+ 5. AZ                         P34 W15 D8  L11 GF45  GA31  GD+14   53 pts  form WLLWD last season: 5.
+ 6. FC Twente                  P34 W15 D6  L13 GF36  GA36  GD+0   51 pts  form LWLWD last season: 6.
+ 7. Fortuna Sittard            P34 W15 D6  L13 GF42  GA43  GD-1   51 pts  form LWLWW last season: 7.
+ 8. Go Ahead Eagles            P34 W14 D8  L12 GF34  GA38  GD-4   50 pts  form LLWWL last season: 8.
+ 9. Excelsior Rotterdam        P34 W11 D11 L12 GF36  GA41  GD-5   44 pts  form LLWDL last season: 9.
+10. FC Utrecht                 P34 W10 D12 L12 GF36  GA41  GD-5   42 pts  form LWDLL last season: 10.
+11. Sparta Rotterdam           P34 W12 D5  L17 GF38  GA45  GD-7   41 pts  form WWWLD last season: 11.
+12. sc Heerenveen              P34 W10 D10 L14 GF36  GA44  GD-8   40 pts  form WDWLL last season: 12.
+13. Telstar                    P34 W11 D7  L16 GF29  GA41  GD-12   40 pts  form LLLLL last season: 13.
+14. FC Groningen               P34 W8  D14 L12 GF30  GA37  GD-7   38 pts  form DDDDW last season: 14.
+15. PEC Zwolle                 P34 W9  D11 L14 GF30  GA41  GD-11   38 pts  form WLWLD last season: 15.
+16. Heracles Almelo            P34 W9  D10 L15 GF30  GA42  GD-12   37 pts  form WDWDW last season: 16.
+17. NAC Breda                  P34 W5  D15 L14 GF30  GA44  GD-14   30 pts  form WDLDW last season: 17.
+18. FC Volendam                P34 W4  D11 L19 GF28  GA52  GD-24   23 pts  form DLDDD last season: 18.
+   Title race: leader PSV, 11 pt(s) ahead of 2nd; gap 1st-4th: 22 pts; gap between 15-th and 16-th (relegation-zone edge): 1 pts
+   306 league matches played | 2.28 goals/game | home wins 28% / draws 28% / away wins 43%
+   Biggest wins:
+     2026-10-17 Go Ahead Eagles 0-5 PSV
+     2026-09-27 FC Volendam 1-5 Fortuna Sittard
+     2026-11-21 N.E.C. Nijmegen 1-5 PSV
+     2026-08-29 Heracles Almelo 0-4 N.E.C. Nijmegen
+     2026-12-05 PSV 4-0 Feyenoord
+   Highest-scoring games:
+     2026-09-20 Ajax 4-2 PEC Zwolle
+     2026-09-27 FC Volendam 1-5 Fortuna Sittard
+     2026-11-21 N.E.C. Nijmegen 1-5 PSV
+
+-- LALIGA EA SPORTS (last season's champion per DB: FC Barcelona)
+ 1. Real Madrid                P38 W28 D8  L2  GF81  GA34  GD+47   92 pts  form DWWWL last season: 1.
+ 2. Athletic Club              P38 W24 D8  L6  GF71  GA45  GD+26   80 pts  form WWWLW last season: 2.
+ 3. Atlético de Madrid        P38 W22 D7  L9  GF73  GA45  GD+28   73 pts  form LDWWL last season: 3.
+ 4. FC Barcelona               P38 W20 D11 L7  GF77  GA44  GD+33   71 pts  form DWWWD last season: 4.
+ 5. Real Sociedad              P38 W17 D9  L12 GF54  GA45  GD+9   60 pts  form LWLDW last season: 5.
+ 6. Real Betis Balompié       P38 W16 D9  L13 GF57  GA55  GD+2   57 pts  form WLDLW last season: 6.
+ 7. Valencia CF                P38 W15 D12 L11 GF43  GA45  GD-2   57 pts  form LWLDW last season: 7.
+ 8. Villarreal CF              P38 W15 D10 L13 GF51  GA44  GD+7   55 pts  form WDWDL last season: 8.
+ 9. CA Osasuna                 P38 W14 D12 L12 GF50  GA50  GD+0   54 pts  form LDLDL last season: 9.
+10. RC Deportivo               P38 W15 D9  L14 GF52  GA54  GD-2   54 pts  form WWLDW last season: 10.
+11. Real Club Celta de Vigo    P38 W13 D10 L15 GF55  GA56  GD-1   49 pts  form LDDDD last season: 11.
+12. Levante UD                 P38 W11 D15 L12 GF54  GA53  GD+1   48 pts  form DWLWD last season: 12.
+13. RCD Espanyol de Barcelona  P38 W14 D6  L18 GF42  GA51  GD-9   48 pts  form LWWDD last season: 13.
+14. Sevilla FC                 P38 W13 D8  L17 GF59  GA59  GD+0   47 pts  form WWLLW last season: 15.
+15. Rayo Vallecano             P38 W13 D8  L17 GF55  GA62  GD-7   47 pts  form LLDWL last season: 14.
+16. Getafe CF                  P38 W14 D5  L19 GF46  GA57  GD-11   47 pts  form LLLWD last season: 16.
+17. Deportivo Alavés          P38 W8  D13 L17 GF39  GA49  GD-10   37 pts  form LDWLD last season: 17.
+18. Elche CF                   P38 W7  D11 L20 GF36  GA66  GD-30   32 pts  form WWLDD last season: 18.
+19. Málaga CF                 P38 W4  D8  L26 GF34  GA75  GD-41   20 pts  form WLDLL last season: 19.
+20. Real Racing Club           P38 W4  D7  L27 GF30  GA70  GD-40   19 pts  form LLLLD last season: 20.
+   Title race: leader Real Madrid, 12 pt(s) ahead of 2nd; gap 1st-4th: 21 pts; gap between 17-th and 18-th (relegation-zone edge): 5 pts
+   380 league matches played | 2.79 goals/game | home wins 34% / draws 24% / away wins 42%
+   Biggest wins:
+     2026-12-06 Sevilla FC 5-1 Málaga CF
+     2027-02-12 Real Club Celta de Vigo 1-5 Rayo Vallecano
+     2027-02-13 Villarreal CF 1-5 FC Barcelona
+     2026-10-31 Villarreal CF 0-4 RCD Espanyol de Barcelona
+     2026-11-08 Villarreal CF 4-0 Getafe CF
+   Highest-scoring games:
+     2026-08-27 FC Barcelona 5-2 Athletic Club
+     2027-01-08 RC Deportivo 2-5 Rayo Vallecano
+     2026-09-12 Rayo Vallecano 3-3 Real Racing Club
+
+-- Liga Portugal (last season's champion per DB: Sporting CP)
+ 1. SL Benfica                 P34 W26 D3  L5  GF63  GA21  GD+42   81 pts  form WLWLW last season: 1.
+ 2. FC Porto                   P34 W20 D8  L6  GF58  GA28  GD+30   68 pts  form WWDWW last season: 2.
+ 3. Sporting CP                P34 W21 D5  L8  GF52  GA34  GD+18   68 pts  form WWDWD last season: 3.
+ 4. Estoril Praia              P34 W14 D11 L9  GF43  GA39  GD+4   53 pts  form LLWDL last season: 4.
+ 5. Gil Vicente FC             P34 W14 D9  L11 GF40  GA37  GD+3   51 pts  form WWDDL last season: 5.
+ 6. Santa Clara                P34 W14 D8  L12 GF44  GA42  GD+2   50 pts  form DLWLD last season: 6.
+ 7. Vitória SC                P34 W13 D10 L11 GF43  GA36  GD+7   49 pts  form DLDWW last season: 7.
+ 8. SC Braga                   P34 W12 D11 L11 GF46  GA36  GD+10   47 pts  form WLDWD last season: 8.
+ 9. CD Tondela                 P34 W11 D11 L12 GF36  GA45  GD-9   44 pts  form WWDLW last season: 9.
+10. FC Famalicão              P34 W10 D13 L11 GF34  GA37  GD-3   43 pts  form DLDLD last season: 10.
+11. Casa Pia AC                P34 W11 D9  L14 GF32  GA36  GD-4   42 pts  form WWDWL last season: 11.
+12. Estrela Amadora            P34 W12 D5  L17 GF35  GA46  GD-11   41 pts  form LWWLW last season: 12.
+13. Rio Ave FC                 P34 W10 D10 L14 GF29  GA37  GD-8   40 pts  form DWLLL last season: 13.
+14. CD Nacional                P34 W10 D8  L16 GF34  GA42  GD-8   38 pts  form LLLDL last season: 14.
+15. FC Arouca                  P34 W7  D13 L14 GF32  GA45  GD-13   34 pts  form LWLDW last season: 15.
+16. AVS Futebol SAD            P34 W9  D7  L18 GF29  GA49  GD-20   34 pts  form LWWWL last season: 16.
+17. FC Alverca                 P34 W8  D6  L20 GF26  GA42  GD-16   30 pts  form LLLWL last season: 17.
+18. Moreirense FC              P34 W7  D7  L20 GF24  GA48  GD-24   28 pts  form LLLLW last season: 18.
+   Title race: leader SL Benfica, 13 pt(s) ahead of 2nd; gap 1st-4th: 28 pts; gap between 15-th and 16-th (relegation-zone edge): 0 pts
+   306 league matches played | 2.29 goals/game | home wins 31% / draws 25% / away wins 44%
+   Biggest wins:
+     2027-04-11 SL Benfica 5-1 Rio Ave FC
+     2026-11-30 Moreirense FC 0-4 SC Braga
+     2026-12-05 CD Tondela 0-4 FC Porto
+     2026-08-30 CD Tondela 1-4 Santa Clara
+     2026-09-20 Estrela Amadora 1-4 SL Benfica
+   Highest-scoring games:
+     2026-10-17 AVS Futebol SAD 3-4 Estrela Amadora
+     2026-11-08 Gil Vicente FC 4-2 AVS Futebol SAD
+     2027-04-11 SL Benfica 5-1 Rio Ave FC
+
+-- Ligue 1 McDonald's (last season's champion per DB: Paris Saint-Germain)
+ 1. Paris Saint-Germain        P34 W27 D7  L0  GF77  GA30  GD+47   88 pts  form WDWWD last season: 1.
+ 2. LOSC Lille                 P34 W21 D5  L8  GF47  GA33  GD+14   68 pts  form LWWWW last season: 2.
+ 3. AS Monaco                  P34 W15 D10 L9  GF46  GA38  GD+8   55 pts  form DLLWW last season: 3.
+ 4. RC Lens                    P34 W15 D9  L10 GF48  GA42  GD+6   54 pts  form WWDDD last season: 4.
+ 5. Olympique Lyonnais         P34 W14 D11 L9  GF50  GA37  GD+13   53 pts  form DDWDD last season: 5.
+ 6. Toulouse FC                P34 W14 D7  L13 GF41  GA35  GD+6   49 pts  form DWLWW last season: 6.
+ 7. OGC Nice                   P34 W12 D10 L12 GF42  GA39  GD+3   46 pts  form WWLLW last season: 7.
+ 8. Stade Brestois 29          P34 W12 D10 L12 GF44  GA51  GD-7   46 pts  form WDLDD last season: 8.
+ 9. AJ Auxerre                 P34 W12 D9  L13 GF39  GA38  GD+1   45 pts  form DDWLW last season: 9.
+10. RC Strasbourg Alsace       P34 W13 D5  L16 GF43  GA44  GD-1   44 pts  form WLLWL last season: 10.
+11. Paris FC                   P34 W11 D10 L13 GF41  GA41  GD+0   43 pts  form LLWDD last season: 11.
+12. FC Lorient                 P34 W11 D9  L14 GF39  GA42  GD-3   42 pts  form DWLDD last season: 12.
+13. Olympique de Marseille     P34 W10 D11 L13 GF39  GA41  GD-2   41 pts  form DLDDD last season: 13.
+14. Havre AC                   P34 W12 D5  L17 GF31  GA48  GD-17   41 pts  form WWWLL last season: 14.
+15. Stade Rennais FC           P34 W11 D5  L18 GF40  GA45  GD-5   38 pts  form LLLDD last season: 15.
+16. Angers SCO                 P34 W10 D7  L17 GF35  GA51  GD-16   37 pts  form LLLDD last season: 16.
+17. ESTAC Troyes               P34 W8  D9  L17 GF29  GA46  GD-17   33 pts  form LWWDL last season: 17.
+18. Le Mans FC                 P34 W4  D9  L21 GF30  GA60  GD-30   21 pts  form LLLLL last season: 18.
+   Title race: leader Paris Saint-Germain, 20 pt(s) ahead of 2nd; gap 1st-4th: 34 pts; gap between 15-th and 16-th (relegation-zone edge): 1 pts
+   306 league matches played | 2.49 goals/game | home wins 34% / draws 24% / away wins 42%
+   Biggest wins:
+     2026-11-22 Olympique de Marseille 4-0 Le Mans FC
+     2026-12-11 Stade Brestois 29 0-4 ESTAC Troyes
+     2027-03-07 RC Lens 0-4 RC Strasbourg Alsace
+     2027-04-18 Paris Saint-Germain 4-0 LOSC Lille
+     2026-08-29 Olympique Lyonnais 4-1 Havre AC
+   Highest-scoring games:
+     2027-04-25 FC Lorient 2-4 Paris Saint-Germain
+     2027-05-15 Paris Saint-Germain 4-2 Toulouse FC
+     2026-08-22 Le Mans FC 2-3 Stade Brestois 29
+
+-- Premier League (last season's champion per DB: Liverpool)
+ 1. Liverpool                  P38 W23 D8  L7  GF77  GA46  GD+31   77 pts  form WWLWL last season: 1.
+ 2. Arsenal                    P38 W23 D7  L8  GF75  GA40  GD+35   76 pts  form WWLWD last season: 2.
+ 3. Manchester City            P38 W16 D14 L8  GF63  GA49  GD+14   62 pts  form LWLWL last season: 3.
+ 4. Newcastle United           P38 W15 D15 L8  GF61  GA44  GD+17   60 pts  form WDWDD last season: 4.
+ 5. Chelsea                    P38 W17 D9  L12 GF50  GA54  GD-4   60 pts  form WLWDD last season: 5.
+ 6. AFC Bournemouth            P38 W16 D11 L11 GF53  GA45  GD+8   59 pts  form LLLDW last season: 6.
+ 7. Aston Villa                P38 W15 D11 L12 GF51  GA51  GD+0   56 pts  form DLLLD last season: 7.
+ 8. Sunderland                 P38 W15 D11 L12 GF47  GA48  GD-1   56 pts  form LWWWW last season: 8.
+ 9. Manchester United          P38 W13 D15 L10 GF54  GA53  GD+1   54 pts  form WWWDW last season: 9.
+10. Ipswich Town               P38 W16 D6  L16 GF46  GA45  GD+1   54 pts  form DDWLW last season: 10.
+11. Brentford                  P38 W12 D17 L9  GF57  GA51  GD+6   53 pts  form WWWLD last season: 11.
+12. Crystal Palace             P38 W14 D11 L13 GF59  GA54  GD+5   53 pts  form DDWDL last season: 12.
+13. Nottingham Forest          P38 W15 D8  L15 GF53  GA50  GD+3   53 pts  form WDWWL last season: 13.
+14. Tottenham Hotspur          P38 W12 D15 L11 GF48  GA48  GD+0   51 pts  form DLWDD last season: 14.
+15. Everton                    P38 W14 D7  L17 GF47  GA51  GD-4   49 pts  form LWLLL last season: 15.
+16. Fulham                     P38 W12 D6  L20 GF49  GA57  GD-8   42 pts  form WDLWL last season: 16.
+17. Hull City                  P38 W9  D8  L21 GF42  GA61  GD-19   35 pts  form LLWWD last season: 17.
+18. Brighton & Hove Albion     P38 W9  D7  L22 GF40  GA73  GD-33   34 pts  form LLLLD last season: 18.
+19. Leeds United               P38 W7  D8  L23 GF45  GA71  GD-26   29 pts  form LLLLW last season: 19.
+20. Coventry City              P38 W7  D6  L25 GF42  GA68  GD-26   27 pts  form LLLLW last season: 20.
+   Title race: leader Liverpool, 1 pt(s) ahead of 2nd; gap 1st-4th: 17 pts; gap between 17-th and 18-th (relegation-zone edge): 1 pts
+   380 league matches played | 2.79 goals/game | home wins 32% / draws 26% / away wins 41%
+   Biggest wins:
+     2026-09-26 Brighton & Hove Albion 0-4 Arsenal
+     2027-01-23 Leeds United 0-4 Chelsea
+     2027-05-23 Everton 0-4 Arsenal
+     2026-12-05 Brentford 2-5 Manchester City
+     2027-05-02 Coventry City 2-5 Manchester United
+   Highest-scoring games:
+     2026-12-05 Brentford 2-5 Manchester City
+     2027-05-02 Coventry City 2-5 Manchester United
+     2026-08-21 Arsenal 4-2 Coventry City
+
+-- Serie A Enilive (last season's champion per DB: SSC Napoli)
+ 1. SSC Napoli                 P38 W24 D12 L2  GF81  GA38  GD+43   84 pts  form WWWDW last season: 1.
+ 2. Lombardia FC               P38 W21 D12 L5  GF62  GA37  GD+25   75 pts  form WWDDD last season: 2.
+ 3. Milano FC                  P38 W18 D11 L9  GF63  GA46  GD+17   65 pts  form LWDLL last season: 3.
+ 4. AS Roma                    P38 W19 D7  L12 GF68  GA42  GD+26   64 pts  form LWDLW last season: 4.
+ 5. Torino                     P38 W15 D13 L10 GF57  GA48  GD+9   58 pts  form LLDDW last season: 5.
+ 6. Juventus                   P38 W15 D12 L11 GF60  GA51  GD+9   57 pts  form LLDWW last season: 6.
+ 7. Bergamo Calcio             P38 W16 D9  L13 GF50  GA43  GD+7   57 pts  form WDLDL last season: 7.
+ 8. Fiorentina                 P38 W15 D11 L12 GF54  GA49  GD+5   56 pts  form LLDWW last season: 8.
+ 9. Como 1907                  P38 W14 D12 L12 GF57  GA50  GD+7   54 pts  form LDWWL last season: 9.
+10. Bologna                    P38 W15 D7  L16 GF53  GA53  GD+0   52 pts  form WWLWD last season: 10.
+11. Udinese                    P38 W14 D9  L15 GF41  GA49  GD-8   51 pts  form LWWLW last season: 11.
+12. Latium                     P38 W12 D13 L13 GF54  GA58  GD-4   49 pts  form WWLDL last season: 13.
+13. Venezia                    P38 W12 D13 L13 GF45  GA56  GD-11   49 pts  form DDDWL last season: 12.
+14. Genoa                      P38 W13 D9  L16 GF44  GA53  GD-9   48 pts  form WWLLW last season: 14.
+15. Sassuolo                   P38 W12 D11 L15 GF44  GA54  GD-10   47 pts  form WLDWD last season: 15.
+16. Cagliari                   P38 W10 D15 L13 GF46  GA59  GD-13   45 pts  form WLDDL last season: 16.
+17. Monza                      P38 W10 D12 L16 GF46  GA55  GD-9   42 pts  form DLWLL last season: 17.
+18. Parma                      P38 W6  D10 L22 GF38  GA63  GD-25   28 pts  form WLLLD last season: 18.
+19. Lecce                      P38 W5  D12 L21 GF31  GA61  GD-30   27 pts  form LLDDW last season: 19.
+20. Frosinone                  P38 W4  D10 L24 GF39  GA68  GD-29   22 pts  form LDWDL last season: 20.
+   Title race: leader SSC Napoli, 9 pt(s) ahead of 2nd; gap 1st-4th: 20 pts; gap between 17-th and 18-th (relegation-zone edge): 14 pts
+   380 league matches played | 2.72 goals/game | home wins 31% / draws 29% / away wins 40%
+   Biggest wins:
+     2026-12-04 Bologna 1-5 AS Roma
+     2027-03-14 Venezia 1-5 Bergamo Calcio
+     2027-01-06 Bergamo Calcio 0-4 Como 1907
+     2027-01-06 Frosinone 4-0 Bologna
+     2027-01-24 Lombardia FC 4-0 Venezia
+   Highest-scoring games:
+     2026-11-28 Udinese 3-3 Fiorentina
+     2026-12-04 Bologna 1-5 AS Roma
+     2027-01-09 Como 1907 3-3 Latium
+
+=== WORLD LEAGUES ROUNDUP (compact active leagues) ===
+-- 3. Liga
+   1st: Fortuna Düsseldorf (79 pts, GD +30) | 2nd: TSV 1860 München (74) | 3rd: F.C. Hansa Rostock (73)
+   Bottom: 19. TSV Havelse (30) | 20. VfB Stuttgart II (21)
+-- 3F Superliga
+   1st: FC Midtjylland (52 pts, GD +28) | 2nd: F.C. København (49) | 3rd: AGF (38)
+   Bottom: 11. FC Fredericia (16) | 12. Sønderjyske Fodbold (13)
+-- A-League
+   1st: Sydney FC (41 pts, GD +10) | 2nd: Melbourne City (40) | 3rd: Melbourne Victory (39)
+   Bottom: 11. Central Coast Mariners (19) | 12. Newcastle Jets (15)
+-- Allsvenskan
+   1st: IF Elfsborg (55 pts, GD +14) | 2nd: GAIS (52) | 3rd: Malmö FF (51)
+   Bottom: 15. Östers IF (26) | 16. IF Brommapojkarna (22)
+-- Brack Super League
+   1st: BSC Young Boys (62 pts, GD +26) | 2nd: FC Lugano (57) | 3rd: FC St. Gallen 1879 (48)
+   Bottom: 11. FC Thun (33) | 12. FC Zürich (24)
+-- Bundesliga 2
+   1st: VfL Wolfsburg (73 pts, GD +26) | 2nd: VfL Bochum 1848 (59) | 3rd: SV Darmstadt 98 (57)
+   Bottom: 17. SpVgg Greuther Fürth (32) | 18. FC Energie Cottbus (29)
+-- EFL Championship
+   1st: West Ham United (100 pts, GD +40) | 2nd: Southampton (91) | 3rd: Burnley (83)
+   Bottom: 23. Portsmouth (34) | 24. Charlton Athletic (33)
+-- EFL League One
+   1st: Leicester City (107 pts, GD +53) | 2nd: Luton Town (93) | 3rd: Oxford United (81)
+   Bottom: 23. Peterborough United (41) | 24. Bradford City (39)
+-- EFL League Two
+   1st: Salford City (80 pts, GD +13) | 2nd: Shrewsbury (79) | 3rd: Gillingham (77)
+   Bottom: 23. Oldham Athletic (48) | 24. Accrington Stanley (31)
+-- Eliteserien
+   1st: Viking FK (64 pts, GD +25) | 2nd: FK Bodø/Glimt (63) | 3rd: Rosenborg BK (52)
+   Bottom: 15. HamKam Fotball (28) | 16. FK Haugesund (23)
+-- ISL
+   1st: East Bengal (59 pts, GD +18) | 2nd: Mohun Bagan Super Giant (54) | 3rd: FC Goa (48)
+   Bottom: 13. Kerala Blasters FC (18) | 14. Sporting Club Delhi (17)
+-- LALIGA HYPERMOTION
+   1st: Girona FC (94 pts, GD +41) | 2nd: UD Almería (86) | 3rd: Real Oviedo (79)
+   Bottom: 21. Real Sociedad B (35) | 22. AD Ceuta FC (34)
+-- LPF (15 of 30 teams)
+   1st: Vélez Sarsfield (29 pts, GD +10) | 2nd: Club Atlético Talleres (29) | 3rd: River Plate (29)
+   Bottom: 14. Deportivo Riestra (11) | 15. Club Atlético Sarmiento (10)
+-- Ligue 2 BKT
+   1st: FC Nantes (75 pts, GD +36) | 2nd: Stade de Reims (70) | 3rd: AS Saint-Étienne (62)
+   Bottom: 17. Rodez Aveyron Football (28) | 18. Grenoble Foot 38 (26)
+-- PKO BP Ekstraklasa
+   1st: Lech Poznań (77 pts, GD +34) | 2nd: Legia Warszawa (68) | 3rd: Jagiellonia Białystok (68)
+   Bottom: 17. RKS Radomiak Radom (29) | 18. KGHM Zagłębie Lubin (16)
+-- ROSHN Saudi League
+   1st: Al Hilal (87 pts, GD +42) | 2nd: Al Nassr (80) | 3rd: Al Ittihad (73)
+   Bottom: 17. Al Hazem (20) | 18. Al Fateh (20)
+-- SSE Airtricity PD
+   1st: Shamrock Rovers (74 pts, GD +26) | 2nd: Sligo Rovers (67) | 3rd: Bohemians (62)
+   Bottom: 9. Waterford FC (34) | 10. Drogheda United (22)
+-- SUPERLIGA
+   1st: FC FCSB (64 pts, GD +24) | 2nd: FCV Farul Constanța (55) | 3rd: FC Rapid 1923 (54)
+   Bottom: 15. FK Csíkszereda Miercurea Ciuc (27) | 16. ACS Petrolul 52 (26)
+-- Scottish Prem
+   1st: Celtic (77 pts, GD +47) | 2nd: Rangers (74) | 3rd: Heart of Midlothian (58)
+   Bottom: 11. Dundee FC (29) | 12. Falkirk (22)
+-- Serie BKT
+   1st: Palermo (83 pts, GD +38) | 2nd: Sampdoria (82) | 3rd: Cremonese (76)
+   Bottom: 19. S.S. Juve Stabia 1907 (27) | 20. Reggiana (21)
+-- Trendyol Süper Lig
+   1st: Fenerbahçe SK (78 pts, GD +36) | 2nd: Beşiktaş JK (78) | 3rd: Galatasaray SK (77)
+   Bottom: 17. İKAS Eyüpspor (26) | 18. Antalyaspor (25)
+-- Ö. Bundesliga
+   1st: FC Red Bull Salzburg (46 pts, GD +19) | 2nd: SK Rapid (41) | 3rd: LASK (40)
+   Bottom: 11. SC Rheindorf Altach (16) | 12. WSG Tirol (15)
+
+=== EUROPEAN & TOURNAMENT TABLES (Swiss League Phase & Invitational) ===
+
+-- UEFA Super Cup (league phase / group table)
+    1. Arsenal                    P8  W7  D1  L0  GF17  GA6   GD+11   22 pts
+    2. Atlético de Madrid        P8  W7  D0  L1  GF15  GA5   GD+10   21 pts
+    3. Paris Saint-Germain        P8  W6  D2  L0  GF13  GA4   GD+9   20 pts
+    4. Manchester City            P8  W5  D3  L0  GF16  GA8   GD+8   18 pts
+    5. Borussia Dortmund          P8  W5  D2  L1  GF16  GA8   GD+8   17 pts
+    6. Liverpool                  P8  W5  D1  L2  GF14  GA8   GD+6   16 pts
+    7. FC Bayern München         P8  W5  D1  L2  GF13  GA8   GD+5   16 pts
+    8. SSC Napoli                 P8  W5  D0  L3  GF14  GA10  GD+4   15 pts
+    9. FC Porto                   P8  W4  D3  L1  GF14  GA11  GD+3   15 pts
+   10. FC Barcelona               P8  W4  D2  L2  GF12  GA5   GD+7   14 pts
+   11. Real Madrid                P8  W3  D5  L0  GF12  GA6   GD+6   14 pts
+   12. Como 1907                  P8  W4  D2  L2  GF11  GA6   GD+5   14 pts
+   13. VfB Stuttgart              P8  W4  D2  L2  GF13  GA10  GD+3   14 pts
+   14. Lombardia FC               P8  W4  D1  L3  GF11  GA8   GD+3   13 pts
+   15. AS Roma                    P8  W4  D1  L3  GF12  GA10  GD+2   13 pts
+   16. Manchester United          P8  W4  D0  L4  GF11  GA9   GD+2   12 pts
+   17. Villarreal CF              P8  W4  D0  L4  GF13  GA12  GD+1   12 pts
+   18. Galatasaray SK             P8  W2  D5  L1  GF12  GA11  GD+1   11 pts
+   19. PSV                        P8  W2  D4  L2  GF12  GA11  GD+1   10 pts
+   20. RB Leipzig                 P8  W2  D4  L2  GF10  GA10  GD+0   10 pts
+   21. Feyenoord                  P8  W3  D1  L4  GF9   GA11  GD-2   10 pts
+   22. LOSC Lille                 P8  W2  D3  L3  GF11  GA11  GD+0    9 pts
+   23. Sporting CP                P8  W2  D2  L4  GF12  GA13  GD-1    8 pts
+   24. AEK Athens                 P8  W1  D5  L2  GF11  GA13  GD-2    8 pts
+   25. Celtic                     P8  W2  D2  L4  GF7   GA10  GD-3    8 pts
+   26. RC Lens                    P8  W1  D4  L3  GF8   GA11  GD-3    7 pts
+   27. SK Slavia Praha            P8  W2  D1  L5  GF6   GA10  GD-4    7 pts
+   28. Shakhtar Donetsk           P8  W1  D4  L3  GF5   GA13  GD-8    7 pts
+   29. Aston Villa                P8  W1  D3  L4  GF8   GA12  GD-4    6 pts
+   30. FK Bodø/Glimt             P8  W2  D0  L6  GF6   GA14  GD-8    6 pts
+   31. Real Betis Balompié       P8  W0  D5  L3  GF9   GA14  GD-5    5 pts
+   32. Olympique Lyonnais         P8  W1  D2  L5  GF8   GA17  GD-9    5 pts
+   33. Club Brugge                P8  W0  D4  L4  GF7   GA13  GD-6    4 pts
+   34. AGF                        P8  W1  D0  L7  GF8   GA20  GD-12    3 pts
+   35. GNK Dinamo Zagreb          P8  W1  D0  L7  GF5   GA20  GD-15    3 pts
+   36. Mjällby AIF               P8  W0  D1  L7  GF8   GA21  GD-13    1 pts
+
+-- UEFA Europa League (league phase / group table)
+    1. Lech Poznań               P8  W6  D2  L0  GF16  GA7   GD+9   20 pts
+    2. Juventus                   P8  W5  D3  L0  GF19  GA10  GD+9   18 pts
+    3. Milano FC                  P8  W5  D3  L0  GF15  GA6   GD+9   18 pts
+    4. Real Sociedad              P8  W5  D2  L1  GF17  GA9   GD+8   17 pts
+    5. Stade Rennais FC           P8  W5  D2  L1  GF12  GA6   GD+6   17 pts
+    6. Bayer 04 Leverkusen        P8  W4  D2  L2  GF14  GA10  GD+4   14 pts
+    7. Olympique de Marseille     P8  W4  D2  L2  GF13  GA9   GD+4   14 pts
+    8. AC Sparta Praha            P8  W4  D2  L2  GF11  GA9   GD+2   14 pts
+   ---- top 8: direct place in the Round of 16 ----
+    9. Beşiktaş JK              P8  W4  D2  L2  GF10  GA9   GD+1   14 pts
+   10. Olympiacos FC              P8  W3  D4  L1  GF11  GA6   GD+5   13 pts
+   11. LASK                       P8  W3  D3  L2  GF13  GA10  GD+3   12 pts
+   12. SL Benfica                 P8  W3  D3  L2  GF11  GA9   GD+2   12 pts
+   13. FC Famalicão              P8  W3  D3  L2  GF10  GA8   GD+2   12 pts
+   14. Shamrock Rovers            P8  W3  D3  L2  GF6   GA5   GD+1   12 pts
+   15. HNK Hajduk Split           P8  W3  D3  L2  GF9   GA9   GD+0   12 pts
+   16. TSG Hoffenheim             P8  W3  D2  L3  GF11  GA11  GD+0   11 pts
+   17. Ferencvárosi TC           P8  W3  D2  L3  GF11  GA12  GD-1   11 pts
+   18. AFC Bournemouth            P8  W3  D2  L3  GF10  GA11  GD-1   11 pts
+   19. N.E.C. Nijmegen            P8  W3  D2  L3  GF8   GA9   GD-1   11 pts
+   20. FC Red Bull Salzburg       P8  W2  D4  L2  GF9   GA9   GD+0   10 pts
+   21. Sunderland                 P8  W3  D1  L4  GF11  GA13  GD-2   10 pts
+   22. Viking FK                  P8  W3  D1  L4  GF7   GA9   GD-2   10 pts
+   23. HJK Helsinki               P8  W3  D1  L4  GF8   GA13  GD-5   10 pts
+   24. U Craiova 1948 Club Sportiv P8  W2  D3  L3  GF6   GA7   GD-1    9 pts
+   ---- 9th-24th: knockout play-off; 25th and below: eliminated ----
+   25. Fenerbahçe SK             P8  W2  D2  L4  GF11  GA9   GD+2    8 pts
+   26. Crystal Palace             P8  W1  D5  L2  GF12  GA14  GD-2    8 pts
+   27. Qarabağ FK                P8  W1  D5  L2  GF9   GA12  GD-3    8 pts
+   28. FC Viktoria Plzeň         P8  W1  D4  L3  GF6   GA9   GD-3    7 pts
+   29. FC Midtjylland             P8  W1  D3  L4  GF9   GA13  GD-4    6 pts
+   30. PAOK FC                    P8  W1  D3  L4  GF7   GA11  GD-4    6 pts
+   31. AZ                         P8  W1  D3  L4  GF5   GA9   GD-4    6 pts
+   32. SK Sturm Graz              P8  W1  D3  L4  GF7   GA12  GD-5    6 pts
+   33. APOEL FC                   P8  W1  D3  L4  GF8   GA14  GD-6    6 pts
+   34. Rangers                    P8  W2  D0  L6  GF5   GA15  GD-10    6 pts
+   35. Real Club Celta de Vigo    P8  W0  D3  L5  GF6   GA11  GD-5    3 pts
+   36. Royale Union Saint-Gilloise P8  W0  D3  L5  GF8   GA16  GD-8    3 pts
+
+-- UEFA Conference League (league phase / group table)
+    1. Bergamo Calcio             P6  W4  D2  L0  GF8   GA3   GD+5   14 pts
+    2. Ajax                       P6  W3  D3  L0  GF10  GA4   GD+6   12 pts
+    3. FC FCSB                    P6  W3  D3  L0  GF9   GA5   GD+4   12 pts
+    4. Sport-Club Freiburg        P6  W3  D3  L0  GF7   GA4   GD+3   12 pts
+    5. KAA Gent                   P6  W3  D3  L0  GF6   GA3   GD+3   12 pts
+    6. AS Monaco                  P6  W3  D2  L1  GF12  GA5   GD+7   11 pts
+    7. Derry City                 P6  W3  D2  L1  GF10  GA5   GD+5   11 pts
+    8. Motherwell                 P6  W3  D2  L1  GF8   GA5   GD+3   11 pts
+   ---- top 8: direct place in the Round of 16 ----
+    9. Trabzonspor                P6  W3  D2  L1  GF8   GA5   GD+3   11 pts
+   10. Rosenborg BK               P6  W3  D2  L1  GF6   GA6   GD+0   11 pts
+   11. Brighton & Hove Albion     P6  W2  D3  L1  GF9   GA5   GD+4    9 pts
+   12. RAMS Başakşehir          P6  W2  D3  L1  GF12  GA9   GD+3    9 pts
+   13. ASFC Universitatea Cluj    P6  W2  D3  L1  GF9   GA6   GD+3    9 pts
+   14. Dynamo Kyiv                P6  W2  D3  L1  GF6   GA3   GD+3    9 pts
+   15. Jagiellonia Białystok     P6  W2  D3  L1  GF8   GA7   GD+1    9 pts
+   16. RKS Raków Częstochowa    P6  W2  D3  L1  GF6   GA5   GD+1    9 pts
+   17. FC Thun                    P6  W3  D0  L3  GF8   GA8   GD+0    9 pts
+   18. Sint-Truidense VV          P6  W3  D0  L3  GF6   GA8   GD-2    9 pts
+   19. FC Nordsjælland           P6  W2  D2  L2  GF5   GA6   GD-1    8 pts
+   20. Shelbourne FC              P6  W2  D1  L3  GF8   GA9   GD-1    7 pts
+   21. GAIS                       P6  W2  D1  L3  GF7   GA8   GD-1    7 pts
+   22. FC Lugano                  P6  W2  D1  L3  GF7   GA9   GD-2    7 pts
+   23. Górnik Zabrze             P6  W2  D1  L3  GF5   GA8   GD-3    7 pts
+   24. Hammarby IF                P6  W1  D4  L1  GF6   GA10  GD-4    7 pts
+   ---- 9th-24th: knockout play-off; 25th and below: eliminated ----
+   25. RSC Anderlecht             P6  W1  D3  L2  GF6   GA6   GD+0    6 pts
+   26. Getafe CF                  P6  W1  D3  L2  GF6   GA7   GD-1    6 pts
+   27. SC Braga                   P6  W1  D3  L2  GF4   GA5   GD-1    6 pts
+   28. Heart of Midlothian        P6  W2  D0  L4  GF6   GA8   GD-2    6 pts
+   29. CFR 1907 Cluj              P6  W1  D3  L2  GF4   GA7   GD-3    6 pts
+   30. SK Rapid                   P6  W1  D2  L3  GF5   GA7   GD-2    5 pts
+   31. Panathinaikos FC           P6  W1  D2  L3  GF5   GA7   GD-2    5 pts
+   32. F.C. København            P6  W0  D4  L2  GF6   GA10  GD-4    4 pts
+   33. Tromsø IL                 P6  W1  D0  L5  GF3   GA11  GD-8    3 pts
+   34. FC Twente                  P6  W0  D2  L4  GF4   GA9   GD-5    2 pts
+   35. FK Austria Wien            P6  W0  D2  L4  GF3   GA8   GD-5    2 pts
+   36. Hibernian                  P6  W0  D2  L4  GF4   GA11  GD-7    2 pts
+
+-- CONMEBOL Sudamericana (league phase / group table)
+    1. Palestino                  P6  W3  D2  L1  GF7   GA5   GD+2   11 pts
+    2. Millonarios FC             P6  W3  D1  L2  GF9   GA5   GD+4   10 pts
+    3. Club Atlético Independiente P6  W2  D4  L0  GF9   GA6   GD+3   10 pts
+    4. Nacional Potosí           P6  W3  D1  L2  GF8   GA8   GD+0   10 pts
+    5. Cruzeiro                   P6  W2  D3  L1  GF10  GA8   GD+2    9 pts
+    6. Racing Club                P6  W2  D3  L1  GF7   GA6   GD+1    9 pts
+    7. Club Bolívar              P6  W2  D3  L1  GF7   GA7   GD+0    9 pts
+    8. Club Atlético Peñarol    P6  W2  D2  L2  GF8   GA7   GD+1    8 pts
+
+-- CONMEBOL Libertadores (league phase / group table)
+    1. Atlético Bucaramanga      P6  W2  D3  L1  GF8   GA7   GD+1    9 pts
+    2. Rosario Central            P6  W2  D2  L2  GF7   GA8   GD-1    8 pts
+    3. Universidad de Chile       P6  W2  D1  L3  GF3   GA4   GD-1    7 pts
+    4. Grêmio                    P6  W1  D3  L2  GF5   GA6   GD-1    6 pts
+    5. Juventud de las Piedras    P6  W1  D3  L2  GF5   GA7   GD-2    6 pts
+    6. Universidad Central de Venezuela P6  W1  D2  L3  GF6   GA8   GD-2    5 pts
+    7. Godoy Cruz                 P6  W1  D2  L3  GF4   GA7   GD-3    5 pts
+    8. Club Guaraní              P6  W1  D2  L3  GF5   GA10  GD-5    5 pts
+
+-- European International Cup (league phase / group table)
+    1. Borussia Mönchengladbach  P3  W3  D0  L0  GF7   GA0   GD+7    9 pts  <== YOUR CLUB
+    2. Fiorentina                 P3  W3  D0  L0  GF5   GA1   GD+4    9 pts
+    3. Fulham                     P3  W1  D1  L1  GF4   GA4   GD+0    4 pts
+    4. Real Club Celta de Vigo    P3  W1  D1  L1  GF3   GA3   GD+0    4 pts
+    5. Leeds United               P3  W1  D1  L1  GF3   GA4   GD-1    4 pts
+    6. Brighton & Hove Albion     P3  W1  D0  L2  GF1   GA5   GD-4    3 pts
+    7. Rayo Vallecano             P3  W0  D1  L2  GF4   GA7   GD-3    1 pts
+    8. Valencia CF                P3  W0  D0  L3  GF1   GA4   GD-3    0 pts
+
+=== CUPS AND KNOCKOUT COMPETITIONS ===
+
+-- Barrages Ligue 1 (2 matches logged, 1 ties)
+   Final:
+     Angers SCO 2-3 AS Saint-Étienne (aggregate) | winner: AS Saint-Étienne
+       Leg 1: 2027-05-30 Angers SCO 1-2 AS Saint-Étienne
+       Leg 2: 2027-06-05 AS Saint-Étienne 1-1 Angers SCO
+   Champion / Winner: AS Saint-Étienne
+
+-- Carabao Cup (40 matches logged, 38 ties)
+   Final:
+     2027-03-21 Ipswich Town 2-1 Aston Villa | winner: Ipswich Town
+   Semi-Finals:
+     Aston Villa 6-1 West Ham United (aggregate) | winner: Aston Villa
+       Leg 1: 2027-01-12 Aston Villa 4-0 West Ham United
+       Leg 2: 2027-02-03 West Ham United 1-2 Aston Villa
+     Ipswich Town 2-2 Bristol Rovers (aggregate) (pens 3-2) | winner: Ipswich Town
+       Leg 1: 2027-01-13 Ipswich Town 1-1 Bristol Rovers
+       Leg 2: 2027-02-02 Bristol Rovers 1-1 Ipswich Town (pens 2-3)
+   Quarter-Finals:
+     2026-12-09 Everton 1-2 Bristol Rovers | winner: Bristol Rovers
+     2026-12-15 Liverpool 2-2 Ipswich Town (pens 3-4) | winner: Ipswich Town
+     2026-12-22 West Ham United 2-1 Newcastle United | winner: West Ham United
+     2026-12-23 Brighton & Hove Albion 2-2 Aston Villa (pens 4-5) | winner: Aston Villa
+   Round of 16:
+     2026-10-27 Hull City 1-1 Aston Villa (pens 4-5) | winner: Aston Villa
+     2026-10-27 Liverpool 2-1 Birmingham City | winner: Liverpool
+     2026-10-27 Newcastle United 2-0 Notts County | winner: Newcastle United
+     2026-10-27 Ipswich Town 2-1 Colchester United | winner: Ipswich Town
+     2026-10-27 Newport County 1-1 Brighton & Hove Albion (pens 2-3) | winner: Brighton & Hove Albion
+     2026-10-27 Everton 1-1 Grimsby Town (pens 4-3) | winner: Everton
+     2026-10-28 West Ham United 1-1 AFC Bournemouth (pens 4-2) | winner: West Ham United
+   Round of 32:
+     2026-09-15 Bristol Rovers 1-1 Brentford (pens 3-1) | winner: Bristol Rovers
+     2026-09-15 Sunderland 0-2 Brighton & Hove Albion | winner: Brighton & Hove Albion
+     2026-09-15 Mansfield Town 1-0 Nottingham Forest | winner: Mansfield Town
+     2026-09-15 Crawley Town 1-2 Hull City | winner: Hull City
+     2026-09-16 Tottenham Hotspur 2-2 Colchester United (pens 3-4) | winner: Colchester United
+     2026-09-16 AFC Bournemouth 1-0 Leicester City | winner: AFC Bournemouth
+     2026-09-16 Stockport County 1-4 Everton | winner: Everton
+     2026-09-22 Manchester United 1-1 West Ham United (pens 1-2) | winner: West Ham United
+     2026-09-22 Liverpool 3-2 Exeter City | winner: Liverpool
+     2026-09-22 Newport County 1-1 Fulham (pens 7-6) | winner: Newport County
+     2026-09-22 Arsenal 0-2 Notts County | winner: Notts County
+     2026-09-22 Ipswich Town 2-1 Chelsea | winner: Ipswich Town
+     2026-09-23 Manchester City 1-1 Grimsby Town (pens 2-4) | winner: Grimsby Town
+     2026-09-23 Aston Villa 0-0 Derby County (pens 3-2) | winner: Aston Villa
+     2026-09-23 Newcastle United 2-1 AFC Wimbledon | winner: Newcastle United
+   Round 1:
+     2026-08-25 AFC Bournemouth 1-1 Fleetwood Town (pens 4-2) | winner: AFC Bournemouth
+     2026-08-25 Shrewsbury 1-2 Hull City | winner: Hull City
+     2026-08-25 Ipswich Town 1-0 Luton Town | winner: Ipswich Town
+     2026-08-25 Mansfield Town 1-0 Leeds United | winner: Mansfield Town
+     2026-08-25 Tranmere Rovers 0-3 Fulham | winner: Fulham
+     2026-08-25 Everton 1-1 Crystal Palace (pens 3-2) | winner: Everton
+     2026-08-26 Walsall 0-0 Nottingham Forest (pens 3-5) | winner: Nottingham Forest
+     2026-08-26 Coventry City 0-1 Chelsea | winner: Chelsea
+     2026-08-26 Crewe Alexandra 0-2 Sunderland | winner: Sunderland
+   Champion / Winner: Ipswich Town
+
+-- Copa de España (31 matches logged, 29 ties)
+   Final:
+     2027-04-24 Atlético de Madrid 1-1 Valencia CF (pens 5-6) | winner: Valencia CF
+   Round 3 (6 ties, from 2027-02-03):
+     2027-02-03 CD Leganés 2-3 Atlético de Madrid | winner: Atlético de Madrid
+     2027-02-03 Getafe CF 0-1 Valencia CF | winner: Valencia CF
+     2027-02-03 Málaga CF 1-1 Real Sociedad (pens 1-3) | winner: Real Sociedad
+     2027-02-03 Rayo Vallecano 0-1 Real Betis Balompié | winner: Real Betis Balompié
+     Atlético de Madrid 2-1 Real Betis Balompié (aggregate) | winner: Atlético de Madrid
+       Leg 1: 2027-02-09 Real Betis Balompié 0-1 Atlético de Madrid
+       Leg 2: 2027-03-03 Atlético de Madrid 1-1 Real Betis Balompié
+     Real Sociedad 3-3 Valencia CF (aggregate) (pens 4-5) | winner: Real Sociedad
+       Leg 1: 2027-02-10 Real Sociedad 1-2 Valencia CF
+       Leg 2: 2027-03-02 Valencia CF 1-2 Real Sociedad
+   Round of 16:
+     2027-01-12 Real Racing Club 0-2 Atlético de Madrid | winner: Atlético de Madrid
+     2027-01-12 Sevilla FC 3-3 Real Sociedad (pens 0-2) | winner: Real Sociedad
+     2027-01-12 UD Las Palmas 1-4 Rayo Vallecano | winner: Rayo Vallecano
+     2027-01-12 Valencia CF 2-1 Real Club Celta de Vigo | winner: Valencia CF
+     2027-01-13 RCD Mallorca 1-2 Getafe CF | winner: Getafe CF
+     2027-01-13 Málaga CF 2-1 CA Osasuna | winner: Málaga CF
+     2027-01-13 Real Betis Balompié 2-1 Athletic Club | winner: Real Betis Balompié
+     2027-01-13 CD Leganés 3-1 Villarreal CF | winner: CD Leganés
+   Round 1 (14 ties, from 2026-12-15):
+     2026-12-15 Granada CF 0-1 Athletic Club | winner: Athletic Club
+     2026-12-15 Sevilla FC 2-0 Real Madrid | winner: Sevilla FC
+     2026-12-15 Málaga CF 1-0 Elche CF | winner: Málaga CF
+     2026-12-15 Valencia CF 1-1 FC Barcelona (pens 6-5) | winner: Valencia CF
+     2026-12-15 Deportivo Alavés 1-2 Rayo Vallecano | winner: Rayo Vallecano
+     2026-12-15 Real Oviedo 0-3 CA Osasuna | winner: CA Osasuna
+     2026-12-16 Burgos CF 1-2 Real Sociedad | winner: Real Sociedad
+     2026-12-16 Levante UD 1-2 Villarreal CF | winner: Villarreal CF
+     2026-12-16 Córdoba CF 0-2 Real Racing Club | winner: Real Racing Club
+     2026-12-16 RCD Mallorca 1-0 RCD Espanyol de Barcelona | winner: RCD Mallorca
+     2026-12-16 SD Huesca 1-4 Real Club Celta de Vigo | winner: Real Club Celta de Vigo
+     2026-12-23 Cultural Leonesa 1-2 Getafe CF | winner: Getafe CF
+     2026-12-23 Albacete Balompié 0-2 Atlético de Madrid | winner: Atlético de Madrid
+     2026-12-23 RC Deportivo 1-1 Real Betis Balompié (pens 0-1) | winner: Real Betis Balompié
+   Champion / Winner: Valencia CF
+
+-- Coppa Italia (31 matches logged, 29 ties)
+   Final:
+     2027-05-12 Juventus 1-2 Bergamo Calcio | winner: Bergamo Calcio
+   Semi-Finals:
+     Juventus 2-1 AS Roma (aggregate) | winner: Juventus
+       Leg 1: 2027-03-02 AS Roma 0-1 Juventus
+       Leg 2: 2027-04-20 Juventus 1-1 AS Roma
+     Cagliari 1-2 Bergamo Calcio (aggregate) | winner: Bergamo Calcio
+       Leg 1: 2027-03-03 Cagliari 0-2 Bergamo Calcio
+       Leg 2: 2027-04-20 Bergamo Calcio 0-1 Cagliari
+   Quarter-Finals:
+     2027-02-02 AS Roma 3-2 Latium | winner: AS Roma
+     2027-02-02 Carrarese Calcio 1908 1-2 Bergamo Calcio | winner: Bergamo Calcio
+     2027-02-03 Genoa 0-1 Cagliari | winner: Cagliari
+     2027-02-03 Lombardia FC 0-2 Juventus | winner: Juventus
+   Round of 16:
+     2026-12-15 AS Roma 3-0 Palermo | winner: AS Roma
+     2026-12-15 Genoa 2-1 Calcio Padova | winner: Genoa
+     2026-12-15 Parma 1-3 Juventus | winner: Juventus
+     2026-12-15 Cagliari 1-0 Fiorentina | winner: Cagliari
+     2026-12-16 Latium 3-1 Venezia | winner: Latium
+     2026-12-16 Lombardia FC 2-1 SSC Napoli | winner: Lombardia FC
+     2026-12-16 Milano FC 3-3 Carrarese Calcio 1908 (pens 8-9) | winner: Carrarese Calcio 1908
+     2026-12-23 Bergamo Calcio 2-1 Mantova | winner: Bergamo Calcio
+   Round of 32:
+     2026-09-16 Juventus 2-1 Bologna | winner: Juventus
+     2026-09-22 Cesena 1-3 Venezia | winner: Venezia
+     2026-09-22 Bari 0-3 SSC Napoli | winner: SSC Napoli
+     2026-09-23 Pisa 1-1 Fiorentina (pens 1-4) | winner: Fiorentina
+   Round 1:
+     2026-08-15 Lecce 0-2 Bologna | winner: Bologna
+     2026-08-15 Venezia 1-0 Virtus Entella | winner: Venezia
+     2026-08-15 Como 1907 0-2 SSC Napoli | winner: SSC Napoli
+     2026-08-15 Torino 0-3 Avellino | winner: Avellino
+     2026-08-15 Juventus 3-0 Empoli | winner: Juventus
+     2026-08-15 Sassuolo 0-1 Mantova | winner: Mantova
+     2026-08-16 Sampdoria 0-3 Fiorentina | winner: Fiorentina
+     2026-08-16 Monza 0-1 Pisa | winner: Pisa
+     2026-08-16 Bari 1-0 Frosinone | winner: Bari
+     2026-08-16 Udinese 0-2 Calcio Padova | winner: Calcio Padova
+   Champion / Winner: Bergamo Calcio
+
+-- Coupe de France (25 matches logged, 25 ties)
+   Final:
+     2027-05-22 Olympique de Marseille 0-0 AS Monaco (pens 3-2) | winner: Olympique de Marseille
+   Semi-Finals:
+     2027-03-02 RC Strasbourg Alsace 1-2 Olympique de Marseille | winner: Olympique de Marseille
+     2027-03-03 AS Monaco 0-0 FC Annecy (pens 5-3) | winner: AS Monaco
+   Round 2 (9 ties, from 2027-02-02):
+     2027-02-02 En Avant Guingamp 2-1 OGC Nice | winner: En Avant Guingamp
+     2027-02-02 Le Mans FC 2-2 RC Strasbourg Alsace (pens 2-4) | winner: RC Strasbourg Alsace
+     2027-02-02 Stade Rennais FC 1-2 RC Lens | winner: RC Lens
+     2027-02-03 AS Nancy Lorraine 2-0 Paris Saint-Germain | winner: AS Nancy Lorraine
+     2027-02-03 Olympique de Marseille 1-1 FC Nantes (pens 3-0) | winner: Olympique de Marseille
+     2027-02-03 Paris FC 0-1 AS Monaco | winner: AS Monaco
+     2027-02-09 RC Lens 0-3 AS Monaco | winner: AS Monaco
+     2027-02-09 En Avant Guingamp 1-2 Olympique de Marseille | winner: Olympique de Marseille
+     2027-02-10 RC Strasbourg Alsace 3-0 Stade Lavallois MFC | winner: RC Strasbourg Alsace
+   Round 1 (13 ties, from 2027-01-09):
+     2027-01-09 AJ Auxerre 0-1 FC Annecy | winner: FC Annecy
+     2027-01-09 Montpellier Hérault SC 0-1 OGC Nice | winner: OGC Nice
+     2027-01-09 Clermont Foot 63 1-2 Stade Rennais FC | winner: Stade Rennais FC
+     2027-01-09 AS Nancy Lorraine 2-1 LOSC Lille | winner: AS Nancy Lorraine
+     2027-01-09 Stade Brestois 29 1-2 Stade de Reims | winner: Stade de Reims
+     2027-01-09 FC Metz 1-2 Paris FC | winner: Paris FC
+     2027-01-09 Le Mans FC 2-1 Havre AC | winner: Le Mans FC
+     2027-01-09 En Avant Guingamp 3-1 Angers SCO | winner: En Avant Guingamp
+     2027-01-10 FC Lorient 1-3 Paris Saint-Germain | winner: Paris Saint-Germain
+     2027-01-10 ESTAC Troyes 0-2 Olympique de Marseille | winner: Olympique de Marseille
+     2027-01-10 Red Star FC 0-2 AS Monaco | winner: AS Monaco
+     2027-01-10 RC Lens 2-1 Olympique Lyonnais | winner: RC Lens
+     2027-01-10 RC Strasbourg Alsace 1-1 Toulouse FC (pens 3-1) | winner: RC Strasbourg Alsace
+   Champion / Winner: Olympique de Marseille
+
+-- Croky Cup (17 matches logged, 15 ties)
+   Final:
+     2027-05-30 SV Zulte Waregem 2-1 Club Brugge | winner: SV Zulte Waregem
+   Round 2 (6 ties, from 2027-01-09):
+     2027-01-09 Royale Union Saint-Gilloise 1-2 Club Brugge | winner: Club Brugge
+     2027-01-09 FCV Dender EH 0-1 KRC Genk | winner: KRC Genk
+     2027-01-09 Sporting Charleroi 0-1 SV Zulte Waregem | winner: SV Zulte Waregem
+     2027-01-10 Cercle Brugge KSV 1-1 Standard de Liège (pens 4-3) | winner: Cercle Brugge KSV
+     Club Brugge 2-1 Cercle Brugge KSV (aggregate) | winner: Club Brugge
+       Leg 1: 2027-01-12 Club Brugge 1-1 Cercle Brugge KSV
+       Leg 2: 2027-02-02 Cercle Brugge KSV 0-1 Club Brugge
+     KRC Genk 3-4 SV Zulte Waregem (aggregate) | winner: SV Zulte Waregem
+       Leg 1: 2027-01-12 SV Zulte Waregem 3-1 KRC Genk
+       Leg 2: 2027-02-03 KRC Genk 2-1 SV Zulte Waregem
+   Round of 16:
+     2026-12-01 Sint-Truidense VV 1-1 Standard de Liège (pens 3-4) | winner: Standard de Liège
+     2026-12-02 KRC Genk 2-1 RSC Anderlecht | winner: KRC Genk
+     2026-12-02 Royal Antwerp FC 1-3 Club Brugge | winner: Club Brugge
+     2026-12-02 RAAL La Louvière 1-2 SV Zulte Waregem | winner: SV Zulte Waregem
+     2026-12-02 KAA Gent 0-1 Royale Union Saint-Gilloise | winner: Royale Union Saint-Gilloise
+     2026-12-02 Cercle Brugge KSV 1-0 Oud-Heverlee Leuven | winner: Cercle Brugge KSV
+     2026-12-02 KV Mechelen 1-2 FCV Dender EH | winner: FCV Dender EH
+     2026-12-02 Sporting Charleroi 0-0 KVC Westerlo (pens 7-6) | winner: Sporting Charleroi
+   Champion / Winner: SV Zulte Waregem
+
+-- DFB-Pokal (24 matches logged, 24 ties)
+   Final:
+     2027-05-22 FC Bayern München 2-2 Holstein Kiel (pens 3-2) | winner: FC Bayern München
+   Semi-Finals:
+     2027-04-20 1. FC Union Berlin 1-2 FC Bayern München | winner: FC Bayern München
+   Quarter-Finals:
+     2027-02-02 Eintracht Braunschweig 0-3 1. FC Union Berlin | winner: 1. FC Union Berlin
+     2027-02-02 Eintracht Frankfurt 1-2 FC Bayern München | winner: FC Bayern München
+     2027-02-02 Borussia Mönchengladbach 1-2 Holstein Kiel | winner: Holstein Kiel  <== YOUR CLUB
+     2027-02-03 VfL Osnabrück 1-1 Borussia Dortmund (pens 3-2) | winner: VfL Osnabrück
+   Round of 16:
+     2026-12-01 Borussia Mönchengladbach 2-1 1. FC Köln | winner: Borussia Mönchengladbach  <== YOUR CLUB
+     2026-12-01 FC Bayern München 2-0 SV Werder Bremen | winner: FC Bayern München
+     2026-12-01 1. FC Union Berlin 1-0 FC Erzgebirge Aue | winner: 1. FC Union Berlin
+     2026-12-02 Borussia Dortmund 3-2 FC Augsburg | winner: Borussia Dortmund
+     2026-12-02 TSG Hoffenheim 0-2 Eintracht Frankfurt | winner: Eintracht Frankfurt
+   Round of 32:
+     2026-10-27 1. FC Union Berlin 1-0 1. FC Nürnberg | winner: 1. FC Union Berlin
+     2026-10-27 SV Elversberg 2-2 Karlsruher SC (pens 4-5) | winner: Karlsruher SC
+     2026-10-27 FC Augsburg 2-1 VfB Stuttgart | winner: FC Augsburg
+     2026-10-27 Eintracht Braunschweig 1-0 FC Schalke 04 | winner: Eintracht Braunschweig
+     2026-10-27 RB Leipzig 0-1 TSG Hoffenheim | winner: TSG Hoffenheim
+     2026-10-27 FC Bayern München 1-0 SC Paderborn 07 | winner: FC Bayern München
+     2026-10-27 FC Energie Cottbus 1-1 1. FSV Mainz 05 (pens 2-0) | winner: FC Energie Cottbus
+     2026-10-27 Bayer 04 Leverkusen 1-2 FC Erzgebirge Aue | winner: FC Erzgebirge Aue
+     2026-10-28 Eintracht Frankfurt 2-1 Hamburger SV | winner: Eintracht Frankfurt
+     2026-10-28 Borussia Mönchengladbach 3-1 1. FC Heidenheim 1846 | winner: Borussia Mönchengladbach  <== YOUR CLUB
+     2026-10-28 SpVgg Greuther Fürth 2-3 Borussia Dortmund | winner: Borussia Dortmund
+     2026-10-28 SSV Ulm 1846 1-2 SV Werder Bremen | winner: SV Werder Bremen
+     2026-10-28 Sport-Club Freiburg 1-2 1. FC Köln | winner: 1. FC Köln
+   Champion / Winner: FC Bayern München
+
+-- EA SPORTS FC Supercup (3 matches logged, 3 ties)
+   Round 1 (3 ties, from 2026-12-31):
+     2026-12-31 Lombardia FC 1-1 Milano FC (pens 3-2) | winner: Lombardia FC
+     2026-12-31 SSC Napoli 2-1 Latium | winner: SSC Napoli
+     2027-01-04 Lombardia FC 1-2 SSC Napoli | winner: SSC Napoli
+
+-- Emirates FA Cup (40 matches logged, 40 ties)
+   Final:
+     2027-05-15 Manchester City 2-1 Arsenal | winner: Manchester City
+   Semi-Finals:
+     2027-04-24 Arsenal 1-1 Ipswich Town (pens 3-2) | winner: Arsenal
+     2027-04-24 AFC Bournemouth 2-3 Manchester City | winner: Manchester City
+   Quarter-Finals:
+     2027-04-03 Wolverhampton Wanderers 0-2 Arsenal | winner: Arsenal
+     2027-04-03 AFC Bournemouth 2-0 Stoke City | winner: AFC Bournemouth
+     2027-04-03 Manchester City 2-1 Hull City | winner: Manchester City
+     2027-04-04 Ipswich Town 3-1 Newcastle United | winner: Ipswich Town
+   Round of 16:
+     2027-03-06 Liverpool 2-3 Ipswich Town | winner: Ipswich Town
+     2027-03-06 Hull City 1-0 Queens Park Rangers | winner: Hull City
+     2027-03-06 Newcastle United 2-1 Nottingham Forest | winner: Newcastle United
+     2027-03-06 Tottenham Hotspur 0-1 Manchester City | winner: Manchester City
+     2027-03-07 Arsenal 3-1 Colchester United | winner: Arsenal
+     2027-03-07 AFC Bournemouth 3-2 Everton | winner: AFC Bournemouth
+   Round of 32:
+     2027-02-13 Bristol Rovers 1-4 Arsenal | winner: Arsenal
+     2027-02-13 AFC Bournemouth 1-1 Middlesbrough (pens 4-3) | winner: AFC Bournemouth
+     2027-02-13 Brighton & Hove Albion 0-1 Newcastle United | winner: Newcastle United
+     2027-02-13 Nottingham Forest 3-1 Gillingham | winner: Nottingham Forest
+     2027-02-13 Tottenham Hotspur 2-1 Cardiff City | winner: Tottenham Hotspur
+     2027-02-13 Manchester City 3-1 Manchester United | winner: Manchester City
+     2027-02-13 Everton 3-0 Bristol City | winner: Everton
+     2027-02-13 Liverpool 3-2 Southampton | winner: Liverpool
+     2027-02-13 Ipswich Town 1-0 Charlton Athletic | winner: Ipswich Town
+     2027-02-14 Hull City 2-2 Bradford City (pens 5-3) | winner: Hull City
+   Round 1:
+     2027-01-09 Arsenal 2-1 Chelsea | winner: Arsenal
+     2027-01-09 Millwall 0-2 Manchester United | winner: Manchester United
+     2027-01-09 Liverpool 2-0 Preston North End | winner: Liverpool
+     2027-01-09 Leeds United 2-3 Manchester City | winner: Manchester City
+     2027-01-09 Newcastle United 2-0 West Bromwich Albion | winner: Newcastle United
+     2027-01-09 Swansea City 2-0 Sunderland | winner: Swansea City
+     2027-01-09 Northampton Town 1-3 AFC Bournemouth | winner: AFC Bournemouth
+     2027-01-09 Tottenham Hotspur 2-1 Wrexham | winner: Tottenham Hotspur
+     2027-01-09 Everton 2-1 Fulham | winner: Everton
+     2027-01-09 Bristol Rovers 2-0 Crystal Palace | winner: Bristol Rovers
+     2027-01-09 Hull City 2-0 Blackburn Rovers | winner: Hull City
+     2027-01-09 Wycombe Wanderers 1-0 Aston Villa | winner: Wycombe Wanderers
+     2027-01-09 Derby County 1-3 Brighton & Hove Albion | winner: Brighton & Hove Albion
+     2027-01-09 Nottingham Forest 2-1 Bolton Wanderers | winner: Nottingham Forest
+     2027-01-09 Coventry City 1-2 Salford City | winner: Salford City
+     2027-01-09 Stockport County 1-0 Brentford | winner: Stockport County
+     2027-01-10 Portsmouth 1-2 Ipswich Town | winner: Ipswich Town
+   Champion / Winner: Manchester City
+
+-- European International Cup (12 matches logged, 12 ties)
+   Round 1 (12 ties, from 2026-07-25):
+     2026-07-25 Borussia Mönchengladbach 1-0 Valencia CF | winner: Borussia Mönchengladbach  <== YOUR CLUB
+     2026-07-25 Real Club Celta de Vigo 0-0 Leeds United
+     2026-07-25 Rayo Vallecano 1-1 Fulham
+     2026-07-25 Fiorentina 1-0 Brighton & Hove Albion | winner: Fiorentina
+     2026-07-28 Brighton & Hove Albion 1-0 Valencia CF | winner: Brighton & Hove Albion
+     2026-07-28 Leeds United 3-2 Rayo Vallecano | winner: Leeds United
+     2026-07-28 Fulham 1-2 Fiorentina | winner: Fiorentina
+     2026-07-28 Real Club Celta de Vigo 0-2 Borussia Mönchengladbach | winner: Borussia Mönchengladbach  <== YOUR CLUB
+     2026-08-01 Fiorentina 2-0 Leeds United | winner: Fiorentina
+     2026-08-01 Valencia CF 1-2 Fulham | winner: Fulham
+     2026-08-01 Borussia Mönchengladbach 4-0 Brighton & Hove Albion | winner: Borussia Mönchengladbach  <== YOUR CLUB
+     2026-08-01 Rayo Vallecano 1-3 Real Club Celta de Vigo | winner: Real Club Celta de Vigo
+
+-- F. Beckenbauer Supercup (1 matches logged, 1 ties)
+   Final:
+     2026-08-16 FC Bayern München 1-1 Borussia Dortmund (pens 1-4) | winner: Borussia Dortmund
+   Champion / Winner: Borussia Dortmund
+
+-- FA Community Shield (1 matches logged, 1 ties)
+   Final:
+     2026-08-08 Manchester City 0-0 Arsenal (pens 3-2) | winner: Manchester City
+   Champion / Winner: Manchester City
+
+-- Oranje Beker (17 matches logged, 17 ties)
+   Final:
+     2027-04-18 FC Utrecht 0-2 PSV | winner: PSV
+   Semi-Finals:
+     2027-03-03 Excelsior Rotterdam 0-1 FC Utrecht | winner: FC Utrecht
+     2027-03-04 PSV 4-0 sc Heerenveen | winner: PSV
+   Quarter-Finals:
+     2027-02-02 PSV 4-0 FC Groningen | winner: PSV
+     2027-02-03 sc Heerenveen 2-2 FC Twente (pens 4-3) | winner: sc Heerenveen
+     2027-02-03 Excelsior Rotterdam 3-2 Ajax | winner: Excelsior Rotterdam
+     2027-02-03 Sparta Rotterdam 1-5 FC Utrecht | winner: FC Utrecht
+   Round of 16:
+     2026-12-01 AZ 0-1 FC Twente | winner: FC Twente
+     2026-12-01 Sparta Rotterdam 2-0 FC Volendam | winner: Sparta Rotterdam
+     2026-12-01 PSV 1-1 Feyenoord (pens 4-3) | winner: PSV
+     2026-12-01 NAC Breda 1-3 Ajax | winner: Ajax
+     2026-12-02 N.E.C. Nijmegen 0-2 FC Groningen | winner: FC Groningen
+     2026-12-02 Fortuna Sittard 1-2 Excelsior Rotterdam | winner: Excelsior Rotterdam
+     2026-12-02 FC Utrecht 2-1 Telstar | winner: FC Utrecht
+     2026-12-02 Go Ahead Eagles 1-1 sc Heerenveen (pens 4-5) | winner: sc Heerenveen
+   Round of 32:
+     2026-10-27 Heracles Almelo 1-2 Feyenoord | winner: Feyenoord
+     2026-10-28 Excelsior Rotterdam 2-2 PEC Zwolle (pens 3-2) | winner: Excelsior Rotterdam
+   Champion / Winner: PSV
+
+-- Pro League Play-Off (1 matches logged, 1 ties)
+   Final:
+     2027-06-05 KAA Gent 1-0 KV Mechelen | winner: KAA Gent
+   Champion / Winner: KAA Gent
+
+-- Relegation Play-Offs (2 matches logged, 1 ties)
+   Final:
+     SC Paderborn 07 4-3 SV Darmstadt 98 (aggregate) | winner: SC Paderborn 07
+       Leg 1: 2027-06-02 SC Paderborn 07 1-1 SV Darmstadt 98
+       Leg 2: 2027-06-06 SV Darmstadt 98 2-3 SC Paderborn 07
+   Champion / Winner: SC Paderborn 07
+
+-- Supercopa (3 matches logged, 3 ties)
+   Round 1 (3 ties, from 2027-01-06):
+     2027-01-06 Real Sociedad 1-3 Real Madrid | winner: Real Madrid
+     2027-01-07 FC Barcelona 2-0 Atlético de Madrid | winner: FC Barcelona
+     2027-01-10 Real Madrid 2-3 FC Barcelona | winner: FC Barcelona
+
+-- Taça Portuguesa (19 matches logged, 17 ties)
+   Final:
+     2027-05-22 SL Benfica 0-3 Sporting CP | winner: Sporting CP
+   Semi-Finals:
+     SL Benfica 8-0 FC Famalicão (aggregate) | winner: SL Benfica
+       Leg 1: 2027-03-02 SL Benfica 4-0 FC Famalicão
+       Leg 2: 2027-04-21 FC Famalicão 0-4 SL Benfica
+     Sporting CP 3-2 Gil Vicente FC (aggregate) | winner: Sporting CP
+       Leg 1: 2027-03-02 Sporting CP 0-1 Gil Vicente FC
+       Leg 2: 2027-04-20 Gil Vicente FC 1-3 Sporting CP
+   Quarter-Finals:
+     2027-02-02 FC Famalicão 2-0 Casa Pia AC | winner: FC Famalicão
+     2027-02-02 CD Nacional 0-3 Sporting CP | winner: Sporting CP
+     2027-02-02 FC Porto 0-2 SL Benfica | winner: SL Benfica
+     2027-02-03 Gil Vicente FC 2-1 Estoril Praia | winner: Gil Vicente FC
+   Round of 16:
+     2027-01-12 Santa Clara 0-2 FC Porto | winner: FC Porto
+     2027-01-12 Sporting CP 2-0 Vitória SC | winner: Sporting CP
+     2027-01-12 Moreirense FC 1-3 Estoril Praia | winner: Estoril Praia
+     2027-01-13 Gil Vicente FC 2-1 CD Tondela | winner: Gil Vicente FC
+     2027-01-13 FC Famalicão 1-1 FC Arouca (pens 2-1) | winner: FC Famalicão
+     2027-01-14 CD Nacional 2-0 FC Alverca | winner: CD Nacional
+     2027-01-14 Casa Pia AC 0-0 Rio Ave FC (pens 4-3) | winner: Casa Pia AC
+     2027-01-14 SL Benfica 2-0 SC Braga | winner: SL Benfica
+   Round of 32:
+     2026-12-15 Estrela Amadora 0-1 FC Porto | winner: FC Porto
+     2026-12-16 FC Alverca 1-1 AVS Futebol SAD (pens 2-1) | winner: FC Alverca
+   Champion / Winner: Sporting CP
+
+-- Trophée Champ. (1 matches logged, 1 ties)
+   Final:
+     2027-01-06 RC Lens 0-0 Paris Saint-Germain (pens 2-3) | winner: Paris Saint-Germain
+   Champion / Winner: Paris Saint-Germain
+
+-- UEFA Champions League (45 matches logged, 23 ties)
+   Final:
+     2027-05-29 Paris Saint-Germain 3-0 Manchester City | winner: Paris Saint-Germain
+   Semi-Finals:
+     Manchester City 3-1 Atlético de Madrid (aggregate) | winner: Manchester City
+       Leg 1: 2027-04-27 Atlético de Madrid 1-2 Manchester City
+       Leg 2: 2027-05-05 Manchester City 1-0 Atlético de Madrid
+     Paris Saint-Germain 5-3 FC Barcelona (aggregate) | winner: Paris Saint-Germain
+       Leg 1: 2027-04-28 Paris Saint-Germain 3-3 FC Barcelona
+       Leg 2: 2027-05-04 FC Barcelona 0-2 Paris Saint-Germain
+   Quarter-Finals:
+     FC Bayern München 1-2 Atlético de Madrid (aggregate) | winner: Atlético de Madrid
+       Leg 1: 2027-04-06 Atlético de Madrid 0-1 FC Bayern München
+       Leg 2: 2027-04-14 FC Bayern München 0-2 Atlético de Madrid
+     Manchester City 3-0 Borussia Dortmund (aggregate) | winner: Manchester City
+       Leg 1: 2027-04-06 Borussia Dortmund 0-2 Manchester City
+       Leg 2: 2027-04-14 Manchester City 1-0 Borussia Dortmund
+     Arsenal 3-4 FC Barcelona (aggregate) | winner: FC Barcelona
+       Leg 1: 2027-04-07 Arsenal 2-2 FC Barcelona
+       Leg 2: 2027-04-13 FC Barcelona 2-1 Arsenal
+     LOSC Lille 1-4 Paris Saint-Germain (aggregate) | winner: Paris Saint-Germain
+       Leg 1: 2027-04-07 LOSC Lille 0-1 Paris Saint-Germain
+       Leg 2: 2027-04-13 Paris Saint-Germain 3-1 LOSC Lille
+   Round of 16:
+     AS Roma 1-3 Atlético de Madrid (aggregate) | winner: Atlético de Madrid
+       Leg 1: 2027-03-09 AS Roma 0-2 Atlético de Madrid
+       Leg 2: 2027-03-17 Atlético de Madrid 1-1 AS Roma
+     Liverpool 2-4 LOSC Lille (aggregate) | winner: LOSC Lille
+       Leg 1: 2027-03-09 LOSC Lille 1-1 Liverpool
+       Leg 2: 2027-03-17 Liverpool 1-3 LOSC Lille
+     Paris Saint-Germain 5-2 Lombardia FC (aggregate) | winner: Paris Saint-Germain
+       Leg 1: 2027-03-09 Lombardia FC 1-2 Paris Saint-Germain
+       Leg 2: 2027-03-17 Paris Saint-Germain 3-1 Lombardia FC
+     FC Bayern München 3-2 FC Porto (aggregate) | winner: FC Bayern München
+       Leg 1: 2027-03-09 FC Porto 2-2 FC Bayern München
+       Leg 2: 2027-03-17 FC Bayern München 1-0 FC Porto
+     Manchester City 7-2 VfB Stuttgart (aggregate) | winner: Manchester City
+       Leg 1: 2027-03-10 VfB Stuttgart 1-3 Manchester City
+       Leg 2: 2027-03-16 Manchester City 4-1 VfB Stuttgart
+     Borussia Dortmund 3-2 Real Madrid (aggregate) | winner: Borussia Dortmund
+       Leg 1: 2027-03-10 Real Madrid 1-1 Borussia Dortmund
+       Leg 2: 2027-03-16 Borussia Dortmund 2-1 Real Madrid
+     Arsenal 5-2 Manchester United (aggregate) | winner: Arsenal
+       Leg 1: 2027-03-10 Manchester United 0-3 Arsenal
+       Leg 2: 2027-03-16 Arsenal 2-2 Manchester United
+     SSC Napoli 2-5 FC Barcelona (aggregate) | winner: FC Barcelona
+       Leg 1: 2027-03-10 FC Barcelona 1-1 SSC Napoli
+       Leg 2: 2027-03-16 SSC Napoli 1-4 FC Barcelona
+   Knockout Round Play-offs:
+     AS Roma 5-3 Villarreal CF (aggregate) | winner: AS Roma
+       Leg 1: 2027-02-16 Villarreal CF 2-3 AS Roma
+       Leg 2: 2027-02-24 AS Roma 2-1 Villarreal CF
+     Real Madrid 7-1 Feyenoord (aggregate) | winner: Real Madrid
+       Leg 1: 2027-02-16 Feyenoord 1-5 Real Madrid
+       Leg 2: 2027-02-24 Real Madrid 2-0 Feyenoord
+     VfB Stuttgart 3-2 RB Leipzig (aggregate) | winner: VfB Stuttgart
+       Leg 1: 2027-02-16 RB Leipzig 1-1 VfB Stuttgart
+       Leg 2: 2027-02-24 VfB Stuttgart 2-1 RB Leipzig
+     FC Porto 5-2 AEK Athens (aggregate) | winner: FC Porto
+       Leg 1: 2027-02-16 AEK Athens 2-2 FC Porto
+       Leg 2: 2027-02-24 FC Porto 3-0 AEK Athens
+     PSV 2-4 Lombardia FC (aggregate) | winner: Lombardia FC
+       Leg 1: 2027-02-17 PSV 0-2 Lombardia FC
+       Leg 2: 2027-02-23 Lombardia FC 2-2 PSV
+     Manchester United 4-2 Galatasaray SK (aggregate) | winner: Manchester United
+       Leg 1: 2027-02-17 Galatasaray SK 2-1 Manchester United
+       Leg 2: 2027-02-23 Manchester United 3-0 Galatasaray SK
+     LOSC Lille 3-1 Como 1907 (aggregate) | winner: LOSC Lille
+       Leg 1: 2027-02-17 LOSC Lille 2-1 Como 1907
+       Leg 2: 2027-02-23 Como 1907 0-1 LOSC Lille
+     Sporting CP 3-5 FC Barcelona (aggregate) | winner: FC Barcelona
+       Leg 1: 2027-02-17 Sporting CP 1-3 FC Barcelona
+       Leg 2: 2027-02-23 FC Barcelona 2-2 Sporting CP
+   Champion / Winner: Paris Saint-Germain
+
+-- UEFA Conference League (45 matches logged, 23 ties)
+   Final:
+     2027-05-26 Ajax 2-2 Bergamo Calcio (pens 6-5) | winner: Ajax
+   Semi-Finals:
+     AS Monaco 3-4 Ajax (aggregate) | winner: Ajax
+       Leg 1: 2027-04-29 Ajax 1-2 AS Monaco
+       Leg 2: 2027-05-06 AS Monaco 1-3 Ajax
+     Brighton & Hove Albion 2-3 Bergamo Calcio (aggregate) | winner: Bergamo Calcio
+       Leg 1: 2027-04-29 Brighton & Hove Albion 1-2 Bergamo Calcio
+       Leg 2: 2027-05-06 Bergamo Calcio 1-1 Brighton & Hove Albion
+   Quarter-Finals:
+     AS Monaco 4-2 FC FCSB (aggregate) | winner: AS Monaco
+       Leg 1: 2027-04-08 FC FCSB 1-3 AS Monaco
+       Leg 2: 2027-04-15 AS Monaco 1-1 FC FCSB
+     Brighton & Hove Albion 4-3 Dynamo Kyiv (aggregate) | winner: Brighton & Hove Albion
+       Leg 1: 2027-04-08 Dynamo Kyiv 2-2 Brighton & Hove Albion
+       Leg 2: 2027-04-15 Brighton & Hove Albion 2-1 Dynamo Kyiv
+     Ajax 5-3 Trabzonspor (aggregate) | winner: Ajax
+       Leg 1: 2027-04-08 Ajax 2-1 Trabzonspor
+       Leg 2: 2027-04-15 Trabzonspor 2-3 Ajax
+     Hammarby IF 3-6 Bergamo Calcio (aggregate) | winner: Bergamo Calcio
+       Leg 1: 2027-04-08 Bergamo Calcio 3-2 Hammarby IF
+       Leg 2: 2027-04-15 Hammarby IF 1-3 Bergamo Calcio
+   Round of 16:
+     AS Monaco 3-2 RAMS Başakşehir (aggregate) | winner: AS Monaco
+       Leg 1: 2027-03-11 RAMS Başakşehir 1-1 AS Monaco
+       Leg 2: 2027-03-18 AS Monaco 2-1 RAMS Başakşehir
+     Motherwell 2-4 Hammarby IF (aggregate) | winner: Hammarby IF
+       Leg 1: 2027-03-11 Hammarby IF 1-2 Motherwell
+       Leg 2: 2027-03-18 Motherwell 0-3 Hammarby IF
+     RKS Raków Częstochowa 1-5 Bergamo Calcio (aggregate) | winner: Bergamo Calcio
+       Leg 1: 2027-03-11 RKS Raków Częstochowa 1-0 Bergamo Calcio
+       Leg 2: 2027-03-18 Bergamo Calcio 5-0 RKS Raków Częstochowa
+     Sport-Club Freiburg 0-1 Dynamo Kyiv (aggregate) | winner: Dynamo Kyiv
+       Leg 1: 2027-03-11 Dynamo Kyiv 1-0 Sport-Club Freiburg
+       Leg 2: 2027-03-18 Sport-Club Freiburg 0-0 Dynamo Kyiv
+     KAA Gent 2-5 Brighton & Hove Albion (aggregate) | winner: Brighton & Hove Albion
+       Leg 1: 2027-03-11 Brighton & Hove Albion 2-1 KAA Gent
+       Leg 2: 2027-03-18 KAA Gent 1-3 Brighton & Hove Albion
+     Ajax 3-3 Jagiellonia Białystok (aggregate) (pens 4-2) | winner: Ajax
+       Leg 1: 2027-03-11 Jagiellonia Białystok 1-1 Ajax
+       Leg 2: 2027-03-18 Ajax 2-2 Jagiellonia Białystok (pens 4-2)
+     FC FCSB 2-1 ASFC Universitatea Cluj (aggregate) | winner: FC FCSB
+       Leg 1: 2027-03-11 ASFC Universitatea Cluj 1-2 FC FCSB
+       Leg 2: 2027-03-18 FC FCSB 0-0 ASFC Universitatea Cluj
+     Trabzonspor 4-0 Derry City (aggregate) | winner: Trabzonspor
+       Leg 1: 2027-03-11 Trabzonspor 2-0 Derry City
+       Leg 2: 2027-03-18 Derry City 0-2 Trabzonspor
+   Knockout Round Play-offs:
+     Brighton & Hove Albion 6-0 GAIS (aggregate) | winner: Brighton & Hove Albion
+       Leg 1: 2027-02-18 GAIS 0-3 Brighton & Hove Albion
+       Leg 2: 2027-02-25 Brighton & Hove Albion 3-0 GAIS
+     Górnik Zabrze 2-4 Trabzonspor (aggregate) | winner: Trabzonspor
+       Leg 1: 2027-02-18 Górnik Zabrze 2-1 Trabzonspor
+       Leg 2: 2027-02-25 Trabzonspor 3-0 Górnik Zabrze
+     Rosenborg BK 1-2 Hammarby IF (aggregate) | winner: Hammarby IF
+       Leg 1: 2027-02-18 Hammarby IF 1-0 Rosenborg BK
+       Leg 2: 2027-02-25 Rosenborg BK 1-1 Hammarby IF
+     Shelbourne FC 1-5 ASFC Universitatea Cluj (aggregate) | winner: ASFC Universitatea Cluj
+       Leg 1: 2027-02-18 Shelbourne FC 1-2 ASFC Universitatea Cluj
+       Leg 2: 2027-02-25 ASFC Universitatea Cluj 3-0 Shelbourne FC
+     FC Thun 1-4 Jagiellonia Białystok (aggregate) | winner: Jagiellonia Białystok
+       Leg 1: 2027-02-18 FC Thun 1-3 Jagiellonia Białystok
+       Leg 2: 2027-02-25 Jagiellonia Białystok 1-0 FC Thun
+     FC Lugano 1-2 RAMS Başakşehir (aggregate) | winner: RAMS Başakşehir
+       Leg 1: 2027-02-18 FC Lugano 0-2 RAMS Başakşehir
+       Leg 2: 2027-02-25 RAMS Başakşehir 0-1 FC Lugano
+     FC Nordsjælland 2-4 Dynamo Kyiv (aggregate) | winner: Dynamo Kyiv
+       Leg 1: 2027-02-18 FC Nordsjælland 0-3 Dynamo Kyiv
+       Leg 2: 2027-02-25 Dynamo Kyiv 1-2 FC Nordsjælland
+     Sint-Truidense VV 3-4 RKS Raków Częstochowa (aggregate) | winner: RKS Raków Częstochowa
+       Leg 1: 2027-02-18 Sint-Truidense VV 2-1 RKS Raków Częstochowa
+       Leg 2: 2027-02-25 RKS Raków Częstochowa 3-1 Sint-Truidense VV
+   Champion / Winner: Ajax
+
+-- UEFA Europa League (45 matches logged, 23 ties)
+   Final:
+     2027-05-19 SL Benfica 1-2 Milano FC | winner: Milano FC
+   Semi-Finals:
+     Juventus 1-2 Milano FC (aggregate) | winner: Milano FC
+       Leg 1: 2027-04-29 Juventus 1-2 Milano FC
+       Leg 2: 2027-05-06 Milano FC 0-0 Juventus
+     SL Benfica 3-1 Olympiacos FC (aggregate) | winner: SL Benfica
+       Leg 1: 2027-04-29 SL Benfica 1-0 Olympiacos FC
+       Leg 2: 2027-05-06 Olympiacos FC 1-2 SL Benfica
+   Quarter-Finals:
+     Bayer 04 Leverkusen 4-4 Milano FC (aggregate) (pens 5-6) | winner: Milano FC
+       Leg 1: 2027-04-08 Bayer 04 Leverkusen 2-2 Milano FC
+       Leg 2: 2027-04-15 Milano FC 2-2 Bayer 04 Leverkusen (pens 6-5)
+     Olympiacos FC 4-2 Lech Poznań (aggregate) | winner: Olympiacos FC
+       Leg 1: 2027-04-08 Lech Poznań 0-2 Olympiacos FC
+       Leg 2: 2027-04-15 Olympiacos FC 2-2 Lech Poznań
+     Juventus 3-1 Beşiktaş JK (aggregate) | winner: Juventus
+       Leg 1: 2027-04-08 Beşiktaş JK 1-1 Juventus
+       Leg 2: 2027-04-15 Juventus 2-0 Beşiktaş JK
+     SL Benfica 4-3 Real Sociedad (aggregate) | winner: SL Benfica
+       Leg 1: 2027-04-08 SL Benfica 2-1 Real Sociedad
+       Leg 2: 2027-04-15 Real Sociedad 2-2 SL Benfica
+   Round of 16:
+     AC Sparta Praha 1-5 Beşiktaş JK (aggregate) | winner: Beşiktaş JK
+       Leg 1: 2027-03-11 Beşiktaş JK 1-0 AC Sparta Praha
+       Leg 2: 2027-03-18 AC Sparta Praha 1-4 Beşiktaş JK
+     Juventus 4-0 AFC Bournemouth (aggregate) | winner: Juventus
+       Leg 1: 2027-03-11 AFC Bournemouth 0-1 Juventus
+       Leg 2: 2027-03-18 Juventus 3-0 AFC Bournemouth
+     Lech Poznań 3-2 Ferencvárosi TC (aggregate) | winner: Lech Poznań
+       Leg 1: 2027-03-11 Ferencvárosi TC 0-1 Lech Poznań
+       Leg 2: 2027-03-18 Lech Poznań 2-2 Ferencvárosi TC
+     Olympique de Marseille 3-4 Olympiacos FC (aggregate) | winner: Olympiacos FC
+       Leg 1: 2027-03-11 Olympiacos FC 2-2 Olympique de Marseille
+       Leg 2: 2027-03-18 Olympique de Marseille 1-2 Olympiacos FC
+     FC Red Bull Salzburg 2-3 Real Sociedad (aggregate) | winner: Real Sociedad
+       Leg 1: 2027-03-11 FC Red Bull Salzburg 1-1 Real Sociedad
+       Leg 2: 2027-03-18 Real Sociedad 2-1 FC Red Bull Salzburg
+     Bayer 04 Leverkusen 6-3 LASK (aggregate) | winner: Bayer 04 Leverkusen
+       Leg 1: 2027-03-11 LASK 2-3 Bayer 04 Leverkusen
+       Leg 2: 2027-03-18 Bayer 04 Leverkusen 3-1 LASK
+     FC Famalicão 1-7 Milano FC (aggregate) | winner: Milano FC
+       Leg 1: 2027-03-11 FC Famalicão 1-3 Milano FC
+       Leg 2: 2027-03-18 Milano FC 4-0 FC Famalicão
+     Stade Rennais FC 1-7 SL Benfica (aggregate) | winner: SL Benfica
+       Leg 1: 2027-03-11 SL Benfica 3-0 Stade Rennais FC
+       Leg 2: 2027-03-18 Stade Rennais FC 1-4 SL Benfica
+   Knockout Round Play-offs:
+     AFC Bournemouth 3-1 TSG Hoffenheim (aggregate) | winner: AFC Bournemouth
+       Leg 1: 2027-02-18 AFC Bournemouth 2-1 TSG Hoffenheim
+       Leg 2: 2027-02-25 TSG Hoffenheim 0-1 AFC Bournemouth
+     LASK 4-3 Viking FK (aggregate) | winner: LASK
+       Leg 1: 2027-02-18 Viking FK 0-1 LASK
+       Leg 2: 2027-02-25 LASK 3-3 Viking FK
+     N.E.C. Nijmegen 1-2 FC Famalicão (aggregate) | winner: FC Famalicão
+       Leg 1: 2027-02-18 N.E.C. Nijmegen 0-1 FC Famalicão
+       Leg 2: 2027-02-25 FC Famalicão 1-1 N.E.C. Nijmegen
+     Olympiacos FC 4-2 U Craiova 1948 Club Sportiv (aggregate) | winner: Olympiacos FC
+       Leg 1: 2027-02-18 U Craiova 1948 Club Sportiv 1-2 Olympiacos FC
+       Leg 2: 2027-02-25 Olympiacos FC 2-1 U Craiova 1948 Club Sportiv
+     HNK Hajduk Split 1-4 Ferencvárosi TC (aggregate) | winner: Ferencvárosi TC
+       Leg 1: 2027-02-18 Ferencvárosi TC 1-1 HNK Hajduk Split
+       Leg 2: 2027-02-25 HNK Hajduk Split 0-3 Ferencvárosi TC
+     Beşiktaş JK 5-1 HJK Helsinki (aggregate) | winner: Beşiktaş JK
+       Leg 1: 2027-02-18 HJK Helsinki 1-3 Beşiktaş JK
+       Leg 2: 2027-02-25 Beşiktaş JK 2-0 HJK Helsinki
+     FC Red Bull Salzburg 3-2 Shamrock Rovers (aggregate) | winner: FC Red Bull Salzburg
+       Leg 1: 2027-02-18 FC Red Bull Salzburg 1-1 Shamrock Rovers
+       Leg 2: 2027-02-25 Shamrock Rovers 1-2 FC Red Bull Salzburg
+     Sunderland 3-4 SL Benfica (aggregate) | winner: SL Benfica
+       Leg 1: 2027-02-18 Sunderland 1-2 SL Benfica
+       Leg 2: 2027-02-25 SL Benfica 2-2 Sunderland
+   Champion / Winner: Milano FC
+
+-- UEFA Super Cup (1 matches logged, 1 ties)
+   Final:
+     2026-08-12 Paris Saint-Germain 4-0 Aston Villa | winner: Paris Saint-Germain
+   Champion / Winner: Paris Saint-Germain
+
+=== COMPLETED TRANSFERS THIS SEASON (live from Career TransferManager) ===
+-- Your Club's Completed Deals (Borussia Mönchengladbach)
+   SOLD: Jens Castrop (CAM, age 23, OVR 77) | Borussia Mönchengladbach -> PSV | Fee: €14,200,000 | Date: 2026-08-31
+   SOLD: Joe Scally (RB, age 24, OVR 76) | Borussia Mönchengladbach -> Bologna | Fee: €13,000,000 | Date: 2026-08-31
+   SIGNED: Giovanni Di Lorenzo (RB, age 33, OVR 83) | SSC Napoli -> Borussia Mönchengladbach | Fee: €11,300,000 | Date: 2026-08-31
+   SIGNED: Son Heung Min (ST, age 34, OVR 84) | LAFC -> Borussia Mönchengladbach | Fee: €10,900,000 | + Florian Neuhaus in exchange | Date: 2026-08-31
+   SIGNED: Mateo Del Blanco (LB, age 23, OVR 75) | RC Strasbourg Alsace -> Borussia Mönchengladbach | Fee: €10,579,020 | + Hugo Bolin in exchange | Date: 2027-06-10
+   SIGNED: Christos Mouzakitis (CM, age 20, OVR 75) | Hull City -> Borussia Mönchengladbach | Fee: €8,000,000 | + Robin Hack in exchange | Date: 2027-06-10
+   SOLD: Shuto Machino (ST, age 27, OVR 74) | Borussia Mönchengladbach -> Wolverhampton Wanderers | Fee: €5,300,000 | Date: 2026-08-31
+   SOLD: Fabio Chiarodia (CB, age 22, OVR 71) | Borussia Mönchengladbach -> Royale Union Saint-Gilloise | Fee: €4,700,000 | Date: 2026-07-14
+   SOLD: Tomáš Čvančara (ST, age 26, OVR 74) | Borussia Mönchengladbach -> Inter Miami CF | Fee: €4,550,000 | Date: 2026-08-31
+   SOLD: Tiago Pereira Cardoso (GK, age 21, OVR 70) | Borussia Mönchengladbach -> VfL Wolfsburg | Fee: €3,900,000 | Date: 2027-06-10
+   SOLD: Grant-Leon Ranos (ST, age 23, OVR 66) | Borussia Mönchengladbach -> Sporting Kansas City | Fee: €2,300,000 | Date: 2026-08-31
+   SOLD: Jan Urbich (ST, age 22, OVR 65) | Borussia Mönchengladbach -> FC Volendam | Fee: €1,800,000 | Date: 2026-08-12
+   SOLD: Jan Olschowsky (GK, age 25, OVR 68) | Borussia Mönchengladbach -> Vancouver Whitecaps FC | Fee: €1,700,000 | Date: 2026-07-08
+   SOLD: Fritz Fleck (RW, age 20, OVR 66) | Borussia Mönchengladbach -> Genoa | Fee: €1,300,000 | Date: 2026-07-22
+   SOLD: Elias Vali Fard (CB, age 19, OVR 62) | Borussia Mönchengladbach -> Vitória SC | Fee: €1,050,000 | Date: 2026-07-22
+   SOLD: Daniel Batz (GK, age 36, OVR 70) | Borussia Mönchengladbach -> FC Utrecht | Fee: €1,050,000 | Date: 2027-05-08
+   SOLD: Niklas Swider (CDM, age 20, OVR 63) | Borussia Mönchengladbach -> Kocaelispor | Fee: €1,000,000 | Date: 2026-07-12
+   SOLD: Jan Leszczyński (CB, age 20, OVR 59) | Borussia Mönchengladbach -> Philadelphia Union | Fee: €640,000 | Date: 2026-07-11
+   SOLD: Tobias Sippel (GK, age 39, OVR 61) | Borussia Mönchengladbach -> İKAS Eyüpspor | Fee: €330,000 | Date: 2026-07-17
+   SIGNED: Mauricio (CAM, age 25, OVR 79) | Free Agents -> Borussia Mönchengladbach | Fee: Free | Date: 2026-07-25
+   LOAN OUT: Noah Pesch (LM, age 22, OVR 66) | Borussia Mönchengladbach -> RSC Anderlecht | Fee: Loan | Date: 2026-08-31
+   SOLD: Kevin Stöger (CAM, age 33, OVR 73) | Borussia Mönchengladbach -> FC Schalke 04 | Fee: Free | Date: 2027-01-26
+
+-- Top 20 Marquee Transfers in World Football
+    1. Marcus Thuram (ST, OVR 85): Lombardia FC -> Paris Saint-Germain | Fee: €66,700,000
+    2. Antonio Nusa (LW, OVR 80): RB Leipzig -> Real Madrid | Fee: €64,900,000
+    3. Marco Carnesecchi (GK, OVR 86): Bergamo Calcio -> Real Madrid | Fee: €45,800,000
+    4. Alex Scott (CDM, OVR 81): AFC Bournemouth -> Liverpool | Fee: €44,700,000
+    5. Eduardo Camavinga (CM, OVR 83): Real Madrid -> Paris Saint-Germain | Fee: €43,000,000
+    6. Ian Maatsen (LB, OVR 81): Aston Villa -> Juventus | Fee: €40,900,000
+    7. Maximilian Mittelstädt (LB, OVR 83): VfB Stuttgart -> Juventus | Fee: €40,400,000
+    8. Edmond Tapsoba (CB, OVR 83): Bayer 04 Leverkusen -> Arsenal | Fee: €39,600,000
+    9. Ibañez (CB, OVR 84): Al Ahli -> Newcastle United | Fee: €38,600,000
+   10. Anatoliy Trubin (GK, OVR 81): SL Benfica -> Tottenham Hotspur | Fee: €35,600,000
+   11. Bart Verbruggen (GK, OVR 82): Brighton & Hove Albion -> Paris Saint-Germain | Fee: €31,900,000
+   12. Mattia Zaccagni (LW, OVR 83): Latium -> Lombardia FC | Fee: €28,400,000
+   13. Maarten Vandevoordt (GK, OVR 79): RB Leipzig -> Bergamo Calcio | Fee: €28,300,000
+   14. Andrea Cambiaso (LB, OVR 81): Juventus -> Tottenham Hotspur | Fee: €26,500,000
+   15. Trai Hume (RB, OVR 80): Sunderland -> Bayer 04 Leverkusen | Fee: €24,400,000
+   16. Lucas Hernández (LB, OVR 81): Paris Saint-Germain -> SSC Napoli | Fee: €23,600,000
+   17. Fredrik Aursnes (CM, OVR 80): SL Benfica -> AFC Bournemouth | Fee: €21,300,000
+   18. Douglas Luiz (CDM, OVR 79): Juventus -> AFC Bournemouth | Fee: €21,100,000
+   19. John McGinn (RM, OVR 80): Aston Villa -> Milano FC | Fee: €20,100,000
+   20. Ferland Mendy (LB, OVR 81): Real Madrid -> Borussia Dortmund | Fee: €18,700,000
+
+=== LEAGUE DETAILS: TOP PLAYERS (season stats, league matches only) ===
+
+##### Bundesliga (most appearances: 34)
+  Top scorers:
+   1. Son Heung Min (Borussia Mönchengladbach, ST, age 34, OVR 84/POT 84) - 32 apps, 35 G, 10 A, 7.8 avg rating
+   2. Tim Kleindienst (Borussia Mönchengladbach, ST, age 31, OVR 81/POT 81) - 34 apps, 33 G, 15 A, 7.8 avg rating
+   3. Harry Kane (FC Bayern München, ST, age 33, OVR 89/POT 90) - 34 apps, 30 G, 4 A, 8.3 avg rating
+   4. Jonathan Burkardt (Eintracht Frankfurt, ST, age 26, OVR 83/POT 85) - 33 apps, 19 G, 3 A, 7.8 avg rating
+   5. Fábio Silva (Borussia Dortmund, ST, age 24, OVR 81/POT 85) - 31 apps, 16 G, 7 A, 8.1 avg rating
+   6. Deniz Undav (VfB Stuttgart, ST, age 30, OVR 82/POT 82) - 32 apps, 15 G, 5 A, 7.5 avg rating
+   7. Alexis Claude-Maurice (FC Augsburg, CAM, age 29, OVR 76/POT 77) - 34 apps, 15 G, 3 A, 7.5 avg rating
+   8. Patrik Schick (Bayer 04 Leverkusen, ST, age 31, OVR 85/POT 85) - 29 apps, 13 G, 8 A, 7.8 avg rating
+  Top assists:
+   1. Tim Kleindienst (Borussia Mönchengladbach, ST, age 31, OVR 81/POT 81) - 34 apps, 33 G, 15 A, 7.8 avg rating
+   2. Michael Olise (FC Bayern München, RM, age 25, OVR 90/POT 91) - 32 apps, 5 G, 14 A, 7.9 avg rating
+   3. Franck Honorat (Borussia Mönchengladbach, RM, age 30, OVR 81/POT 81) - 31 apps, 1 G, 12 A, 7.2 avg rating
+   4. Nicolas Kühn (Borussia Mönchengladbach, RW, age 27, OVR 78/POT 78) - 27 apps, 4 G, 10 A, 7.5 avg rating
+   5. Ansgar Knauff (Eintracht Frankfurt, LM, age 25, OVR 78/POT 81) - 31 apps, 9 G, 10 A, 7.7 avg rating
+   6. Son Heung Min (Borussia Mönchengladbach, ST, age 34, OVR 84/POT 84) - 32 apps, 35 G, 10 A, 7.8 avg rating
+   7. Albert Grønbæk (Hamburger SV, CAM, age 26, OVR 75/POT 78) - 33 apps, 13 G, 10 A, 7.7 avg rating
+   8. Said El Mala (1. FC Köln, LM, age 20, OVR 78/POT 87) - 32 apps, 9 G, 9 A, 7.5 avg rating
+  Most goal involvements (G+A):
+   1. Tim Kleindienst (Borussia Mönchengladbach, ST, age 31, OVR 81/POT 81) - 34 apps, 33 G, 15 A, 7.8 avg rating
+   2. Son Heung Min (Borussia Mönchengladbach, ST, age 34, OVR 84/POT 84) - 32 apps, 35 G, 10 A, 7.8 avg rating
+   3. Harry Kane (FC Bayern München, ST, age 33, OVR 89/POT 90) - 34 apps, 30 G, 4 A, 8.3 avg rating
+   4. Fábio Silva (Borussia Dortmund, ST, age 24, OVR 81/POT 85) - 31 apps, 16 G, 7 A, 8.1 avg rating
+   5. Albert Grønbæk (Hamburger SV, CAM, age 26, OVR 75/POT 78) - 33 apps, 13 G, 10 A, 7.7 avg rating
+  Best average rating (min 17 apps):
+   1. Harry Kane (FC Bayern München, ST, age 33, OVR 89/POT 90) - 34 apps, 30 G, 4 A, 8.3 avg rating
+   2. Fábio Silva (Borussia Dortmund, ST, age 24, OVR 81/POT 85) - 31 apps, 16 G, 7 A, 8.1 avg rating
+   3. Michael Olise (FC Bayern München, RM, age 25, OVR 90/POT 91) - 32 apps, 5 G, 14 A, 7.9 avg rating
+   4. Serhou Guirassy (Borussia Dortmund, ST, age 31, OVR 85/POT 85) - 22 apps, 10 G, 4 A, 7.8 avg rating
+   5. Son Heung Min (Borussia Mönchengladbach, ST, age 34, OVR 84/POT 84) - 32 apps, 35 G, 10 A, 7.8 avg rating
+   6. Tim Kleindienst (Borussia Mönchengladbach, ST, age 31, OVR 81/POT 81) - 34 apps, 33 G, 15 A, 7.8 avg rating
+   7. Fisnik Asllani (TSG Hoffenheim, ST, age 24, OVR 80/POT 83) - 26 apps, 12 G, 3 A, 7.8 avg rating
+   8. Jonathan Burkardt (Eintracht Frankfurt, ST, age 26, OVR 83/POT 85) - 33 apps, 19 G, 3 A, 7.8 avg rating
+  Best goalkeepers by clean sheets:
+   1. Gregor Kobel (Borussia Dortmund, GK, age 29, OVR 87/POT 89) - 24 apps, 0 G, 0 A, 7.5 avg rating, 11 clean sheets
+   2. Manuel Neuer (FC Bayern München, GK, age 41, OVR 79/POT 82) - 27 apps, 0 G, 0 A, 7.5 avg rating, 10 clean sheets
+   3. Daniel Heuer Fernandes (Hamburger SV, GK, age 34, OVR 78/POT 78) - 28 apps, 0 G, 0 A, 6.8 avg rating, 7 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Dariusz Stalmach (SV Werder Bremen, CM, age 21, OVR 67/POT 75) - 4 apps, 1 G, 1 A, 7.5 avg rating
+   2. Said El Mala (1. FC Köln, LM, age 20, OVR 78/POT 87) - 32 apps, 9 G, 9 A, 7.5 avg rating
+   3. Salim Musah (SV Werder Bremen, ST, age 21, OVR 65/POT 77) - 4 apps, 2 G, 0 A, 7.5 avg rating
+   4. Marc Domènech (TSG Hoffenheim, LM, age 20, OVR 68/POT 81) - 7 apps, 4 G, 0 A, 7.5 avg rating
+   5. Noël Aséko (Eintracht Frankfurt, CM, age 21, OVR 72/POT 84) - 5 apps, 1 G, 0 A, 7.4 avg rating
+   6. Cyriaque Irié (Sport-Club Freiburg, RM, age 21, OVR 71/POT 82) - 18 apps, 4 G, 3 A, 7.3 avg rating
+  Most yellow cards:
+   1. Albert Grønbæk (Hamburger SV, CAM, age 26, OVR 75) - 7 yellow, 0 red in 33 apps
+   2. Marco Friedl (SV Werder Bremen, CB, age 29, OVR 79) - 6 yellow, 0 red in 31 apps
+   3. Felix Nmecha (Borussia Dortmund, CM, age 26, OVR 85) - 6 yellow, 0 red in 32 apps
+  Red cards:
+   1. Jason Ceka (SV Elversberg, RM, age 27, OVR 66) - 0 yellow, 1 red in 5 apps
+   2. Mussa Kaba (Borussia Dortmund, CDM, age 18, OVR 65) - 0 yellow, 1 red in 8 apps
+   3. Sheraldo Becker (1. FSV Mainz 05, ST, age 32, OVR 73) - 2 yellow, 1 red in 18 apps
+
+##### 1A Pro League (most appearances: 40)
+  Top scorers:
+   1. Jan Virgili (Club Brugge, LW, age 20, OVR 78/POT 86) - 37 apps, 16 G, 5 A, 7.8 avg rating
+   2. Vincent Janssen (Royal Antwerp FC, ST, age 32, OVR 75/POT 76) - 38 apps, 15 G, 2 A, 7.4 avg rating
+   3. Adriano Bertaccini (RSC Anderlecht, ST, age 26, OVR 77/POT 80) - 39 apps, 15 G, 2 A, 7.4 avg rating
+   4. Yira Sor (KRC Genk, ST, age 26, OVR 72/POT 76) - 32 apps, 14 G, 3 A, 7.6 avg rating
+   5. Mouhamed Belkheir (RAAL La Louvière, RW, age 28, OVR 68/POT 68) - 36 apps, 12 G, 1 A, 7.2 avg rating
+   6. Bilal Bafdili (KV Mechelen, CAM, age 22, OVR 71/POT 79) - 33 apps, 11 G, 6 A, 7.5 avg rating
+   7. Yari Verschaeren (RSC Anderlecht, CM, age 25, OVR 73/POT 78) - 34 apps, 11 G, 6 A, 7.5 avg rating
+   8. Dennis Eckert Ayensa (Standard de Liège, ST, age 30, OVR 73/POT 73) - 35 apps, 11 G, 5 A, 7.4 avg rating
+  Top assists:
+   1. Dante Vanzeir (KAA Gent, ST, age 29, OVR 70/POT 70) - 36 apps, 8 G, 8 A, 7.5 avg rating
+   2. Hans Vanaken (Club Brugge, CAM, age 34, OVR 80/POT 81) - 37 apps, 11 G, 8 A, 7.8 avg rating
+   3. Bruny Nsimba (FCV Dender EH, ST, age 27, OVR 70/POT 73) - 31 apps, 5 G, 7 A, 7.2 avg rating
+   4. Nacho Ferri (KVC Westerlo, ST, age 22, OVR 70/POT 78) - 35 apps, 8 G, 7 A, 7.3 avg rating
+   5. Andrés Ferrari (Sint-Truidense VV, ST, age 24, OVR 70/POT 76) - 37 apps, 10 G, 7 A, 7.4 avg rating
+   6. Bilal Bafdili (KV Mechelen, CAM, age 22, OVR 71/POT 79) - 33 apps, 11 G, 6 A, 7.5 avg rating
+   7. Yari Verschaeren (RSC Anderlecht, CM, age 25, OVR 73/POT 78) - 34 apps, 11 G, 6 A, 7.5 avg rating
+   8. Jarne Steuckers (KRC Genk, RM, age 25, OVR 78/POT 82) - 39 apps, 11 G, 6 A, 7.6 avg rating
+  Most goal involvements (G+A):
+   1. Jan Virgili (Club Brugge, LW, age 20, OVR 78/POT 86) - 37 apps, 16 G, 5 A, 7.8 avg rating
+   2. Hans Vanaken (Club Brugge, CAM, age 34, OVR 80/POT 81) - 37 apps, 11 G, 8 A, 7.8 avg rating
+   3. Yira Sor (KRC Genk, ST, age 26, OVR 72/POT 76) - 32 apps, 14 G, 3 A, 7.6 avg rating
+   4. Bilal Bafdili (KV Mechelen, CAM, age 22, OVR 71/POT 79) - 33 apps, 11 G, 6 A, 7.5 avg rating
+   5. Yari Verschaeren (RSC Anderlecht, CM, age 25, OVR 73/POT 78) - 34 apps, 11 G, 6 A, 7.5 avg rating
+  Best average rating (min 20 apps):
+   1. Hans Vanaken (Club Brugge, CAM, age 34, OVR 80/POT 81) - 37 apps, 11 G, 8 A, 7.8 avg rating
+   2. Jan Virgili (Club Brugge, LW, age 20, OVR 78/POT 86) - 37 apps, 16 G, 5 A, 7.8 avg rating
+   3. Yira Sor (KRC Genk, ST, age 26, OVR 72/POT 76) - 32 apps, 14 G, 3 A, 7.6 avg rating
+   4. Jarne Steuckers (KRC Genk, RM, age 25, OVR 78/POT 82) - 39 apps, 11 G, 6 A, 7.6 avg rating
+   5. Dante Vanzeir (KAA Gent, ST, age 29, OVR 70/POT 70) - 36 apps, 8 G, 8 A, 7.5 avg rating
+   6. Yari Verschaeren (RSC Anderlecht, CM, age 25, OVR 73/POT 78) - 34 apps, 11 G, 6 A, 7.5 avg rating
+   7. Nicolò Tresoldi (Club Brugge, ST, age 22, OVR 76/POT 88) - 32 apps, 9 G, 1 A, 7.5 avg rating
+   8. Bilal Bafdili (KV Mechelen, CAM, age 22, OVR 71/POT 79) - 33 apps, 11 G, 6 A, 7.5 avg rating
+  Best goalkeepers by clean sheets:
+   1. Koen Van Langendonck (KVC Westerlo, GK, age 38, OVR 67/POT 68) - 39 apps, 0 G, 0 A, 7.0 avg rating, 15 clean sheets
+   2. Brent Gabriël (SV Zulte Waregem, GK, age 28, OVR 69/POT 72) - 34 apps, 0 G, 0 A, 7.1 avg rating, 14 clean sheets
+   3. Yann Sommer (Club Brugge, GK, age 38, OVR 84/POT 86) - 40 apps, 0 G, 0 A, 7.4 avg rating, 13 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Jan Virgili (Club Brugge, LW, age 20, OVR 78/POT 86) - 37 apps, 16 G, 5 A, 7.8 avg rating
+   2. Samuel Gomez van Hoogen (Club Brugge, CB, age 21, OVR 64/POT 78) - 9 apps, 1 G, 0 A, 7.5 avg rating
+   3. Afonso Patrão (KVC Westerlo, ST, age 20, OVR 69/POT 80) - 30 apps, 9 G, 1 A, 7.4 avg rating
+   4. Joseph Opoku (SV Zulte Waregem, LM, age 21, OVR 72/POT 79) - 40 apps, 10 G, 3 A, 7.4 avg rating
+   5. Mamadou Diakhon (Club Brugge, RM, age 21, OVR 72/POT 82) - 5 apps, 2 G, 0 A, 7.3 avg rating
+   6. Bouke Boersma (KV Mechelen, ST, age 21, OVR 67/POT 76) - 20 apps, 3 G, 3 A, 7.3 avg rating
+  Most yellow cards:
+   1. Alireza Jahanbakhsh (FCV Dender EH, RM, age 33, OVR 66) - 7 yellow, 0 red in 33 apps
+   2. Mathis Servais (KV Mechelen, CM, age 22, OVR 71) - 7 yellow, 0 red in 34 apps
+   3. Ousseynou Niang (Royale Union Saint-Gilloise, LM, age 25, OVR 76) - 6 yellow, 0 red in 29 apps
+  Red cards:
+   1. Killian Sardella (RSC Anderlecht, RB, age 25, OVR 75) - 0 yellow, 2 red in 39 apps
+   2. Matte Smets (KRC Genk, CB, age 23, OVR 77) - 3 yellow, 2 red in 39 apps
+   3. Josue Kongolo (KRC Genk, CB, age 21, OVR 65) - 0 yellow, 1 red in 23 apps
+
+##### Eredivisie (most appearances: 34)
+  Top scorers:
+   1. Mexx Meerdink (AZ, ST, age 23, OVR 76/POT 83) - 26 apps, 17 G, 1 A, 7.8 avg rating
+   2. Ivan Perišić (PSV, LW, age 38, OVR 78/POT 81) - 27 apps, 17 G, 2 A, 8.1 avg rating
+   3. Oscar Gloukh (Ajax, CAM, age 23, OVR 79/POT 85) - 24 apps, 16 G, 1 A, 8.1 avg rating
+   4. Casper Tengstedt (Feyenoord, ST, age 27, OVR 74/POT 78) - 29 apps, 13 G, 2 A, 7.5 avg rating
+   5. Victor Edvardsen (Go Ahead Eagles, ST, age 31, OVR 70/POT 70) - 30 apps, 13 G, 3 A, 7.6 avg rating
+   6. Luka Kulenović (Heracles Almelo, ST, age 27, OVR 68/POT 71) - 34 apps, 12 G, 1 A, 7.3 avg rating
+   7. Noah Naujoks (Excelsior Rotterdam, CM, age 25, OVR 68/POT 73) - 34 apps, 12 G, 4 A, 7.4 avg rating
+   8. Marcos Leonardo (Ajax, ST, age 24, OVR 80/POT 84) - 23 apps, 10 G, 3 A, 7.9 avg rating
+  Top assists:
+   1. Sven Mijnans (AZ, CAM, age 27, OVR 77/POT 79) - 33 apps, 8 G, 13 A, 7.7 avg rating
+   2. Lucas Paquetá (PSV, CM, age 29, OVR 79/POT 79) - 30 apps, 5 G, 8 A, 7.7 avg rating
+   3. Mohamed Ihattaren (Fortuna Sittard, CAM, age 25, OVR 75/POT 79) - 33 apps, 9 G, 8 A, 7.4 avg rating
+   4. Wout Weghorst (FC Twente, ST, age 34, OVR 75/POT 77) - 31 apps, 10 G, 7 A, 7.6 avg rating
+   5. Calvin Stengs (Feyenoord, CAM, age 28, OVR 77/POT 77) - 17 apps, 1 G, 6 A, 7.0 avg rating
+   6. Oleksandr Zinchenko (Ajax, LB, age 30, OVR 77/POT 77) - 22 apps, 1 G, 6 A, 7.5 avg rating
+   7. Filip Kostić (PSV, LM, age 34, OVR 78/POT 80) - 27 apps, 2 G, 6 A, 7.2 avg rating
+   8. Julian Brandt (Ajax, CAM, age 31, OVR 82/POT 82) - 32 apps, 2 G, 6 A, 7.4 avg rating
+  Most goal involvements (G+A):
+   1. Sven Mijnans (AZ, CAM, age 27, OVR 77/POT 79) - 33 apps, 8 G, 13 A, 7.7 avg rating
+   2. Ivan Perišić (PSV, LW, age 38, OVR 78/POT 81) - 27 apps, 17 G, 2 A, 8.1 avg rating
+   3. Mexx Meerdink (AZ, ST, age 23, OVR 76/POT 83) - 26 apps, 17 G, 1 A, 7.8 avg rating
+   4. Oscar Gloukh (Ajax, CAM, age 23, OVR 79/POT 85) - 24 apps, 16 G, 1 A, 8.1 avg rating
+   5. Wout Weghorst (FC Twente, ST, age 34, OVR 75/POT 77) - 31 apps, 10 G, 7 A, 7.6 avg rating
+  Best average rating (min 17 apps):
+   1. Ivan Perišić (PSV, LW, age 38, OVR 78/POT 81) - 27 apps, 17 G, 2 A, 8.1 avg rating
+   2. Oscar Gloukh (Ajax, CAM, age 23, OVR 79/POT 85) - 24 apps, 16 G, 1 A, 8.1 avg rating
+   3. Dennis Man (PSV, RW, age 28, OVR 77/POT 77) - 21 apps, 9 G, 0 A, 7.9 avg rating
+   4. Marcos Leonardo (Ajax, ST, age 24, OVR 80/POT 84) - 23 apps, 10 G, 3 A, 7.9 avg rating
+   5. Mexx Meerdink (AZ, ST, age 23, OVR 76/POT 83) - 26 apps, 17 G, 1 A, 7.8 avg rating
+   6. Sven Mijnans (AZ, CAM, age 27, OVR 77/POT 79) - 33 apps, 8 G, 13 A, 7.7 avg rating
+   7. Lucas Paquetá (PSV, CM, age 29, OVR 79/POT 79) - 30 apps, 5 G, 8 A, 7.7 avg rating
+   8. Viktor Tsygankov (Ajax, RW, age 29, OVR 78/POT 78) - 23 apps, 8 G, 0 A, 7.6 avg rating
+  Best goalkeepers by clean sheets:
+   1. Rome-Jayden Owusu-Oduro (AZ, GK, age 22, OVR 72/POT 83) - 25 apps, 0 G, 0 A, 7.4 avg rating, 12 clean sheets
+   2. Jasper Cillessen (N.E.C. Nijmegen, GK, age 38, OVR 76/POT 77) - 25 apps, 0 G, 0 A, 7.4 avg rating, 11 clean sheets
+   3. Lars Unnerstall (FC Twente, GK, age 36, OVR 76/POT 76) - 31 apps, 0 G, 0 A, 7.1 avg rating, 10 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Ayoub Ouarghi (Feyenoord, CAM, age 19, OVR 67/POT 84) - 4 apps, 1 G, 2 A, 7.6 avg rating
+   2. Paul Wanner (PSV, CAM, age 21, OVR 77/POT 86) - 15 apps, 4 G, 3 A, 7.6 avg rating
+   3. Jesaja Mustapha (N.E.C. Nijmegen, ST, age 20, OVR 63/POT 79) - 8 apps, 3 G, 1 A, 7.5 avg rating
+   4. Kees Smit (AZ, CAM, age 21, OVR 77/POT 88) - 29 apps, 4 G, 4 A, 7.5 avg rating
+   5. Rafik El Arguioui (FC Utrecht, CAM, age 21, OVR 63/POT 75) - 4 apps, 1 G, 0 A, 7.3 avg rating
+   6. Maher Carrizo (Ajax, RW, age 21, OVR 77/POT 83) - 4 apps, 1 G, 0 A, 7.3 avg rating
+  Most yellow cards:
+   1. Édouard Michut (Fortuna Sittard, CDM, age 24, OVR 70) - 8 yellow, 0 red in 31 apps
+   2. Sondre Ørjasæter (FC Twente, LW, age 23, OVR 72) - 7 yellow, 0 red in 31 apps
+   3. Robin van Cruijsen (FC Volendam, CAM, age 21, OVR 68) - 7 yellow, 0 red in 31 apps
+  Red cards:
+   1. Denis Odoi (NAC Breda, CB, age 39, OVR 67) - 2 yellow, 2 red in 30 apps
+   2. Wouter Goes (AZ, CB, age 22, OVR 78) - 5 yellow, 2 red in 32 apps
+   3. Zico Buurmeester (AZ, CM, age 25, OVR 71) - 0 yellow, 1 red in 3 apps
+
+##### LALIGA EA SPORTS (most appearances: 38)
+  Top scorers:
+   1. Kylian Mbappé (Real Madrid, ST, age 28, OVR 91/POT 92) - 35 apps, 25 G, 6 A, 8.4 avg rating
+   2. Raphinha (FC Barcelona, LW, age 30, OVR 89/POT 89) - 28 apps, 22 G, 5 A, 8.3 avg rating
+   3. Vini Jr. (Real Madrid, LW, age 26, OVR 91/POT 92) - 32 apps, 22 G, 8 A, 8.5 avg rating
+   4. Lucas Stassin (Sevilla FC, ST, age 22, OVR 77/POT 83) - 37 apps, 20 G, 3 A, 7.5 avg rating
+   5. De Frutos (Rayo Vallecano, RW, age 30, OVR 81/POT 81) - 36 apps, 17 G, 2 A, 7.5 avg rating
+   6. Nico Williams (Athletic Club, LW, age 24, OVR 86/POT 88) - 30 apps, 16 G, 3 A, 7.9 avg rating
+   7. Iñaki Williams (Athletic Club, RW, age 32, OVR 79/POT 81) - 33 apps, 16 G, 6 A, 8.0 avg rating
+   8. Iván Romero (Levante UD, ST, age 26, OVR 76/POT 80) - 34 apps, 15 G, 3 A, 7.5 avg rating
+  Top assists:
+   1. Aimar Oroz (CA Osasuna, CAM, age 25, OVR 78/POT 82) - 35 apps, 5 G, 11 A, 7.3 avg rating
+   2. Grimaldo (Atlético de Madrid, LM, age 31, OVR 85/POT 85) - 37 apps, 10 G, 11 A, 7.6 avg rating
+   3. Ruben Vargas (Sevilla FC, LW, age 28, OVR 78/POT 78) - 38 apps, 6 G, 11 A, 7.2 avg rating
+   4. Moleiro (Villarreal CF, LM, age 23, OVR 84/POT 87) - 36 apps, 5 G, 10 A, 7.4 avg rating
+   5. Sancet (Athletic Club, CAM, age 27, OVR 83/POT 85) - 38 apps, 11 G, 9 A, 7.8 avg rating
+   6. Luismi Cruz (RC Deportivo, RM, age 26, OVR 74/POT 76) - 28 apps, 4 G, 8 A, 7.5 avg rating
+   7. Lamine Yamal (FC Barcelona, RW, age 19, OVR 91/POT 95) - 30 apps, 8 G, 8 A, 7.7 avg rating
+   8. Isco (Real Betis Balompié, CAM, age 35, OVR 84/POT 84) - 31 apps, 3 G, 8 A, 7.3 avg rating
+  Most goal involvements (G+A):
+   1. Kylian Mbappé (Real Madrid, ST, age 28, OVR 91/POT 92) - 35 apps, 25 G, 6 A, 8.4 avg rating
+   2. Vini Jr. (Real Madrid, LW, age 26, OVR 91/POT 92) - 32 apps, 22 G, 8 A, 8.5 avg rating
+   3. Raphinha (FC Barcelona, LW, age 30, OVR 89/POT 89) - 28 apps, 22 G, 5 A, 8.3 avg rating
+   4. Lucas Stassin (Sevilla FC, ST, age 22, OVR 77/POT 83) - 37 apps, 20 G, 3 A, 7.5 avg rating
+   5. Iñaki Williams (Athletic Club, RW, age 32, OVR 79/POT 81) - 33 apps, 16 G, 6 A, 8.0 avg rating
+  Best average rating (min 19 apps):
+   1. Vini Jr. (Real Madrid, LW, age 26, OVR 91/POT 92) - 32 apps, 22 G, 8 A, 8.5 avg rating
+   2. Kylian Mbappé (Real Madrid, ST, age 28, OVR 91/POT 92) - 35 apps, 25 G, 6 A, 8.4 avg rating
+   3. Raphinha (FC Barcelona, LW, age 30, OVR 89/POT 89) - 28 apps, 22 G, 5 A, 8.3 avg rating
+   4. Iñaki Williams (Athletic Club, RW, age 32, OVR 79/POT 81) - 33 apps, 16 G, 6 A, 8.0 avg rating
+   5. Nico Williams (Athletic Club, LW, age 24, OVR 86/POT 88) - 30 apps, 16 G, 3 A, 7.9 avg rating
+   6. Arda Güler (Real Madrid, RM, age 22, OVR 85/POT 89) - 33 apps, 9 G, 3 A, 7.9 avg rating
+   7. Jude Bellingham (Real Madrid, CAM, age 23, OVR 92/POT 93) - 38 apps, 7 G, 3 A, 7.8 avg rating
+   8. Sancet (Athletic Club, CAM, age 27, OVR 83/POT 85) - 38 apps, 11 G, 9 A, 7.8 avg rating
+  Best goalkeepers by clean sheets:
+   1. Thibaut Courtois (Real Madrid, GK, age 35, OVR 90/POT 90) - 34 apps, 0 G, 0 A, 7.6 avg rating, 13 clean sheets
+   2. Péter Gulácsi (Villarreal CF, GK, age 37, OVR 83/POT 84) - 32 apps, 0 G, 0 A, 7.1 avg rating, 11 clean sheets
+   3. Marko Dmitrović (RCD Espanyol de Barcelona, GK, age 35, OVR 79/POT 79) - 35 apps, 0 G, 0 A, 7.0 avg rating, 11 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Jaime Barroso (Real Madrid, ST, age 19, OVR 66/POT 79) - 4 apps, 3 G, 0 A, 7.9 avg rating
+   2. Lamine Yamal (FC Barcelona, RW, age 19, OVR 91/POT 95) - 30 apps, 8 G, 8 A, 7.7 avg rating
+   3. Olabarrieta (Athletic Club, RW, age 21, OVR 70/POT 81) - 5 apps, 1 G, 1 A, 7.5 avg rating
+   4. Ibrahim Diarra (FC Barcelona, CAM, age 20, OVR 66/POT 78) - 5 apps, 3 G, 0 A, 7.4 avg rating
+   5. Shane Kluivert (FC Barcelona, LW, age 19, OVR 64/POT 75) - 5 apps, 2 G, 2 A, 7.3 avg rating
+   6. Tiziano Perrotta (Elche CF, ST, age 20, OVR 66/POT 77) - 7 apps, 2 G, 1 A, 7.3 avg rating
+  Most yellow cards:
+   1. Dakonam Djené (Getafe CF, CB, age 35, OVR 75) - 8 yellow, 0 red in 35 apps
+   2. Cristian Romero (Atlético de Madrid, CB, age 29, OVR 84) - 7 yellow, 1 red in 32 apps
+   3. Terrats (Getafe CF, RM, age 26, OVR 76) - 7 yellow, 0 red in 33 apps
+  Red cards:
+   1. Carl Starfelt (Real Club Celta de Vigo, CB, age 32, OVR 78) - 3 yellow, 2 red in 36 apps
+   2. Bright Ede (RC Deportivo, CB, age 20, OVR 65) - 0 yellow, 1 red in 2 apps
+   3. Kasper Boogaard (RC Deportivo, CDM, age 21, OVR 66) - 0 yellow, 1 red in 2 apps
+
+##### Liga Portugal (most appearances: 34)
+  Top scorers:
+   1. Vangelis Pavlidis (SL Benfica, ST, age 28, OVR 83/POT 84) - 27 apps, 16 G, 1 A, 8.2 avg rating
+   2. Borja Sainz (FC Porto, LW, age 26, OVR 79/POT 80) - 25 apps, 14 G, 1 A, 8.0 avg rating
+   3. Dodi Lukébakio (SL Benfica, RW, age 29, OVR 81/POT 81) - 23 apps, 12 G, 4 A, 8.2 avg rating
+   4. Luis Javier Suárez (Sporting CP, ST, age 29, OVR 80/POT 80) - 24 apps, 12 G, 3 A, 8.0 avg rating
+   5. Yanis Begraoui (Estoril Praia, ST, age 25, OVR 74/POT 77) - 33 apps, 12 G, 3 A, 7.5 avg rating
+   6. Nélson Oliveira (Vitória SC, ST, age 35, OVR 68/POT 70) - 31 apps, 11 G, 8 A, 7.6 avg rating
+   7. Simon Elisor (FC Famalicão, ST, age 27, OVR 70/POT 72) - 25 apps, 10 G, 1 A, 7.4 avg rating
+   8. Cassiano (Casa Pia AC, ST, age 37, OVR 70/POT 72) - 30 apps, 10 G, 3 A, 7.3 avg rating
+  Top assists:
+   1. Jovane Cabral (Estrela Amadora, LW, age 28, OVR 70/POT 70) - 34 apps, 8 G, 11 A, 7.4 avg rating
+   2. Georgiy Sudakov (SL Benfica, CAM, age 24, OVR 82/POT 86) - 29 apps, 3 G, 10 A, 7.9 avg rating
+   3. Rodrigo Zalazar (Sporting CP, CAM, age 27, OVR 81/POT 83) - 30 apps, 10 G, 10 A, 8.0 avg rating
+   4. Gabri Veiga (FC Porto, CAM, age 25, OVR 81/POT 86) - 26 apps, 3 G, 8 A, 7.6 avg rating
+   5. Nélson Oliveira (Vitória SC, ST, age 35, OVR 68/POT 70) - 31 apps, 11 G, 8 A, 7.6 avg rating
+   6. Samu (Vitória SC, CM, age 31, OVR 73/POT 73) - 34 apps, 6 G, 8 A, 7.5 avg rating
+   7. Murilo (Gil Vicente FC, RM, age 32, OVR 72/POT 73) - 34 apps, 6 G, 8 A, 7.5 avg rating
+   8. Alexander Prass (SC Braga, LB, age 26, OVR 76/POT 77) - 25 apps, 2 G, 7 A, 7.2 avg rating
+  Most goal involvements (G+A):
+   1. Rodrigo Zalazar (Sporting CP, CAM, age 27, OVR 81/POT 83) - 30 apps, 10 G, 10 A, 8.0 avg rating
+   2. Nélson Oliveira (Vitória SC, ST, age 35, OVR 68/POT 70) - 31 apps, 11 G, 8 A, 7.6 avg rating
+   3. Jovane Cabral (Estrela Amadora, LW, age 28, OVR 70/POT 70) - 34 apps, 8 G, 11 A, 7.4 avg rating
+   4. Vangelis Pavlidis (SL Benfica, ST, age 28, OVR 83/POT 84) - 27 apps, 16 G, 1 A, 8.2 avg rating
+   5. Rony Lopes (CD Tondela, CAM, age 31, OVR 72/POT 72) - 33 apps, 10 G, 7 A, 7.5 avg rating
+  Best average rating (min 17 apps):
+   1. Dodi Lukébakio (SL Benfica, RW, age 29, OVR 81/POT 81) - 23 apps, 12 G, 4 A, 8.2 avg rating
+   2. Vangelis Pavlidis (SL Benfica, ST, age 28, OVR 83/POT 84) - 27 apps, 16 G, 1 A, 8.2 avg rating
+   3. Borja Sainz (FC Porto, LW, age 26, OVR 79/POT 80) - 25 apps, 14 G, 1 A, 8.0 avg rating
+   4. Luis Javier Suárez (Sporting CP, ST, age 29, OVR 80/POT 80) - 24 apps, 12 G, 3 A, 8.0 avg rating
+   5. Rodrigo Zalazar (Sporting CP, CAM, age 27, OVR 81/POT 83) - 30 apps, 10 G, 10 A, 8.0 avg rating
+   6. Maximiliano Araújo (Sporting CP, LM, age 27, OVR 79/POT 79) - 24 apps, 8 G, 2 A, 8.0 avg rating
+   7. Georgiy Sudakov (SL Benfica, CAM, age 24, OVR 82/POT 86) - 29 apps, 3 G, 10 A, 7.9 avg rating
+   8. Anatoliy Trubin (SL Benfica, GK, age 25, OVR 81/POT 87) - 23 apps, 0 G, 0 A, 7.8 avg rating, 13 clean sheets
+  Best goalkeepers by clean sheets:
+   1. Anatoliy Trubin (SL Benfica, GK, age 25, OVR 81/POT 87) - 23 apps, 0 G, 0 A, 7.8 avg rating, 13 clean sheets
+   2. Daniel Figueira (Gil Vicente FC, GK, age 28, OVR 72/POT 75) - 28 apps, 0 G, 0 A, 7.2 avg rating, 11 clean sheets
+   3. Juan Castillo (Vitória SC, GK, age 24, OVR 70/POT 77) - 31 apps, 0 G, 0 A, 7.2 avg rating, 11 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. William Gomes (FC Porto, RW, age 21, OVR 78/POT 85) - 9 apps, 3 G, 2 A, 8.0 avg rating
+   2. António Machado (FC Famalicão, CAM, age 20, OVR 60/POT 70) - 4 apps, 2 G, 0 A, 7.7 avg rating
+   3. Gonçalo Moreira (SL Benfica, CAM, age 21, OVR 67/POT 81) - 5 apps, 3 G, 0 A, 7.7 avg rating
+   4. Anísio (SL Benfica, ST, age 19, OVR 67/POT 83) - 7 apps, 3 G, 0 A, 7.6 avg rating
+   5. Rafael Quintas (SL Benfica, CDM, age 19, OVR 62/POT 80) - 7 apps, 1 G, 0 A, 7.5 avg rating
+   6. Rodrigo Ribeiro (FC Famalicão, CAM, age 21, OVR 66/POT 79) - 6 apps, 2 G, 1 A, 7.4 avg rating
+  Most yellow cards:
+   1. Tom Moustier (Estrela Amadora, CM, age 25, OVR 68) - 8 yellow, 0 red in 34 apps
+   2. Ianis Stoica (Estrela Amadora, LM, age 24, OVR 71) - 7 yellow, 0 red in 34 apps
+   3. Abakar Sylla (Santa Clara, CB, age 24, OVR 72) - 6 yellow, 0 red in 24 apps
+  Red cards:
+   1. Stefan Schimmer (Gil Vicente FC, ST, age 33, OVR 68) - 0 yellow, 1 red in 5 apps
+   2. Gonzalo Pastor (FC Famalicão, RM, age 21, OVR 66) - 0 yellow, 1 red in 7 apps
+   3. Amadou Dante (FC Arouca, LB, age 26, OVR 69) - 0 yellow, 1 red in 19 apps
+
+##### Ligue 1 McDonald's (most appearances: 34)
+  Top scorers:
+   1. Khvicha Kvaratskhelia (Paris Saint-Germain, LW, age 26, OVR 89/POT 91) - 23 apps, 16 G, 5 A, 8.2 avg rating
+   2. Loïs Openda (Olympique Lyonnais, ST, age 27, OVR 83/POT 84) - 29 apps, 16 G, 0 A, 7.7 avg rating
+   3. Folarin Balogun (AS Monaco, ST, age 25, OVR 80/POT 83) - 28 apps, 14 G, 1 A, 7.8 avg rating
+   4. Boulaye Dia (Stade Rennais FC, ST, age 30, OVR 78/POT 78) - 29 apps, 14 G, 2 A, 7.5 avg rating
+   5. Ludovic Ajorque (Stade Brestois 29, ST, age 33, OVR 76/POT 77) - 30 apps, 14 G, 2 A, 7.6 avg rating
+   6. Amine Adli (RC Lens, ST, age 27, OVR 78/POT 80) - 30 apps, 13 G, 0 A, 7.6 avg rating
+   7. Mohamed Amoura (OGC Nice, ST, age 27, OVR 80/POT 83) - 34 apps, 13 G, 3 A, 7.5 avg rating
+   8. Ayase Ueda (LOSC Lille, ST, age 28, OVR 78/POT 79) - 24 apps, 12 G, 2 A, 7.8 avg rating
+  Top assists:
+   1. Kamory Doumbia (Stade Brestois 29, CAM, age 24, OVR 77/POT 81) - 33 apps, 8 G, 11 A, 7.6 avg rating
+   2. Himad Abdelli (Olympique de Marseille, CAM, age 27, OVR 77/POT 78) - 29 apps, 1 G, 9 A, 7.2 avg rating
+   3. Florian Thauvin (RC Lens, RW, age 34, OVR 78/POT 81) - 30 apps, 7 G, 9 A, 7.7 avg rating
+   4. Valentin Rongier (Stade Rennais FC, CDM, age 32, OVR 80/POT 80) - 32 apps, 2 G, 9 A, 7.2 avg rating
+   5. Amine El Ouazzani (Angers SCO, ST, age 25, OVR 73/POT 77) - 34 apps, 9 G, 9 A, 7.4 avg rating
+   6. Kévin Danois (AJ Auxerre, CM, age 22, OVR 77/POT 83) - 34 apps, 4 G, 9 A, 7.4 avg rating
+   7. Martin Terrier (AS Monaco, CAM, age 30, OVR 79/POT 79) - 13 apps, 4 G, 7 A, 8.0 avg rating
+   8. Amadou Haidara (RC Lens, CM, age 29, OVR 75/POT 75) - 28 apps, 1 G, 7 A, 7.3 avg rating
+  Most goal involvements (G+A):
+   1. Khvicha Kvaratskhelia (Paris Saint-Germain, LW, age 26, OVR 89/POT 91) - 23 apps, 16 G, 5 A, 8.2 avg rating
+   2. Kamory Doumbia (Stade Brestois 29, CAM, age 24, OVR 77/POT 81) - 33 apps, 8 G, 11 A, 7.6 avg rating
+   3. Ousmane Dembélé (Paris Saint-Germain, ST, age 30, OVR 90/POT 90) - 30 apps, 11 G, 7 A, 8.0 avg rating
+   4. Amine El Ouazzani (Angers SCO, ST, age 25, OVR 73/POT 77) - 34 apps, 9 G, 9 A, 7.4 avg rating
+   5. Loïs Openda (Olympique Lyonnais, ST, age 27, OVR 83/POT 84) - 29 apps, 16 G, 0 A, 7.7 avg rating
+  Best average rating (min 17 apps):
+   1. Khvicha Kvaratskhelia (Paris Saint-Germain, LW, age 26, OVR 89/POT 91) - 23 apps, 16 G, 5 A, 8.2 avg rating
+   2. Ousmane Dembélé (Paris Saint-Germain, ST, age 30, OVR 90/POT 90) - 30 apps, 11 G, 7 A, 8.0 avg rating
+   3. Désiré Doué (Paris Saint-Germain, RW, age 22, OVR 87/POT 91) - 25 apps, 10 G, 3 A, 7.9 avg rating
+   4. Ayase Ueda (LOSC Lille, ST, age 28, OVR 78/POT 79) - 24 apps, 12 G, 2 A, 7.8 avg rating
+   5. Folarin Balogun (AS Monaco, ST, age 25, OVR 80/POT 83) - 28 apps, 14 G, 1 A, 7.8 avg rating
+   6. Osame Sahraoui (LOSC Lille, LM, age 25, OVR 77/POT 80) - 29 apps, 4 G, 5 A, 7.7 avg rating
+   7. Loïs Openda (Olympique Lyonnais, ST, age 27, OVR 83/POT 84) - 29 apps, 16 G, 0 A, 7.7 avg rating
+   8. Hákon Arnar Haraldsson (LOSC Lille, CAM, age 24, OVR 80/POT 83) - 26 apps, 7 G, 4 A, 7.7 avg rating
+  Best goalkeepers by clean sheets:
+   1. Berke Özer (LOSC Lille, GK, age 27, OVR 79/POT 82) - 28 apps, 0 G, 0 A, 7.6 avg rating, 12 clean sheets
+   2. Guillaume Restes (Toulouse FC, GK, age 22, OVR 80/POT 85) - 31 apps, 0 G, 0 A, 7.2 avg rating, 11 clean sheets
+   3. Mory Diaw (Havre AC, GK, age 33, OVR 72/POT 72) - 32 apps, 0 G, 0 A, 7.0 avg rating, 11 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Pierre Mounguengue (Paris Saint-Germain, ST, age 19, OVR 65/POT 77) - 5 apps, 2 G, 1 A, 8.2 avg rating
+   2. Noah Nsoki (Paris Saint-Germain, LW, age 20, OVR 67/POT 79) - 5 apps, 3 G, 0 A, 8.0 avg rating
+   3. Dimitri Lucea (Paris Saint-Germain, CB, age 20, OVR 66/POT 78) - 6 apps, 0 G, 1 A, 7.7 avg rating
+   4. Néhémie Lurika (Olympique Lyonnais, ST, age 19, OVR 63/POT 72) - 7 apps, 4 G, 0 A, 7.6 avg rating
+   5. Mathis Jangeal (Paris Saint-Germain, CAM, age 18, OVR 66/POT 79) - 5 apps, 1 G, 0 A, 7.4 avg rating
+   6. Ilyas Azizi (Toulouse FC, LW, age 19, OVR 66/POT 78) - 22 apps, 4 G, 1 A, 7.4 avg rating
+  Most yellow cards:
+   1. Aiyegun Tosin (FC Lorient, ST, age 28, OVR 72) - 7 yellow, 0 red in 33 apps
+   2. Ismaël Boura (ESTAC Troyes, LB, age 26, OVR 71) - 7 yellow, 0 red in 33 apps
+   3. Martial Godo (RC Strasbourg Alsace, LM, age 24, OVR 75) - 6 yellow, 0 red in 23 apps
+  Red cards:
+   1. Mousa Al Tamari (Stade Rennais FC, LM, age 29, OVR 76) - 3 yellow, 2 red in 31 apps
+   2. Gabriel Aguayo (Havre AC, RM, age 22, OVR 68) - 0 yellow, 1 red in 13 apps
+   3. Khvicha Kvaratskhelia (Paris Saint-Germain, LW, age 26, OVR 89) - 1 yellow, 1 red in 23 apps
+
+##### Premier League (most appearances: 38)
+  Top scorers:
+   1. Harvey Barnes (Newcastle United, LW, age 29, OVR 80/POT 80) - 30 apps, 23 G, 0 A, 8.0 avg rating
+   2. Viktor Gyökeres (Arsenal, ST, age 29, OVR 86/POT 86) - 27 apps, 17 G, 1 A, 8.1 avg rating
+   3. Alexander Isak (Liverpool, ST, age 27, OVR 88/POT 88) - 27 apps, 16 G, 3 A, 8.0 avg rating
+   4. Erling Haaland (Manchester City, ST, age 26, OVR 91/POT 93) - 28 apps, 16 G, 1 A, 7.8 avg rating
+   5. Igor Thiago (Brentford, ST, age 25, OVR 83/POT 85) - 35 apps, 16 G, 2 A, 7.5 avg rating
+   6. Christos Tzolis (Arsenal, LM, age 25, OVR 82/POT 87) - 30 apps, 14 G, 3 A, 8.0 avg rating
+   7. Nicolas Jackson (Aston Villa, ST, age 25, OVR 81/POT 82) - 30 apps, 14 G, 4 A, 7.8 avg rating
+   8. Cole Palmer (Chelsea, CAM, age 25, OVR 89/POT 89) - 34 apps, 14 G, 8 A, 7.8 avg rating
+  Top assists:
+   1. Morgan Gibbs-White (Nottingham Forest, CAM, age 27, OVR 82/POT 83) - 35 apps, 4 G, 19 A, 7.7 avg rating
+   2. Florian Wirtz (Liverpool, CAM, age 24, OVR 90/POT 91) - 37 apps, 10 G, 12 A, 7.8 avg rating
+   3. Phil Foden (Manchester City, CAM, age 27, OVR 86/POT 88) - 29 apps, 9 G, 10 A, 7.8 avg rating
+   4. Martin Ødegaard (Arsenal, CM, age 28, OVR 87/POT 87) - 34 apps, 11 G, 10 A, 7.9 avg rating
+   5. Bradley Barcola (Liverpool, LW, age 24, OVR 85/POT 88) - 27 apps, 11 G, 9 A, 8.1 avg rating
+   6. Kiernan Dewsbury-Hall (Everton, CAM, age 28, OVR 80/POT 81) - 32 apps, 5 G, 9 A, 7.4 avg rating
+   7. Bukayo Saka (Arsenal, RW, age 25, OVR 88/POT 89) - 33 apps, 4 G, 9 A, 7.7 avg rating
+   8. Anthony Elanga (Newcastle United, RW, age 25, OVR 81/POT 82) - 27 apps, 4 G, 8 A, 7.5 avg rating
+  Most goal involvements (G+A):
+   1. Harvey Barnes (Newcastle United, LW, age 29, OVR 80/POT 80) - 30 apps, 23 G, 0 A, 8.0 avg rating
+   2. Morgan Gibbs-White (Nottingham Forest, CAM, age 27, OVR 82/POT 83) - 35 apps, 4 G, 19 A, 7.7 avg rating
+   3. Cole Palmer (Chelsea, CAM, age 25, OVR 89/POT 89) - 34 apps, 14 G, 8 A, 7.8 avg rating
+   4. Florian Wirtz (Liverpool, CAM, age 24, OVR 90/POT 91) - 37 apps, 10 G, 12 A, 7.8 avg rating
+   5. Martin Ødegaard (Arsenal, CM, age 28, OVR 87/POT 87) - 34 apps, 11 G, 10 A, 7.9 avg rating
+  Best average rating (min 19 apps):
+   1. Viktor Gyökeres (Arsenal, ST, age 29, OVR 86/POT 86) - 27 apps, 17 G, 1 A, 8.1 avg rating
+   2. Bradley Barcola (Liverpool, LW, age 24, OVR 85/POT 88) - 27 apps, 11 G, 9 A, 8.1 avg rating
+   3. Harvey Barnes (Newcastle United, LW, age 29, OVR 80/POT 80) - 30 apps, 23 G, 0 A, 8.0 avg rating
+   4. Alexander Isak (Liverpool, ST, age 27, OVR 88/POT 88) - 27 apps, 16 G, 3 A, 8.0 avg rating
+   5. Christos Tzolis (Arsenal, LM, age 25, OVR 82/POT 87) - 30 apps, 14 G, 3 A, 8.0 avg rating
+   6. Martin Ødegaard (Arsenal, CM, age 28, OVR 87/POT 87) - 34 apps, 11 G, 10 A, 7.9 avg rating
+   7. Antoine Semenyo (Manchester City, RW, age 27, OVR 85/POT 85) - 29 apps, 13 G, 2 A, 7.8 avg rating
+   8. Phil Foden (Manchester City, CAM, age 27, OVR 86/POT 88) - 29 apps, 9 G, 10 A, 7.8 avg rating
+  Best goalkeepers by clean sheets:
+   1. Kjell Scherpen (Ipswich Town, GK, age 27, OVR 77/POT 80) - 35 apps, 0 G, 0 A, 7.1 avg rating, 11 clean sheets
+   2. Jordan Pickford (Everton, GK, age 33, OVR 85/POT 85) - 30 apps, 0 G, 0 A, 7.1 avg rating, 8 clean sheets
+   3. David Raya (Arsenal, GK, age 31, OVR 87/POT 87) - 31 apps, 0 G, 0 A, 7.5 avg rating, 8 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Yasin Özcan (Aston Villa, CB, age 21, OVR 71/POT 82) - 7 apps, 0 G, 1 A, 8.0 avg rating
+   2. Don-Angelo Konadu (Everton, ST, age 21, OVR 68/POT 81) - 4 apps, 2 G, 1 A, 7.8 avg rating
+   3. Trey Nyoni (Liverpool, CM, age 19, OVR 68/POT 84) - 7 apps, 3 G, 3 A, 7.6 avg rating
+   4. Sidiki Chérif (Coventry City, ST, age 20, OVR 75/POT 83) - 15 apps, 7 G, 1 A, 7.5 avg rating
+   5. Johan Manzambi (Aston Villa, CM, age 21, OVR 79/POT 86) - 22 apps, 5 G, 4 A, 7.5 avg rating
+   6. Trevan Sanusi (Newcastle United, LW, age 20, OVR 64/POT 82) - 5 apps, 2 G, 1 A, 7.4 avg rating
+  Most yellow cards:
+   1. Alex Iwobi (Fulham, LM, age 31, OVR 80) - 8 yellow, 0 red in 38 apps
+   2. Phil Foden (Manchester City, CAM, age 27, OVR 86) - 7 yellow, 0 red in 29 apps
+   3. Mathias Jensen (Brentford, CM, age 31, OVR 79) - 7 yellow, 0 red in 33 apps
+  Red cards:
+   1. Dango Ouattara (Brentford, RM, age 25, OVR 80) - 3 yellow, 2 red in 35 apps
+   2. Noni Madueke (Arsenal, RW, age 25, OVR 82) - 1 yellow, 1 red in 5 apps
+   3. Giovanni Leoni (Liverpool, CB, age 20, OVR 71) - 2 yellow, 1 red in 8 apps
+
+##### Serie A Enilive (most appearances: 38)
+  Top scorers:
+   1. Simon Banza (SSC Napoli, ST, age 30, OVR 80/POT 80) - 32 apps, 30 G, 1 A, 8.4 avg rating
+   2. Nick Woltemade (Juventus, ST, age 25, OVR 82/POT 85) - 26 apps, 19 G, 2 A, 8.2 avg rating
+   3. Matteo Cancellieri (Latium, RW, age 25, OVR 76/POT 79) - 31 apps, 19 G, 0 A, 7.7 avg rating
+   4. Artem Dovbyk (Bologna, ST, age 29, OVR 81/POT 81) - 33 apps, 19 G, 1 A, 7.7 avg rating
+   5. Giovanni Simeone (Torino, ST, age 31, OVR 76/POT 76) - 32 apps, 18 G, 1 A, 7.8 avg rating
+   6. Keinan Davis (Udinese, ST, age 29, OVR 74/POT 74) - 30 apps, 17 G, 3 A, 7.6 avg rating
+   7. Armand Laurienté (Sassuolo, LW, age 28, OVR 80/POT 80) - 38 apps, 17 G, 3 A, 7.4 avg rating
+   8. Giorgian De Arrascaeta (Milano FC, CAM, age 33, OVR 83/POT 83) - 32 apps, 16 G, 6 A, 7.8 avg rating
+  Top assists:
+   1. Kenneth Taylor (Latium, CM, age 25, OVR 81/POT 83) - 36 apps, 0 G, 13 A, 7.1 avg rating
+   2. Paulo Dybala (AS Roma, CAM, age 33, OVR 85/POT 85) - 37 apps, 10 G, 12 A, 7.6 avg rating
+   3. Ruben Loftus-Cheek (Milano FC, CM, age 31, OVR 80/POT 80) - 26 apps, 3 G, 11 A, 7.6 avg rating
+   4. Nico Paz (Como 1907, CAM, age 22, OVR 84/POT 89) - 35 apps, 9 G, 11 A, 7.7 avg rating
+   5. Riccardo Orsolini (Bologna, RM, age 30, OVR 83/POT 83) - 36 apps, 7 G, 11 A, 7.5 avg rating
+   6. André-Franck Zambo Anguissa (SSC Napoli, CM, age 31, OVR 83/POT 83) - 36 apps, 7 G, 10 A, 7.7 avg rating
+   7. Romano Schmid (Frosinone, CAM, age 27, OVR 79/POT 81) - 38 apps, 4 G, 9 A, 7.0 avg rating
+   8. Hakan Çalhanoğlu (Lombardia FC, CDM, age 33, OVR 85/POT 86) - 31 apps, 8 G, 8 A, 7.6 avg rating
+  Most goal involvements (G+A):
+   1. Simon Banza (SSC Napoli, ST, age 30, OVR 80/POT 80) - 32 apps, 30 G, 1 A, 8.4 avg rating
+   2. Giorgian De Arrascaeta (Milano FC, CAM, age 33, OVR 83/POT 83) - 32 apps, 16 G, 6 A, 7.8 avg rating
+   3. Paulo Dybala (AS Roma, CAM, age 33, OVR 85/POT 85) - 37 apps, 10 G, 12 A, 7.6 avg rating
+   4. Nick Woltemade (Juventus, ST, age 25, OVR 82/POT 85) - 26 apps, 19 G, 2 A, 8.2 avg rating
+   5. Keinan Davis (Udinese, ST, age 29, OVR 74/POT 74) - 30 apps, 17 G, 3 A, 7.6 avg rating
+  Best average rating (min 19 apps):
+   1. Simon Banza (SSC Napoli, ST, age 30, OVR 80/POT 80) - 32 apps, 30 G, 1 A, 8.4 avg rating
+   2. Nick Woltemade (Juventus, ST, age 25, OVR 82/POT 85) - 26 apps, 19 G, 2 A, 8.2 avg rating
+   3. Lautaro Martínez (Lombardia FC, ST, age 29, OVR 88/POT 88) - 34 apps, 14 G, 3 A, 7.9 avg rating
+   4. Yoan Bonny (Lombardia FC, ST, age 23, OVR 81/POT 86) - 31 apps, 14 G, 5 A, 7.9 avg rating
+   5. Giorgian De Arrascaeta (Milano FC, CAM, age 33, OVR 83/POT 83) - 32 apps, 16 G, 6 A, 7.8 avg rating
+   6. Giovanni Simeone (Torino, ST, age 31, OVR 76/POT 76) - 32 apps, 18 G, 1 A, 7.8 avg rating
+   7. Lorenzo Pellegrini (AS Roma, CAM, age 30, OVR 80/POT 80) - 30 apps, 9 G, 7 A, 7.7 avg rating
+   8. Randal Kolo Muani (Juventus, ST, age 28, OVR 80/POT 80) - 24 apps, 11 G, 2 A, 7.7 avg rating
+  Best goalkeepers by clean sheets:
+   1. De Gea (Fiorentina, GK, age 36, OVR 83/POT 84) - 36 apps, 0 G, 0 A, 7.0 avg rating, 11 clean sheets
+   2. Alex Meret (SSC Napoli, GK, age 30, OVR 83/POT 84) - 32 apps, 0 G, 0 A, 7.5 avg rating, 10 clean sheets
+   3. Mile Svilar (AS Roma, GK, age 27, OVR 84/POT 87) - 32 apps, 0 G, 0 A, 7.3 avg rating, 9 clean sheets
+  Young players making an impact (age 21 or under, min 4 apps, by rating):
+   1. Jacob Brazete (Udinese, LM, age 21, OVR 61/POT 75) - 4 apps, 1 G, 1 A, 7.8 avg rating
+   2. Dominic Vavassori (Bergamo Calcio, ST, age 21, OVR 65/POT 75) - 4 apps, 2 G, 0 A, 7.7 avg rating
+   3. Francesco Pio Esposito (Lombardia FC, ST, age 21, OVR 78/POT 84) - 5 apps, 1 G, 0 A, 7.5 avg rating
+   4. Joi Nuredini (Genoa, ST, age 19, OVR 61/POT 76) - 4 apps, 2 G, 0 A, 7.5 avg rating
+   5. Franco Mastantuono (Fiorentina, RM, age 19, OVR 80/POT 87) - 34 apps, 9 G, 2 A, 7.4 avg rating
+   6. Emanuele Rao (SSC Napoli, LW, age 21, OVR 69/POT 76) - 4 apps, 2 G, 0 A, 7.4 avg rating
+  Most yellow cards:
+   1. David Neres (SSC Napoli, LW, age 30, OVR 81) - 8 yellow, 0 red in 30 apps
+   2. Lazar Samardžić (Bergamo Calcio, CAM, age 25, OVR 79) - 7 yellow, 0 red in 28 apps
+   3. Arthur Atta (Fiorentina, CM, age 24, OVR 77) - 7 yellow, 1 red in 30 apps
+  Red cards:
+   1. Côme Bianay Balcot (Torino, RB, age 22, OVR 64) - 0 yellow, 1 red in 4 apps
+   2. Christ Ravynel Inao Oulaï (Fiorentina, CM, age 21, OVR 73) - 1 yellow, 1 red in 5 apps
+   3. Ylber Ramadani (Lecce, CDM, age 31, OVR 70) - 0 yellow, 1 red in 6 apps
+
+=== STORY HOOKS (auto-detected from the numbers) ===
+  Unlikely heroes (OVR 74 or lower but scoring freely):
+   1. Keinan Davis (Udinese, ST, age 29, OVR 74/POT 74) - 30 apps, 17 G, 3 A, 7.6 avg rating
+   2. Lorenzo Colombo (Genoa, ST, age 25, OVR 74/POT 79) - 31 apps, 14 G, 4 A, 7.6 avg rating
+   3. Yira Sor (KRC Genk, ST, age 26, OVR 72/POT 76) - 32 apps, 14 G, 3 A, 7.6 avg rating
+   4. Casper Tengstedt (Feyenoord, ST, age 27, OVR 74/POT 78) - 29 apps, 13 G, 2 A, 7.5 avg rating
+   5. Victor Edvardsen (Go Ahead Eagles, ST, age 31, OVR 70/POT 70) - 30 apps, 13 G, 3 A, 7.6 avg rating
+   6. Patrick Cutrone (Monza, ST, age 29, OVR 74/POT 74) - 36 apps, 13 G, 1 A, 7.3 avg rating
+   7. Yanis Begraoui (Estoril Praia, ST, age 25, OVR 74/POT 77) - 33 apps, 12 G, 3 A, 7.5 avg rating
+   8. Luka Kulenović (Heracles Almelo, ST, age 27, OVR 68/POT 71) - 34 apps, 12 G, 1 A, 7.3 avg rating
+  Big-name attackers who have struggled (OVR 82+, <=3 goals, avg rating < 7.5, 8+ apps):
+   1. Dominik Szoboszlai (Liverpool, CAM, age 26, OVR 87/POT 88) - 34 apps, 2 G, 1 A, 7.3 avg rating
+   2. Rayan Cherki (Manchester City, RW, age 23, OVR 86/POT 88) - 17 apps, 1 G, 1 A, 6.8 avg rating
+   3. Marcus Thuram (Paris Saint-Germain, ST, age 29, OVR 85/POT 85) - 17 apps, 1 G, 1 A, 7.0 avg rating
+   4. Rodrygo (Real Madrid, LW, age 26, OVR 85/POT 87) - 14 apps, 3 G, 1 A, 7.2 avg rating
+   5. Eberechi Eze (Arsenal, CAM, age 28, OVR 84/POT 85) - 13 apps, 0 G, 1 A, 6.7 avg rating
+   6. Moussa Diaby (Bayer 04 Leverkusen, RM, age 27, OVR 84/POT 84) - 33 apps, 3 G, 1 A, 7.0 avg rating
+   7. Dani Olmo (FC Barcelona, CAM, age 29, OVR 84/POT 84) - 9 apps, 1 G, 1 A, 7.1 avg rating
+   8. Giuliano (Atlético de Madrid, RM, age 24, OVR 84/POT 86) - 33 apps, 2 G, 2 A, 7.2 avg rating
+  Veterans still delivering (age 34+, ranked by goal involvements):
+   1. Son Heung Min (Borussia Mönchengladbach, ST, age 34, OVR 84/POT 84) - 32 apps, 35 G, 10 A, 7.8 avg rating
+   2. Ivan Perišić (PSV, LW, age 38, OVR 78/POT 81) - 27 apps, 17 G, 2 A, 8.1 avg rating
+   3. Nélson Oliveira (Vitória SC, ST, age 35, OVR 68/POT 70) - 31 apps, 11 G, 8 A, 7.6 avg rating
+   4. Hans Vanaken (Club Brugge, CAM, age 34, OVR 80/POT 81) - 37 apps, 11 G, 8 A, 7.8 avg rating
+   5. Wout Weghorst (FC Twente, ST, age 34, OVR 75/POT 77) - 31 apps, 10 G, 7 A, 7.6 avg rating
+   6. Edin Džeko (FC Schalke 04, ST, age 41, OVR 79/POT 79) - 28 apps, 10 G, 6 A, 7.4 avg rating
+  Rising teenagers (age 20 or under, 5+ apps, by rating):
+   1. Pierre Mounguengue (Paris Saint-Germain, ST, age 19, OVR 65/POT 77) - 5 apps, 2 G, 1 A, 8.2 avg rating
+   2. Noah Nsoki (Paris Saint-Germain, LW, age 20, OVR 67/POT 79) - 5 apps, 3 G, 0 A, 8.0 avg rating
+   3. Jan Virgili (Club Brugge, LW, age 20, OVR 78/POT 86) - 37 apps, 16 G, 5 A, 7.8 avg rating
+   4. Lamine Yamal (FC Barcelona, RW, age 19, OVR 91/POT 95) - 30 apps, 8 G, 8 A, 7.7 avg rating
+   5. Dimitri Lucea (Paris Saint-Germain, CB, age 20, OVR 66/POT 78) - 6 apps, 0 G, 1 A, 7.7 avg rating
+   6. Anísio (SL Benfica, ST, age 19, OVR 67/POT 83) - 7 apps, 3 G, 0 A, 7.6 avg rating
+   7. Trey Nyoni (Liverpool, CM, age 19, OVR 68/POT 84) - 7 apps, 3 G, 3 A, 7.6 avg rating
+   8. Néhémie Lurika (Olympique Lyonnais, ST, age 19, OVR 63/POT 72) - 7 apps, 4 G, 0 A, 7.6 avg rating
+  Highest-rated defenders and midfielders (min 8 apps, non-attackers, non-GK):
+   1. Martin Ødegaard (Arsenal, CM, age 28, OVR 87/POT 87) - 34 apps, 11 G, 10 A, 7.9 avg rating
+   2. Alex Scott (Liverpool, CDM, age 23, OVR 81/POT 86) - 18 apps, 4 G, 2 A, 7.8 avg rating
+   3. Scott McTominay (SSC Napoli, CM, age 30, OVR 86/POT 86) - 36 apps, 13 G, 2 A, 7.7 avg rating
+   4. Vitinha (Paris Saint-Germain, CM, age 27, OVR 91/POT 92) - 29 apps, 8 G, 3 A, 7.7 avg rating
+   5. Lucas Paquetá (PSV, CM, age 29, OVR 79/POT 79) - 30 apps, 5 G, 8 A, 7.7 avg rating
+   6. Dávid Hancko (Atlético de Madrid, LB, age 29, OVR 83/POT 83) - 31 apps, 5 G, 1 A, 7.7 avg rating
+   7. Ismaël Bennacer (Newcastle United, CDM, age 29, OVR 80/POT 80) - 32 apps, 7 G, 5 A, 7.7 avg rating
+   8. Joey Veerman (Borussia Dortmund, CM, age 28, OVR 81/POT 82) - 23 apps, 3 G, 6 A, 7.7 avg rating
+
+=== SEASON AWARDS & TEAM OF THE YEAR (all club competitions) ===
+  Golden Boot front-runners:
+    1. Son Heung Min (Borussia Mönchengladbach, ST, age 34) - 37 goals in 35 apps (1.06 per game) | 10 assists, 7.8 avg rating
+    2. Tim Kleindienst (Borussia Mönchengladbach, ST, age 31) - 36 goals in 39 apps (0.92 per game) | 16 assists, 7.8 avg rating
+    3. Harry Kane (FC Bayern München, ST, age 33) - 35 goals in 52 apps (0.67 per game) | 4 assists, 8.0 avg rating
+    4. Simon Banza (SSC Napoli, ST, age 30) - 34 goals in 39 apps (0.87 per game) | 1 assists, 8.3 avg rating
+    5. Raphinha (FC Barcelona, LW, age 30) - 33 goals in 44 apps (0.75 per game) | 9 assists, 8.3 avg rating
+    6. Vini Jr. (Real Madrid, LW, age 26) - 32 goals in 45 apps (0.71 per game) | 10 assists, 8.4 avg rating
+    7. Viktor Gyökeres (Arsenal, ST, age 29) - 29 goals in 44 apps (0.66 per game) | 1 assists, 8.1 avg rating
+    8. Vangelis Pavlidis (SL Benfica, ST, age 28) - 28 goals in 47 apps (0.60 per game) | 1 assists, 8.1 avg rating
+    9. Erling Haaland (Manchester City, ST, age 26) - 28 goals in 48 apps (0.58 per game) | 2 assists, 7.8 avg rating
+   10. Kylian Mbappé (Real Madrid, ST, age 28) - 28 goals in 50 apps (0.56 per game) | 9 assists, 8.1 avg rating
+
+  Playmaker of the Season front-runners (Most Assists):
+    1. Morgan Gibbs-White (Nottingham Forest, CAM, age 27) - 20 assists in 38 apps | 4 goals, 7.6 avg rating
+    2. Michael Olise (FC Bayern München, RM, age 25) - 19 assists in 50 apps | 10 goals, 7.8 avg rating
+    3. Phil Foden (Manchester City, CAM, age 27) - 18 assists in 48 apps | 11 goals, 7.8 avg rating
+    4. Florian Wirtz (Liverpool, CAM, age 24) - 18 assists in 53 apps | 18 goals, 7.9 avg rating
+    5. Tim Kleindienst (Borussia Mönchengladbach, ST, age 31) - 16 assists in 39 apps | 36 goals, 7.8 avg rating
+
+  Young Player of the Season candidates (Age 21 or under):
+   1. Jan Virgili (Club Brugge, LW, age 20, OVR 78) - 50 apps, 23 G, 5 A, 7.7 avg rating
+   2. Lamine Yamal (FC Barcelona, RW, age 19, OVR 91) - 46 apps, 9 G, 11 A, 7.6 avg rating
+   3. Said El Mala (1. FC Köln, LM, age 20, OVR 78) - 33 apps, 9 G, 9 A, 7.5 avg rating
+   4. Joseph Opoku (SV Zulte Waregem, LM, age 21, OVR 72) - 45 apps, 11 G, 4 A, 7.5 avg rating
+   5. Afonso Patrão (KVC Westerlo, ST, age 20, OVR 69) - 31 apps, 9 G, 1 A, 7.4 avg rating
+
+  Signings of the Season (Top performers for their new clubs):
+   1. Son Heung Min (ST, age 34) | LAFC -> Borussia Mönchengladbach (€10,900,000) - 35 apps, 37 G, 10 A, 7.8 avg rating
+   2. Simon Banza (ST, age 30) | Free Agents -> SSC Napoli (Free) - 39 apps, 34 G, 1 A, 8.3 avg rating
+   3. Giorgian De Arrascaeta (CAM, age 33) | Free Agents -> Milano FC (Free) - 46 apps, 23 G, 10 A, 7.8 avg rating
+   4. Lucas Paquetá (CM, age 29) | Free Agents -> PSV (Free) - 44 apps, 9 G, 11 A, 7.6 avg rating
+   5. Neymar Jr (CAM, age 35) | Free Agents -> Manchester City (Free) - 45 apps, 13 G, 5 A, 7.2 avg rating
+
+  Tactically Balanced Best XI (4-3-3, elite competitions only):
+   GK   Lucas Chevalier (Paris Saint-Germain) - 7.7 avg rating, 41 apps, 0 G, 0 A, 15 clean sheets
+   RB   Giovanni Di Lorenzo (Borussia Mönchengladbach, RB) - 7.3 avg rating, 35 apps, 3 G, 9 A
+   CB   Joško Gvardiol (Manchester City, CB) - 7.4 avg rating, 51 apps, 4 G, 1 A
+   CB   Tomás Araújo (SL Benfica, CB) - 7.3 avg rating, 52 apps, 0 G, 2 A
+   LB   Miguel Gutiérrez (Bayer 04 Leverkusen, LB) - 7.5 avg rating, 44 apps, 12 G, 7 A
+   MID  Florian Wirtz (Liverpool, CAM) - 7.9 avg rating, 53 apps, 18 G, 18 A
+   MID  Giorgian De Arrascaeta (Milano FC, CAM) - 7.8 avg rating, 46 apps, 23 G, 10 A
+   MID  Paulo Dybala (AS Roma, CAM) - 7.7 avg rating, 53 apps, 20 G, 14 A
+   FWD  Vini Jr. (Real Madrid, LW) - 8.4 avg rating, 45 apps, 32 G, 10 A
+   FWD  Raphinha (FC Barcelona, LW) - 8.3 avg rating, 44 apps, 33 G, 9 A
+   FWD  Simon Banza (SSC Napoli, ST) - 8.3 avg rating, 39 apps, 34 G, 1 A
+
+  Substitutes Bench (World Squad of the Season):
+   SUB  Anatoliy Trubin (SL Benfica) - 7.6 avg rating, 36 apps, 0 G, 0 A, 17 clean sheets
+   SUB  Ferland Mendy (Borussia Dortmund, LB) - 7.6 avg rating, 35 apps, 8 G, 5 A
+   SUB  Dávid Hancko (Atlético de Madrid, LB) - 7.5 avg rating, 49 apps, 5 G, 2 A
+   SUB  Michael Olise (FC Bayern München, RM) - 7.8 avg rating, 50 apps, 10 G, 19 A
+   SUB  Martin Ødegaard (Arsenal, CM) - 7.8 avg rating, 52 apps, 13 G, 16 A
+   SUB  Tim Kleindienst (Borussia Mönchengladbach, ST) - 7.8 avg rating, 39 apps, 36 G, 16 A
+   SUB  Son Heung Min (Borussia Mönchengladbach, ST) - 7.8 avg rating, 35 apps, 37 G, 10 A
+
+=== EUROPEAN COMPETITIONS: TOP INDIVIDUAL STATS ===
+
+-- UEFA Champions League
+  Top scorers:
+   1. Viktor Gyökeres (Arsenal, ST, age 29, OVR 86/POT 86) - 11 apps, 10 G, 0 A, 8.4 avg rating
+   2. Raphinha (FC Barcelona, LW, age 30, OVR 89/POT 89) - 13 apps, 10 G, 4 A, 8.4 avg rating
+   3. Fermín (FC Barcelona, CAM, age 24, OVR 86/POT 87) - 16 apps, 9 G, 2 A, 7.8 avg rating
+   4. Paulo Dybala (AS Roma, CAM, age 33, OVR 85/POT 85) - 12 apps, 8 G, 1 A, 7.8 avg rating
+   5. Tasos Douvikas (Como 1907, ST, age 27, OVR 77/POT 79) - 3 apps, 7 G, 0 A, 10.0 avg rating
+   6. Ayase Ueda (LOSC Lille, ST, age 28, OVR 78/POT 79) - 6 apps, 7 G, 0 A, 8.9 avg rating
+  Top assists:
+   1. Bruno Fernandes (Manchester United, CAM, age 32, OVR 88/POT 88) - 12 apps, 3 G, 7 A, 7.9 avg rating
+   2. Phil Foden (Manchester City, CAM, age 27, OVR 86/POT 88) - 12 apps, 2 G, 7 A, 8.0 avg rating
+   3. Geny Catamo (Sporting CP, RM, age 26, OVR 80/POT 81) - 8 apps, 1 G, 5 A, 7.2 avg rating
+   4. Moleiro (Villarreal CF, LM, age 23, OVR 84/POT 87) - 10 apps, 2 G, 5 A, 7.5 avg rating
+   5. Gabriel Sara (Galatasaray SK, CM, age 27, OVR 81/POT 83) - 10 apps, 1 G, 5 A, 7.4 avg rating
+  Best ratings (min 4 apps):
+   1. Ayase Ueda (LOSC Lille, ST, age 28, OVR 78/POT 79) - 6 apps, 7 G, 0 A, 8.9 avg rating
+   2. Rasmus Højlund (SSC Napoli, ST, age 24, OVR 80/POT 83) - 4 apps, 3 G, 0 A, 8.4 avg rating
+   3. Viktor Gyökeres (Arsenal, ST, age 29, OVR 86/POT 86) - 11 apps, 10 G, 0 A, 8.4 avg rating
+   4. Raphinha (FC Barcelona, LW, age 30, OVR 89/POT 89) - 13 apps, 10 G, 4 A, 8.4 avg rating
+   5. Mateo Kovačić (Manchester City, CM, age 33, OVR 82/POT 82) - 4 apps, 1 G, 4 A, 8.3 avg rating
+
+-- UEFA Europa League
+  Top scorers:
+   1. Gonçalo Ramos (Milano FC, ST, age 25, OVR 81/POT 84) - 14 apps, 9 G, 0 A, 8.0 avg rating
+   2. Vangelis Pavlidis (SL Benfica, ST, age 28, OVR 83/POT 84) - 16 apps, 9 G, 0 A, 7.9 avg rating
+   3. Giorgian De Arrascaeta (Milano FC, CAM, age 33, OVR 83/POT 83) - 12 apps, 7 G, 2 A, 7.9 avg rating
+   4. Dušan Vlahović (Beşiktaş JK, ST, age 27, OVR 82/POT 84) - 14 apps, 7 G, 0 A, 7.7 avg rating
+   5. Dodi Lukébakio (SL Benfica, RW, age 29, OVR 81/POT 81) - 7 apps, 5 G, 0 A, 7.6 avg rating
+   6. Romelu Lukaku (Fenerbahçe SK, ST, age 34, OVR 82/POT 83) - 8 apps, 5 G, 1 A, 7.4 avg rating
+  Top assists:
+   1. Adrien Rabiot (Milano FC, CM, age 32, OVR 85/POT 85) - 15 apps, 2 G, 7 A, 8.0 avg rating
+   2. Randal Kolo Muani (Juventus, ST, age 28, OVR 80/POT 80) - 8 apps, 2 G, 4 A, 8.1 avg rating
+   3. Valdemar Byskov (FC Midtjylland, CM, age 22, OVR 72/POT 78) - 8 apps, 0 G, 4 A, 7.2 avg rating
+   4. Davide Bartesaghi (Milano FC, LB, age 21, OVR 73/POT 81) - 7 apps, 0 G, 3 A, 7.7 avg rating
+   5. Yeremy Pino (Crystal Palace, LW, age 24, OVR 81/POT 86) - 8 apps, 2 G, 3 A, 7.4 avg rating
+  Best ratings (min 4 apps):
+   1. Randal Kolo Muani (Juventus, ST, age 28, OVR 80/POT 80) - 8 apps, 2 G, 4 A, 8.1 avg rating
+   2. Ibrahim Maza (Bayer 04 Leverkusen, CAM, age 21, OVR 81/POT 87) - 9 apps, 5 G, 1 A, 8.1 avg rating
+   3. Georgios Koutsias (FC Famalicão, ST, age 23, OVR 69/POT 76) - 5 apps, 4 G, 0 A, 8.0 avg rating
+   4. Mikel Goti (Real Sociedad, CAM, age 25, OVR 72/POT 76) - 5 apps, 1 G, 2 A, 8.0 avg rating
+   5. Eliezer Mayenda (Stade Rennais FC, ST, age 22, OVR 74/POT 82) - 8 apps, 3 G, 1 A, 8.0 avg rating
+
+-- UEFA Conference League
+  Top scorers:
+   1. Promise David (Brighton & Hove Albion, ST, age 25, OVR 78/POT 81) - 8 apps, 7 G, 1 A, 8.6 avg rating
+   2. Oliver Edvardsen (Ajax, LW, age 28, OVR 72/POT 72) - 6 apps, 6 G, 0 A, 8.4 avg rating
+   3. Charles De Ketelaere (Bergamo Calcio, CAM, age 26, OVR 84/POT 86) - 12 apps, 6 G, 1 A, 8.1 avg rating
+   4. Stefanos Tzimas (Brighton & Hove Albion, ST, age 21, OVR 75/POT 81) - 5 apps, 5 G, 1 A, 8.4 avg rating
+   5. Dennis Politic (FC FCSB, LW, age 27, OVR 67/POT 67) - 6 apps, 5 G, 0 A, 8.2 avg rating
+   6. Jovo Lukić (ASFC Universitatea Cluj, ST, age 28, OVR 70/POT 71) - 10 apps, 5 G, 3 A, 8.0 avg rating
+  Top assists:
+   1. Branco van den Boomen (Ajax, CM, age 31, OVR 72/POT 72) - 6 apps, 1 G, 5 A, 8.6 avg rating
+   2. Tawanda Maswanhise (Motherwell, ST, age 24, OVR 73/POT 79) - 8 apps, 2 G, 4 A, 7.9 avg rating
+   3. Alexandr Golovin (AS Monaco, CAM, age 31, OVR 79/POT 79) - 11 apps, 4 G, 4 A, 7.9 avg rating
+   4. Georginio Rutter (Brighton & Hove Albion, CAM, age 25, OVR 80/POT 83) - 11 apps, 2 G, 4 A, 7.4 avg rating
+   5. Ernest Muçi (Trabzonspor, CAM, age 26, OVR 77/POT 80) - 11 apps, 1 G, 4 A, 7.3 avg rating
+  Best ratings (min 4 apps):
+   1. Promise David (Brighton & Hove Albion, ST, age 25, OVR 78/POT 81) - 8 apps, 7 G, 1 A, 8.6 avg rating
+   2. Branco van den Boomen (Ajax, CM, age 31, OVR 72/POT 72) - 6 apps, 1 G, 5 A, 8.6 avg rating
+   3. Oliver Edvardsen (Ajax, LW, age 28, OVR 72/POT 72) - 6 apps, 6 G, 0 A, 8.4 avg rating
+   4. Stefanos Tzimas (Brighton & Hove Albion, ST, age 21, OVR 75/POT 81) - 5 apps, 5 G, 1 A, 8.4 avg rating
+   5. Simon Adingra (Ajax, LW, age 25, OVR 78/POT 82) - 5 apps, 3 G, 1 A, 8.3 avg rating
+
+=== YOUR CLUB: Borussia Mönchengladbach ===
+Season 1 record (all competitions): played 40, W29 D5 L6 | GF 96, GA 52 | 92 pts
+   Board objectives (raw codes): league=10 (result 2), domestic cup=3 (result 2), job security=97/100
+   Trophies so far: league 1, domestic cup 0, continental 0
+   Biggest signing: Di Lorenzo (11300000) | Biggest sale: Castrop (14200000)
+
+-- Squad performance (all competitions)
+   Son Heung Min (ST, age 34) OVR 84 / POT 84 | 35 apps, 37 G, 10 A, 7.8 avg rating, 0 YC, 0 RC
+   Giovanni Di Lorenzo (RB, age 33) OVR 83 / POT 83 | 35 apps, 3 G, 9 A, 7.3 avg rating, 0 YC, 0 RC
+   Tim Kleindienst (ST, age 31) OVR 81 / POT 81 | 39 apps, 36 G, 16 A, 7.8 avg rating, 2 YC, 0 RC
+   Franck Honorat (RM, age 30) OVR 81 / POT 81 | 36 apps, 2 G, 15 A, 7.3 avg rating, 1 YC, 0 RC
+   Mauricio (CAM, age 25) OVR 79 / POT 79 | 38 apps, 2 G, 2 A, 7.5 avg rating, 0 YC, 0 RC
+   Moritz Nicolas (GK, age 29) OVR 79 / POT 79 | 38 apps, 0 G, 0 A, 6.6 avg rating, 0 YC, 0 RC
+   Nicolas Kühn (RW, age 27) OVR 78 / POT 78 | 29 apps, 6 G, 10 A, 7.5 avg rating, 0 YC, 0 RC
+   Kevin Diks (CB, age 30) OVR 77 / POT 77 | 40 apps, 2 G, 0 A, 7.3 avg rating, 1 YC, 0 RC
+   Robin Hack (LM, age 28) OVR 77 / POT 77 | 18 apps, 1 G, 1 A, 6.9 avg rating, 1 YC, 0 RC
+   Philipp Sander (CDM, age 29) OVR 76 / POT 76 | 36 apps, 2 G, 3 A, 7.4 avg rating, 2 YC, 0 RC
+   Enzo Leopold (CM, age 26) OVR 76 / POT 78 | 38 apps, 0 G, 3 A, 7.1 avg rating, 1 YC, 0 RC
+   Lukas Ullrich (LB, age 23) OVR 76 / POT 79 | 25 apps, 0 G, 0 A, 7.0 avg rating, 0 YC, 0 RC
+   Isac Lidberg (ST, age 28) OVR 74 / POT 74 | 6 apps, 2 G, 0 A, 7.0 avg rating, 0 YC, 0 RC
+   Kevin Stöger (CAM, age 33) OVR 73 / POT 74 | 24 apps, 0 G, 3 A, 7.0 avg rating, 2 YC, 0 RC
+   Nathan Ngoumou (RM, age 27) OVR 73 / POT 73 | 30 apps, 1 G, 3 A, 6.5 avg rating, 0 YC, 0 RC
+   Yukhym Konoplia (RB, age 27) OVR 72 / POT 74 | 3 apps, 0 G, 1 A, 7.8 avg rating, 0 YC, 0 RC
+   Hugo Bolin (LM, age 23) OVR 72 / POT 77 | 7 apps, 0 G, 1 A, 6.8 avg rating, 1 YC, 0 RC
+   Wael Mohya (CAM, age 18) OVR 71 / POT 85 | 12 apps, 0 G, 1 A, 6.7 avg rating, 0 YC, 0 RC
+   David Herold (LB, age 24) OVR 71 / POT 76 | 8 apps, 0 G, 0 A, 7.0 avg rating, 0 YC, 0 RC
+   Paolo Rinaldi (CB, age 17) OVR 71 / POT 72 | no competitive stats
+   Daniel Batz (GK, age 36) OVR 70 / POT 72 | 2 apps, 0 G, 0 A, 8.4 avg rating, 0 YC, 0 RC
+   Patrick Roth (LB, age 18) OVR 70 / POT 70 | 15 apps, 0 G, 0 A, 7.0 avg rating, 0 YC, 0 RC
+   Peter Rudolph (ST, age 17) OVR 67 / POT 68 | 0 apps, 0 G, 0 A, 0.0 avg rating, 0 YC, 0 RC
+
+-- Match-by-match results (competition, opponent, score, best-rated player of the day)
+   2026-07-25 | European International Cup | vs Valencia CF              | W 1-0
+     Top 3: 1. Yukhym Konoplia (RB | 9.0 | 90m), 2. Noah Pesch (LM | 8.0 | 90m), 3. Daniel Batz (GK | 8.0 | 90m)
+   2026-07-28 | European International Cup | at Real Club Celta de Vigo  | W 2-0
+     Top 3: 1. Daniel Batz (GK | 9.0 | 90m), 2. Isac Lidberg (ST | 9.0 | 90m), 3. Hugo Bolin (LM | 8.0 | 90m)
+   2026-08-01 | European International Cup | vs Brighton & Hove Albion   | W 4-0
+     Top 3: 1. David Herold (LB | 7.0 | 28m), 2. Hugo Bolin (LM | 7.0 | 15m)
+   2026-08-29 | Bundesliga             | at RB Leipzig               | W 2-1
+     Top 3: 1. David Herold (LB | 7.0 | 33m), 2. Wael Mohya (CAM | 7.0 | 14m)
+   2026-09-12 | Bundesliga             | vs SV Elversberg            | W 1-0
+   2026-09-19 | Bundesliga             | at Sport-Club Freiburg      | L 1-2
+     Top 3: 1. Robin Hack (LM | 7.0 | 86m), 2. Wael Mohya (CAM | 6.0 | 5m)
+   2026-09-26 | Bundesliga             | vs 1. FSV Mainz 05          | D 2-2
+     Top 3: 1. Robin Hack (LM | 7.0 | 77m)
+   2026-10-03 | Bundesliga             | at 1. FC Köln              | L 0-1
+   2026-10-17 | Bundesliga             | vs TSG Hoffenheim           | D 2-2
+     Top 3: 1. Robin Hack (LM | 7.0 | 90m)
+   2026-10-23 | Bundesliga             | at VfB Stuttgart            | L 2-3
+     Top 3: 1. Robin Hack (LM | 6.0 | 3m)
+   2026-10-28 | DFB-Pokal              | vs 1. FC Heidenheim 1846    | W 3-1
+     Top 3: 1. Yukhym Konoplia (RB | 8.0 | 90m), 2. Robin Hack (LM | 7.0 | 90m), 3. Kevin Stöger (RCM | 7.0 | 45m)
+   2026-10-31 | Bundesliga             | vs SC Paderborn 07          | W 3-1
+     Top 3: 1. Robin Hack (LM | 8.0 | 90m), 2. David Herold (LB | 7.0 | 29m), 3. Kevin Stöger (RCM | 7.0 | 15m)
+   2026-11-08 | Bundesliga             | at Hamburger SV             | W 2-1
+     Top 3: 1. Robin Hack (LM | 8.0 | 90m), 2. Yukhym Konoplia (RB | 7.0 | 90m), 3. Lukas Ullrich (LB | 7.0 | 50m)
+   2026-11-21 | Bundesliga             | vs Borussia Dortmund        | D 1-1
+     Top 3: 1. Lukas Ullrich (LB | 7.0 | 90m)
+   2026-11-27 | Bundesliga             | at SV Werder Bremen         | W 3-0
+     Top 3: 1. Isac Lidberg (ST | 8.0 | 27m), 2. Lukas Ullrich (LB | 7.0 | 63m), 3. David Herold (LB | 7.0 | 27m)
+   2026-12-01 | DFB-Pokal              | vs 1. FC Köln              | W 2-1
+     Top 3: 1. Robin Hack (LM | 7.0 | 90m), 2. Lukas Ullrich (LB | 7.0 | 90m), 3. Kevin Stöger (RCM | 7.0 | 86m)
+   2026-12-06 | Bundesliga             | at Bayer 04 Leverkusen      | W 3-1
+     Top 3: 1. Patrick Roth (LB | 7.0 | 90m), 2. Robin Hack (LM | 7.0 | 63m), 3. Wael Mohya (CAM | 6.0 | 28m)
+   2026-12-13 | Bundesliga             | vs Eintracht Frankfurt      | L 1-3
+     Top 3: 1. Lukas Ullrich (LB | 7.0 | 90m)
+     Goals:
+       - Eintracht Frankfurt: Can Uzun (1G), Raphael Onyedika (1G)
+     Assists:
+       - Eintracht Frankfurt: Jonathan Burkardt (1A), Ansgar Knauff (1A)
+   2026-12-20 | Bundesliga             | at FC Schalke 04            | W 4-1
+     Top 3: 1. Patrick Roth (LB | 7.0 | 90m), 2. Kevin Stöger (CAM | 7.0 | 13m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (3G | 90 mins | 10.0 rating), Son Heung Min (1G | 90 mins | 8.0 rating)
+       - FC Schalke 04: Kenan Karaman (1G)
+     Assists:
+       - Borussia Mönchengladbach: Giovanni Di Lorenzo (1A | 90 mins | 7.0 rating), Tim Kleindienst (1A | 90 mins | 10.0 rating), Mauricio (1A | 78 mins | 8.0 rating), Nicolas Kühn (1A | 90 mins | 8.0 rating)
+       - FC Schalke 04: Hwang Hee Chan (1A)
+   2027-01-08 | Bundesliga             | vs FC Bayern München       | W 3-2
+     Top 3: 1. Lukas Ullrich (LB | 6.0 | 68m), 2. Patrick Roth (LB | 6.0 | 23m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 7.0 rating), Son Heung Min (2G | 90 mins | 8.0 rating)
+       - FC Bayern München: Harry Kane (1G), Michael Olise (1G)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (2A | 45 mins | 9.0 rating), Nicolas Kühn (1A | 90 mins | 7.0 rating)
+       - FC Bayern München: Jamal Musiala (1A), Harry Kane (1A)
+   2027-01-12 | Bundesliga             | at FC Augsburg              | W 3-2
+     Top 3: 1. Patrick Roth (LB | 8.0 | 90m), 2. Robin Hack (LM | 6.0 | 12m), 3. Hugo Bolin (LM | 6.0 | 12m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (2G | 90 mins | 10.0 rating), Mauricio (1G | 78 mins | 9.0 rating)
+       - FC Augsburg: Alexis Claude-Maurice (2G)
+     Assists:
+       - Borussia Mönchengladbach: Tim Kleindienst (1A | 90 mins | 10.0 rating), Nathan Ngoumou (1A | 78 mins | 8.0 rating), Son Heung Min (1A | 90 mins | 8.0 rating)
+       - FC Augsburg: Anton Kade (2A)
+   2027-01-16 | Bundesliga             | vs 1. FC Union Berlin       | W 4-1
+     Top 3: 1. Lukas Ullrich (LB | 7.0 | 90m), 2. Wael Mohya (CAM | 7.0 | 17m), 3. Hugo Bolin (LM | 6.0 | 39m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 10.0 rating), Son Heung Min (3G | 90 mins | 9.0 rating)
+       - 1. FC Union Berlin: Jeong Woo Yeong (1G)
+     Assists:
+       - Borussia Mönchengladbach: Tim Kleindienst (3A | 90 mins | 10.0 rating), Nicolas Kühn (1A | 90 mins | 7.0 rating)
+       - 1. FC Union Berlin: Janik Haberer (1A)
+   2027-01-24 | Bundesliga             | vs RB Leipzig               | W 2-1
+     Top 3: 1. Lukas Ullrich (LB | 8.0 | 90m), 2. Nathan Ngoumou (RM | 7.0 | 24m), 3. Kevin Stöger (CAM | 7.0 | 13m)
+     Goals:
+       - Borussia Mönchengladbach: Son Heung Min (2G | 90 mins | 8.0 rating)
+       - RB Leipzig: Antonio Nusa (1G)
+     Assists:
+       - Borussia Mönchengladbach: Nathan Ngoumou (1A | 24 mins | 7.0 rating), Nicolas Kühn (1A | 90 mins | 8.0 rating)
+       - RB Leipzig: Christoph Baumgartner (1A)
+   2027-01-30 | Bundesliga             | at SV Elversberg            | W 2-0
+     Top 3: 1. Franck Honorat (RM | 8.0 | 90m), 2. Philipp Sander (LCB | 7.0 | 90m), 3. Patrick Roth (LB | 7.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 7.0 rating), Son Heung Min (1G | 90 mins | 7.0 rating)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (1A | 90 mins | 8.0 rating), Giovanni Di Lorenzo (1A | 90 mins | 7.0 rating)
+   2027-02-02 | DFB-Pokal              | vs Holstein Kiel            | L 1-2
+     Top 3: 1. Wael Mohya (CAM | 8.0 | 78m), 2. Lukas Ullrich (LB | 7.0 | 90m), 3. Paolo Rinaldi (CB | 7.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 7.0 rating)
+       - Holstein Kiel: Steven Skrzybski (1G), Jonas Therkelsen (1G)
+     Assists:
+       - Borussia Mönchengladbach: Giovanni Di Lorenzo (1A | 90 mins | 7.0 rating)
+       - Holstein Kiel: Steven Skrzybski (1A), Jonas Therkelsen (1A)
+   2027-02-06 | Bundesliga             | vs Sport-Club Freiburg      | W 1-0
+     Top 3: 1. Moritz Nicolas (GK | 8.0 | 90m), 2. Lukas Ullrich (LB | 8.0 | 90m), 3. Mauricio (LCM | 8.0 | 68m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 7.0 rating)
+     Assists:
+       - Borussia Mönchengladbach: Hugo Bolin (1A | 16 mins | 7.0 rating)
+   2027-02-13 | Bundesliga             | at 1. FSV Mainz 05          | W 1-0
+     Top 3: 1. Mauricio (LCM | 8.0 | 90m), 2. Nicolas Kühn (LM | 8.0 | 90m), 3. Philipp Sander (LCB | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 7.0 rating)
+     Assists:
+       - Borussia Mönchengladbach: Nicolas Kühn (1A | 90 mins | 8.0 rating)
+   2027-02-21 | Bundesliga             | vs 1. FC Köln              | W 2-1
+     Top 3: 1. Tim Kleindienst (LS | 9.0 | 90m), 2. Mauricio (LCM | 8.0 | 90m), 3. Franck Honorat (RM | 8.0 | 73m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (2G | 90 mins | 9.0 rating)
+       - 1. FC Köln: Alessio Castro-Montes (1G)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (1A | 73 mins | 8.0 rating), Nathan Ngoumou (1A | 18 mins | 8.0 rating)
+   2027-02-26 | Bundesliga             | at TSG Hoffenheim           | W 4-1
+     Top 3: 1. Giovanni Di Lorenzo (RB | 9.0 | 90m), 2. Kevin Diks (RCB | 9.0 | 90m), 3. Philipp Sander (LCB | 9.0 | 90m)
+   2027-02-28 | Bundesliga             | vs VfB Stuttgart            | W 6-4
+     Top 3: 1. Tim Kleindienst (LS | 10.0 | 88m), 2. Nicolas Kühn (LM | 9.0 | 90m), 3. Giovanni Di Lorenzo (RB | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (3G | 88 mins | 10.0 rating), Son Heung Min (1G | 64 mins | 8.0 rating), Nicolas Kühn (1G | 90 mins | 9.0 rating)
+       - VfB Stuttgart: Bilal El Khannouss (2G), Grischa Prömel (1G), Deniz Undav (1G)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (1A | 88 mins | 8.0 rating), Giovanni Di Lorenzo (2A | 90 mins | 8.0 rating), Tim Kleindienst (1A | 88 mins | 10.0 rating), Kevin Stöger (1A | 88 mins | 8.0 rating), Son Heung Min (1A | 64 mins | 8.0 rating)
+       - VfB Stuttgart: Dženan Pejčinović (1A), Deniz Undav (2A)
+   2027-03-06 | Bundesliga             | at SC Paderborn 07          | W 2-1
+     Top 3: 1. Son Heung Min (RS | 8.0 | 90m), 2. Tim Kleindienst (LS | 8.0 | 90m), 3. Giovanni Di Lorenzo (RB | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 8.0 rating), Son Heung Min (1G | 90 mins | 8.0 rating)
+       - SC Paderborn 07: Marvin Pieringer (1G)
+     Assists:
+       - Borussia Mönchengladbach: Tim Kleindienst (1A | 90 mins | 8.0 rating), Son Heung Min (1A | 90 mins | 8.0 rating)
+       - SC Paderborn 07: Laurin Ulrich (1A)
+   2027-03-14 | Bundesliga             | vs Hamburger SV             | W 6-4
+     Top 3: 1. Son Heung Min (RS | 10.0 | 90m), 2. Tim Kleindienst (LS | 10.0 | 90m), 3. Franck Honorat (RM | 9.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (3G | 90 mins | 10.0 rating), Son Heung Min (3G | 90 mins | 10.0 rating)
+       - Hamburger SV: Albert Grønbæk (1G), Sebastiaan Bornauw (1G), Fábio Vieira (2G)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (3A | 90 mins | 9.0 rating), Giovanni Di Lorenzo (1A | 90 mins | 8.0 rating), Tim Kleindienst (1A | 90 mins | 10.0 rating), Son Heung Min (1A | 90 mins | 10.0 rating)
+       - Hamburger SV: Albert Sambi Lokonga (2A), Albert Grønbæk (1A)
+   2027-03-20 | Bundesliga             | at Borussia Dortmund        | W 4-2
+     Top 3: 1. Tim Kleindienst (LS | 10.0 | 90m), 2. Son Heung Min (RS | 9.0 | 90m), 3. Nicolas Kühn (LM | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Franck Honorat (1G | 81 mins | 8.0 rating), Tim Kleindienst (2G | 90 mins | 10.0 rating), Son Heung Min (1G | 90 mins | 9.0 rating)
+       - Borussia Dortmund: Felix Nmecha (1G), Serhou Guirassy (1G)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (1A | 81 mins | 8.0 rating), Tim Kleindienst (2A | 90 mins | 10.0 rating), Son Heung Min (1A | 90 mins | 9.0 rating)
+       - Borussia Dortmund: Giannis Konstantelias (1A), Marcel Sabitzer (1A)
+   2027-04-03 | Bundesliga             | vs SV Werder Bremen         | W 2-0
+     Top 3: 1. Son Heung Min (RS | 8.0 | 90m), 2. Tim Kleindienst (LS | 8.0 | 90m), 3. Mauricio (LCM | 8.0 | 79m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 8.0 rating), Son Heung Min (1G | 90 mins | 8.0 rating)
+     Assists:
+       - Borussia Mönchengladbach: Giovanni Di Lorenzo (1A | 90 mins | 7.0 rating), Tim Kleindienst (1A | 90 mins | 8.0 rating)
+   2027-04-11 | Bundesliga             | vs Bayer 04 Leverkusen      | W 4-2
+     Top 3: 1. Son Heung Min (RS | 10.0 | 90m), 2. Tim Kleindienst (LS | 8.0 | 90m), 3. Kevin Diks (RCB | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (1G | 90 mins | 8.0 rating), Son Heung Min (3G | 90 mins | 10.0 rating)
+       - Bayer 04 Leverkusen: Patrik Schick (1G), Malik Tillman (1G)
+     Assists:
+       - Borussia Mönchengladbach: Wael Mohya (1A | 12 mins | 7.0 rating), Tim Kleindienst (2A | 90 mins | 8.0 rating), Son Heung Min (1A | 90 mins | 10.0 rating)
+       - Bayer 04 Leverkusen: Jonas Hofmann (1A), Miguel Gutiérrez (1A)
+   2027-04-17 | Bundesliga             | at Eintracht Frankfurt      | L 1-3
+     Top 3: 1. Son Heung Min (RS | 8.0 | 90m), 2. Nicolas Kühn (LM | 8.0 | 90m), 3. Lukas Ullrich (LB | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Son Heung Min (1G | 90 mins | 8.0 rating)
+       - Eintracht Frankfurt: Jonathan Burkardt (1G), Mario Götze (1G), Ansgar Knauff (1G)
+     Assists:
+       - Borussia Mönchengladbach: Nicolas Kühn (1A | 90 mins | 8.0 rating)
+       - Eintracht Frankfurt: Farès Chaïbi (1A), Ritsu Doan (1A), Williot Swedberg (1A)
+   2027-04-25 | Bundesliga             | vs FC Schalke 04            | W 5-2
+     Top 3: 1. Son Heung Min (RS | 10.0 | 90m), 2. Tim Kleindienst (LS | 9.0 | 90m), 3. Mauricio (LCM | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Tim Kleindienst (2G | 90 mins | 9.0 rating), Son Heung Min (2G | 90 mins | 10.0 rating), Nicolas Kühn (1G | 90 mins | 8.0 rating)
+       - FC Schalke 04: Hwang Hee Chan (1G), Soufiane El-Faouzi (1G)
+     Assists:
+       - Borussia Mönchengladbach: Franck Honorat (1A | 90 mins | 7.0 rating), Philipp Sander (1A | 90 mins | 7.0 rating), Tim Kleindienst (1A | 90 mins | 9.0 rating), Son Heung Min (2A | 90 mins | 10.0 rating)
+       - FC Schalke 04: Hwang Hee Chan (1A), Soufiane El-Faouzi (1A)
+   2027-05-09 | Bundesliga             | at FC Bayern München       | D 1-1
+     Top 3: 1. Kevin Diks (RCB | 8.0 | 90m), 2. Nicolas Kühn (LM | 8.0 | 90m), 3. Mauricio (LCM | 8.0 | 78m)
+     Goals:
+       - Borussia Mönchengladbach: Son Heung Min (1G | 90 mins | 7.0 rating)
+       - FC Bayern München: Nathaniel Brown (1G)
+     Assists:
+       - Borussia Mönchengladbach: Nicolas Kühn (1A | 90 mins | 8.0 rating)
+   2027-05-15 | Bundesliga             | vs FC Augsburg              | W 1-0
+     Top 3: 1. Mauricio (LCM | 9.0 | 80m), 2. Philipp Sander (LCB | 8.0 | 90m), 3. Tim Kleindienst (LS | 7.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Nicolas Kühn (1G | 90 mins | 7.0 rating)
+   2027-05-22 | Bundesliga             | at 1. FC Union Berlin       | D 2-2
+     Top 3: 1. Enzo Leopold (RCM | 9.0 | 90m), 2. Mauricio (LCM | 8.0 | 90m), 3. Son Heung Min (RS | 8.0 | 90m)
+     Goals:
+       - Borussia Mönchengladbach: Son Heung Min (2G | 90 mins | 8.0 rating)
+       - 1. FC Union Berlin: Felix Uduokhai (1G), András Schäfer (1G)
+     Assists:
+       - Borussia Mönchengladbach: Enzo Leopold (2A | 90 mins | 9.0 rating)
+       - 1. FC Union Berlin: Tim Skarke (1A)
+   Total in these matches: W29 D5 L6
+
+=== MANAGER MOVES ===
+   No manager moves detected since the previous export.
+
+=== PENDING / AGREED TRANSFERS (career_presignedcontract) ===
+   Beckham Castro (OVR 69): Millonarios FC -> Toronto FC | fee 0 | signed 2027-01-09 | completes 2027-07-01
+   Kevin Stöger (OVR 73): Borussia Mönchengladbach -> FC Schalke 04 | fee 0 | signed 2027-01-26 | completes 2027-07-01  <== YOUR CLUB
+   Sotiris Alexandropoulos (OVR 70): Sporting CP -> Vancouver Whitecaps FC | fee 0 | signed 2027-01-31 | completes 2027-07-01
+   Raul Paula (OVR 67): NAC Breda -> D.C. United | fee 0 | signed 2027-01-31 | completes 2027-07-01
+   Jean Ruiz (OVR 69): Pau FC -> KGHM Zagłębie Lubin | fee 1300000 | signed 2027-02-14 | completes 2027-07-01
+   Álex Padilla (OVR 71): Athletic Club -> Servette FC | fee 0 | signed 2027-02-14 | completes 2027-07-01
+   Anatoliy Trubin (OVR 81): SL Benfica -> Tottenham Hotspur | fee 35600000 | signed 2027-02-15 | completes 2027-07-01
+   Alan Forneris (OVR 66): Racing Club -> Club Atlético Central Córdoba | fee 0 | signed 2027-02-16 | completes 2027-07-01
+   Emre Tezgel (OVR 65): Stoke City -> Moreirense FC | fee 2150000 | signed 2027-03-23 | completes 2027-07-01
+   Lucas Morales (OVR 70): Club Olimpia -> Lincoln City | fee 0 | signed 2027-03-25 | completes 2027-07-01
+   Ylies Aradj (OVR 64): Toulouse FC -> VfB Stuttgart | fee 2250000 | signed 2027-04-12 | completes 2027-07-01
+   Kayra Cihan (OVR 59): Kayserispor Futbol A.Ş -> Atlanta United | fee 760000 | signed 2027-04-13 | completes 2027-07-01
+   Kevin Angulo (OVR 61): América de Cali -> PEC Zwolle | fee 1100000 | signed 2027-04-27 | completes 2027-07-01
+   Tom King (OVR 55): Cheltenham Town -> RZ Pellets Wolfsberger AC | fee 530000 | signed 2027-05-04 | completes 2027-07-01
+   Daniel Batz (OVR 70): Borussia Mönchengladbach -> FC Utrecht | fee 1050000 | signed 2027-05-08 | completes 2027-07-01  <== YOUR CLUB
+   Findlay Curtis (OVR 69): Rangers -> RAAL La Louvière | fee 0 | signed 2027-05-09 | completes 2027-07-01
+   Garang Kuol (OVR 66): AC Sparta Praha -> Brøndby IF | fee 0 | signed 2027-05-15 | completes 2027-07-01
+   Ludvig Tidstrand (OVR 58): Mjällby AIF -> Strømsgodset IF | fee 670000 | signed 2027-05-16 | completes 2027-07-01
+   Gift Orban (OVR 76): TSG Hoffenheim -> Real Club Celta de Vigo | fee 0 | signed 2027-05-18 | completes 2027-07-01
+   Konan N'Dri (OVR 70): Lecce -> Sint-Truidense VV | fee 0 | signed 2027-05-20 | completes 2027-07-01
+   Gonzalo Crettaz (OVR 74): N.E.C. Nijmegen -> Club Atlético Lanús | fee 3500000 | signed 2027-05-22 | completes 2027-07-01
+   David Rodríguez (OVR 59): Millonarios FC -> D.C. United | fee 800000 | signed 2027-05-23 | completes 2027-07-01
+   Oussama El Azzouzi (OVR 71): Bologna -> Go Ahead Eagles | fee 0 | signed 2027-05-23 | completes 2027-07-01
+   Diego León (OVR 67): Manchester United -> TSG Hoffenheim | fee 4600000 | signed 2027-05-26 | completes 2027-07-01
+   Giovanni Leoni (OVR 71): Liverpool -> Preston North End | fee 0 | signed 2027-06-04 | completes 2027-07-01
+   Tobias Gruber (OVR 61): RZ Pellets Wolfsberger AC -> SC Rheindorf Altach | fee 0 | signed 2027-06-08 | completes 2027-07-01
+   Ben Hammond (OVR 61): Nottingham Forest -> Vejle Boldklub | fee 0 | signed 2027-06-09 | completes 2027-07-01
+   Christos Mouzakitis (OVR 75): Hull City -> Borussia Mönchengladbach | fee 8000000 | signed 2027-06-10 | completes 2027-07-01  <== YOUR CLUB
+   Robin Hack (OVR 77): Borussia Mönchengladbach -> Hull City | fee 0 | signed 2027-06-10 | completes 2027-07-01  <== YOUR CLUB
+   Mateo Del Blanco (OVR 75): RC Strasbourg Alsace -> Borussia Mönchengladbach | fee 10579020 | signed 2027-06-10 | completes 2027-07-01  <== YOUR CLUB
+   Hugo Bolin (OVR 72): Borussia Mönchengladbach -> RC Strasbourg Alsace | fee 0 | signed 2027-06-10 | completes 2027-07-01  <== YOUR CLUB
+
+=== LAST SEASON vs THIS SEASON (all club competitions) ===
+-- Top scorers this season, with last season's numbers
+   1. Son Heung Min (Borussia Mönchengladbach): 37 G, 10 A in 35 apps | last season: 7 G, 9 A in 30 apps
+   2. Tim Kleindienst (Borussia Mönchengladbach): 36 G, 16 A in 39 apps | last season: 16 G, 7 A in 31 apps
+   3. Harry Kane (FC Bayern München): 35 G, 4 A in 52 apps | last season: 37 G, 10 A in 44 apps
+   4. Simon Banza (SSC Napoli): 34 G, 1 A in 39 apps | last season: 19 G, 4 A in 31 apps
+   5. Raphinha (FC Barcelona): 33 G, 9 A in 44 apps | last season: 34 G, 22 A in 57 apps
+   6. Vini Jr. (Real Madrid): 32 G, 10 A in 45 apps | last season: 19 G, 11 A in 44 apps
+   7. Viktor Gyökeres (Arsenal): 29 G, 1 A in 44 apps | last season: 45 G, 8 A in 41 apps
+   8. Vangelis Pavlidis (SL Benfica): 28 G, 1 A in 47 apps | last season: 26 G, 9 A in 46 apps
+   9. Erling Haaland (Manchester City): 28 G, 2 A in 48 apps | last season: 30 G, 3 A in 40 apps
+   10. Kylian Mbappé (Real Madrid): 28 G, 9 A in 50 apps | last season: 39 G, 4 A in 50 apps
+   11. Harvey Barnes (Newcastle United): 24 G, 0 A in 31 apps | last season: n/a
+   12. Khvicha Kvaratskhelia (Paris Saint-Germain): 24 G, 8 A in 36 apps | last season: n/a
+   13. Nick Woltemade (Juventus): 24 G, 2 A in 38 apps | last season: 17 G, 3 A in 33 apps
+   14. Deniz Undav (VfB Stuttgart): 23 G, 6 A in 45 apps | last season: 3 G, 2 A in 5 apps
+   15. Giorgian De Arrascaeta (Milano FC): 23 G, 10 A in 46 apps | last season: n/a
+
+-- Goal droughts: big scorers last season whose scoring rate has fallen sharply
+   Mohamed Salah (Trabzonspor): 1 G in 12 apps now | last season: 32 G, 22 A in 47 apps
+   Louie Barry (Aston Villa): 1 G in 12 apps now | last season: 15 G, 2 A in 23 apps
+   Sem Steijn (Feyenoord): 7 G in 32 apps now | last season: 27 G, 7 A in 35 apps
+   Karim Benzema (FC Bayern München): 4 G in 21 apps now | last season: 21 G, 9 A in 29 apps
+   Darius Olaru (FC FCSB): 1 G in 10 apps now | last season: 14 G, 7 A in 27 apps
+   Cucho Hernández (Real Betis Balompié): 10 G in 40 apps now | last season: 19 G, 11 A in 29 apps
+   Kasper Høgh (Celtic): 1 G in 8 apps now | last season: 19 G, 2 A in 37 apps
+   Mika Biereth (AS Monaco): 4 G in 11 apps now | last season: 24 G, 6 A in 32 apps
+
+-- Improvers: scoring rate up sharply on last season
+   Son Heung Min (Borussia Mönchengladbach): 37 G in 35 apps now | last season: 7 G, 9 A in 30 apps
+   Tim Kleindienst (Borussia Mönchengladbach): 36 G in 39 apps now | last season: 16 G, 7 A in 31 apps
+   Vini Jr. (Real Madrid): 32 G in 45 apps now | last season: 19 G, 11 A in 44 apps
+   Alassane Pléa (PSV): 14 G in 22 apps now | last season: 11 G, 4 A in 30 apps
+   Dodi Lukébakio (SL Benfica): 17 G in 31 apps now | last season: 11 G, 2 A in 38 apps
+   Christantus Uche (Getafe CF): 16 G in 44 apps now | last season: 4 G, 6 A in 33 apps
+   Iñaki Williams (Athletic Club): 16 G in 34 apps now | last season: 11 G, 9 A in 47 apps
+   Ivan Perišić (PSV): 21 G in 39 apps now | last season: 9 G, 8 A in 27 apps

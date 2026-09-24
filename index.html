@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FC 26 — Season Review Show</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,600;0,700;0,800;0,900;1,800;1,900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="bootLoader" class="boot-loader">
+  <div class="boot-box">
+    <div class="ea-badge">EA<span>FC 26</span></div>
+    <h2>Season Review Show</h2>
+    <p id="bootMsg">Parsing your export…</p>
+    <div class="boot-bar"><i id="bootFill"></i></div>
+    <div class="boot-stats" id="bootStats"></div>
+    <div class="boot-actions" id="bootActions">
+      <button id="enterBtn" class="enter-btn" disabled>Enter →</button>
+      <label class="boot-opt" title="Skip the 400+ photo pre-fetch. Site renders instantly, player photos load as you scroll.">
+        <input type="checkbox" id="fastPhotos" checked> Fast load — fetch photos as I scroll
+      </label>
+      <label class="boot-opt" title="Never fetch player photos. Always show default initial avatars — faster and fully offline/private.">
+        <input type="checkbox" id="noPhotos"> No player faces — use default avatars only
+      </label>
+    </div>
+  </div>
+</div>
+<div class="bg-orbs"><span class="orb o1"></span><span class="orb o2"></span><span class="orb o3"></span><span class="grid-overlay"></span></div>
+
+<nav class="sidenav" id="sideNav" aria-label="Sections">
+  <a href="#sec-seasons" data-spy="sec-seasons"><i>🗂️</i><span>Saved Seasons</span></a>
+  <a href="#sec-stories" data-spy="sec-stories"><i>✨</i><span>Stories</span></a>
+  <a href="#sec-leagues" data-spy="sec-leagues"><i>📊</i><span>Leagues</span></a>
+  <a href="#sec-myclub" data-spy="sec-myclub"><i>⭐</i><span>My Club</span></a>
+  <a href="#sec-europe" data-spy="sec-europe"><i>🌍</i><span>Europe</span></a>
+  <a href="#sec-transfers" data-spy="sec-transfers"><i>💰</i><span>Transfers</span></a>
+  <a href="#sec-stars" data-spy="sec-stars"><i>🌟</i><span>Stars</span></a>
+  <a href="#sec-cups" data-spy="sec-cups"><i>🏆</i><span>Cups</span></a>
+  <a href="#sec-world" data-spy="sec-world"><i>🌐</i><span>World</span></a>
+</nav>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="ea-badge">EA<span>FC 26</span></div>
+      <div class="brand-text"><strong>SEASON REVIEW</strong><em>Career season review show</em></div>
+    </div>
+    <div class="top-actions">
+      <label class="ghost-btn no-photos-top" title="Toggle player photos on/off. When on, only default initial avatars are shown — no photo fetching.">
+        <input type="checkbox" id="noPhotosTop"> No faces
+      </label>
+      <label class="upload-btn" title="Load a new export file (same format as example)">
+        <input type="file" id="fileInput" accept=".txt,.md,.text" hidden>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 16V4m0 0l-4 4m4-4l4 4"/><path d="M4 16v3a1 1 0 001 1h14a1 1 0 001-1v-3"/></svg>
+        Load report file
+      </label>
+      <button class="ghost-btn" id="sampleBtn" title="Reload the embedded example">Example data</button>
+    </div>
+  </div>
+  <div id="dropHint" class="drop-hint hidden">Drop your <b>fc26_season_export.txt</b> anywhere to load it</div>
+</header>
+
+<!-- HERO -->
+<section class="hero reveal" id="sec-hero">
+  <div class="hero-broadcast"><span class="live-dot"></span><span id="heroKicker">MID-SEASON SPECIAL • DEC 2026</span><span class="hero-ep">EP.01</span></div>
+  <div class="hero-grid">
+    <div class="hero-main">
+      <div class="hero-club-row">
+        <div class="crest-xl" id="heroCrest"><span>BM</span></div>
+        <div>
+          <div class="hero-eyebrow" id="heroLeague">Bundesliga • Season 1</div>
+          <h1 id="heroClub">Borussia Mönchengladbach</h1>
+          <div class="hero-manager" id="heroManager">Manager Tom Wirtz • Job security 100/100</div>
+        </div>
+        <img id="heroLeagueLogo" class="hero-league-logo" alt="league logo">
+      </div>
+      <div class="hero-stats" id="heroStats"></div>
+      <div class="hero-form-row">
+        <div class="form-block"><span class="lbl">League form</span><span class="form-pills" id="heroForm"></span></div>
+        <div class="hero-next" id="heroNext"></div>
+      </div>
+    </div>
+    <div class="hero-side">
+      <div class="panel ticker-panel">
+        <div class="panel-title">Latest headlines</div>
+        <div class="headlines" id="tickerTrack"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-title">Golden boot snapshot</div>
+        <div id="heroBoot"></div>
+      </div>
+    </div>
+  </div>
+  <nav class="section-nav" id="sectionNav">
+    <a href="#sec-stories">Stories</a><a href="#sec-leagues">Leagues</a><a href="#sec-myclub" class="nav-hl">My Club</a>
+    <a href="#sec-europe">Europe</a><a href="#sec-transfers">Transfers</a><a href="#sec-cups">Cups</a>
+    <a href="#sec-stars">Stars</a><a href="#sec-world">World</a>
+  </nav>
+</section>
+
+<main>
+  <!-- SAVED SEASONS -->
+  <section id="sec-seasons" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">00 • Your archive</div><h2>Saved <span>Seasons</span></h2><p>Every file you upload is kept in this browser. Jump back to any season in one click, or delete what you don't need.</p></div>
+    <div class="seasons-grid" id="seasonsGrid"></div>
+  </section>
+
+  <!-- STORIES -->
+  <section id="sec-stories" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">01 • Opening montage</div><h2>Headline <span>Stories</span></h2><p>Auto-cut from your save — title races, scoring charts, market moves and your own run.</p></div>
+    <div class="cards-grid" id="storyCards"></div>
+  </section>
+
+  <!-- LEAGUES -->
+  <section id="sec-leagues" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">02 • Domestic theatre</div><h2>League <span>Tables</span></h2><p>Full live tables from game memory. Pick a league — zones, form and drama included.</p>
+    <div class="league-pills" id="leaguePills"></div></div>
+    <div class="league-layout">
+      <div class="panel table-panel">
+        <div class="league-banner" id="leagueBanner"></div>
+        <div class="table-tools">
+          <input id="teamSearch" type="search" placeholder="Filter teams in this league…">
+          <div class="legend"><span class="lg ucl"></span>Title / Europe <span class="lg rel"></span>Relegation danger <span class="form-key"><i class="fp W">W</i><i class="fp D">D</i><i class="fp L">L</i></span></div>
+        </div>
+        <div class="table-wrap"><table class="league-table" id="leagueTable"></table></div>
+        <div class="title-race" id="titleRace"></div>
+      </div>
+      <div class="league-side">
+        <div class="panel" id="leagueMeta"></div>
+        <div class="panel"><div class="panel-title">Biggest wins</div><div id="leagueWins" class="mini-list"></div></div>
+        <div class="panel"><div class="panel-title">Top scorers <em>this league</em></div><div id="leagueScorers" class="mini-list"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MY CLUB -->
+  <section id="sec-myclub" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">03 • All eyes on you</div><h2 id="myClubTitle">My Club <span>Deep Dive</span></h2><p id="myClubSub">Every kick, every signing, every what's-next.</p></div>
+    <div class="myclub-grid">
+      <div class="panel"><div class="panel-title">Results & running points <em>your matches in order</em></div><div id="clubRecord"></div><canvas id="formChart" width="560" height="220"></canvas><div class="chart-cap" id="chartCap"></div><div class="chart-legend"><span><i class="sw w"></i>Win = 3 pts</span><span><i class="sw d"></i>Draw = 1 pt</span><span><i class="sw l"></i>Loss = 0</span><span><i class="sw line"></i>Running total</span></div></div>
+      <div class="panel"><div class="panel-title">Results timeline</div><div id="clubTimeline" class="timeline"></div></div>
+    </div>
+    <div class="panel"><div class="panel-title">Squad performance <input id="squadSearch" type="search" placeholder="Filter squad…"></div>
+      <div class="table-wrap"><table class="league-table squad" id="squadTable"></table></div>
+    </div>
+    <div class="panel"><div class="panel-title">Next fixtures</div><div id="nextFixtures" class="next-grid"></div></div>
+  </section>
+
+  <!-- EUROPE -->
+  <section id="sec-europe" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">04 • Continental nights</div><h2>European <span>Tables</span></h2><p>Swiss league-phase tables. Top 8 straight through, 9–24 to the play-offs.</p>
+    <div class="league-pills" id="euroPills"></div></div>
+    <div class="panel table-panel"><div class="league-banner" id="euroBanner"></div>
+      <div class="table-wrap"><table class="league-table euro" id="euroTable"></table></div>
+      <div class="panel-sub" id="euroStats"></div>
+    </div>
+    <div class="panel" style="margin-top:16px"><div class="panel-title">Continental standouts <em>top scorers • assists • ratings per competition</em></div>
+      <div class="league-pills small" id="euroStatPills"></div>
+      <div id="euroStatCards"></div>
+    </div>
+  </section>
+
+  <!-- TRANSFERS -->
+  <section id="sec-transfers" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">06 • The market</div><h2>Transfer <span>Window</span></h2><p>Live from the Career TransferManager — your deals plus the 20 biggest moves in world football.</p></div>
+    <div class="transfer-layout">
+      <div class="panel"><div class="panel-title">Your club's business <span class="count" id="myDealCount"></span></div><div id="myDeals" class="deals"></div></div>
+      <div class="panel"><div class="panel-title">Marquee moves — world top 20</div><div id="marquee" class="deals"></div></div>
+    </div>
+    <div class="panel pending-panel"><div class="panel-title">Agreed for January — pre-signed contracts</div><div id="pendingList" class="pending-grid"></div></div>
+    <div class="panel" style="margin-top:16px"><div class="panel-title">Manager merry-go-round</div><div id="mgrMoves"></div></div>
+  </section>
+
+  <!-- STARS -->
+  <section id="sec-stars" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">07 • Talent show</div><h2>Stars, <span>Wonderkids & Flops</span></h2><p>Golden Boot race, Team of the Season, breakout teens and cold streaks.</p></div>
+    <div class="stars-grid">
+      <div class="panel boot-panel"><div class="panel-title">Golden Boot race <em>all competitions</em></div><div id="bootRace"></div></div>
+      <div class="panel tots-panel"><div class="panel-title">Team of the season <em>4-3-3 • min 8 apps</em></div><div class="pitch" id="totsPitch"></div><div id="totsList" class="tots-list"></div></div>
+    </div>
+    <div class="panel"><div class="panel-title">League leaders — tabs</div>
+      <div class="league-pills small" id="starPills"></div>
+      <div class="star-tabs" id="starTabs"></div>
+    </div>
+    <div class="hooks-grid" id="hooksGrid"></div>
+    <div class="panel" style="margin-top:16px"><div class="panel-title">Then vs now <em>this season against last season, all competitions</em></div>
+      <div id="seasonTable"></div>
+    </div>
+    <div class="stars-grid" style="margin-top:16px">
+      <div class="panel"><div class="panel-title">🥶 Goal droughts</div><div class="star-cards big" id="droughtCards"></div></div>
+      <div class="panel"><div class="panel-title">📈 Biggest improvers</div><div class="star-cards big" id="improveCards"></div></div>
+    </div>
+  </section>
+
+  <!-- CUPS -->
+  <section id="sec-cups" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">07 • Knockout drama</div><h2>Domestic <span>Cups</span></h2><p>Stage by stage, tie by tie — pick a cup, search any club.</p>
+      <div class="cup-tools"><input id="cupSearch" type="search" placeholder="Search teams or winners in this cup…"><div class="league-pills small" id="cupPills"></div></div>
+    </div>
+    <div id="cupList" class="cup-list"></div>
+  </section>
+
+  <!-- WORLD -->
+  <section id="sec-world" class="section reveal">
+    <div class="sec-head"><div class="sec-kicker">08 • Around the world</div><h2>World Leagues <span>Roundup</span></h2><p>MLS, Sweden, Norway, China, Korea and more — compact leaders & trailers.</p></div>
+    <div class="world-grid" id="worldGrid"></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div><strong>FC 26 Career Mode Live Editor</strong> • Season Review export visualiser. Upload any export in the same format to re-skin the whole show.</div>
+  <div class="foot-note">Club & competition crests via football-logos.cc hotlinks (baked map, works for future saves). Player photos resolve live by name via Wikipedia + TheSportsDB, with clean fallback avatars.</div>
+</footer>
+
+<div id="toast" class="toast hidden"></div>
+<div id="bracketFS" class="bfs hidden" role="dialog" aria-label="Fullscreen bracket">
+  <div class="bfs-top">
+    <strong id="bfsTitle">Cup</strong>
+    <div class="bfs-controls">
+      <button id="bfsZoomOut" title="Zoom out">−</button>
+      <span id="bfsZoomLabel">100%</span>
+      <button id="bfsZoomIn" title="Zoom in">+</button>
+      <button id="bfsFit" title="Fit whole bracket in one screen">Fit</button>
+      <button id="bfsClose" class="bfs-close" title="Close (Esc)">✕ Close</button>
+    </div>
+  </div>
+  <div class="bfs-view" id="bfsView"><div class="bfs-zoom" id="bfsZoom"></div></div>
+</div>
+<script src="team-logos.js"></script>
+<script src="embedded.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
