@@ -12,11 +12,11 @@ No servers. No build step. No API keys. One Lua script + static HTML/JS files.
 
 - [What it does](#what-it-does)
 - [How it works (the 2 stages)](#how-it-works-the-2-stages)
+- [What you get in the UI](#what-you-get-in-the-ui)
 - [Requirements](#requirements)
 - [Setup — Part 1: get FC 26 Live Editor](#setup--part-1-get-fc-26-live-editor)
 - [Setup — Part 2: run the Lua export (Lua section)](#setup--part-2-run-the-lua-export-lua-section)
 - [Setup — Part 3: use the UI and upload your export](#setup--part-3-use-the-ui-and-upload-your-export)
-- [What you get in the UI](#what-you-get-in-the-ui)
 - [Sample files in this repo](#sample-files-in-this-repo)
 - [Use case: Use your export with NotebookLM or other AI platforms](#use-case-use-your-export-with-notebooklm-or-other-ai-platforms)
 - [Internet, photos & privacy](#internet-photos--privacy)
@@ -44,6 +44,35 @@ FC 26 (Career save loaded)
 
 - **Stage A — data extraction (Lua):** 100% local, inside Live Editor. Reads DB tables (`career_users`, `leagues`, `players`, `teamplayerlinks`, `career_playermatchratinghistory`, …), live standings/fixtures from game memory, and the live `TransferManager` (real fees, including pre-contract January deals). Output is human-readable text, so you can inspect it before uploading anywhere.
 - **Stage B — visualisation (browser):** 100% client-side parsing (`parseReport()` in `app.js`) + rendering. Uploaded files never leave your machine except for crest/photo hotlinks (see [Internet, photos & privacy](#internet-photos--privacy)). Uploads are also archived in `localStorage` under "Saved Seasons" (max 12).
+
+---
+
+## What you get in the UI
+
+<img width="1579" height="770" alt="Screenshot 2026-09-25 at 00-02-02 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/b9a7d954-80a6-4bcf-97da-5ca391323316" />
+
+- **Hero** — club crest, league logo, record tiles (P/W/D/L/GF/GA), last-5 form, next fixtures, headlines ticker, Golden Boot snapshot.
+
+<img width="1449" height="435" alt="Screenshot 2026-09-25 at 01-07-03 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/91bb7e35-a6ec-4170-87e3-35f3419fe24a" />
+
+- **Headline Stories** — title race gap, boot leader, record transfer, your story, wonderkid, cold streak.
+<img width="1507" height="855" alt="Screenshot 2026-09-25 at 00-04-18 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/bf173c11-be4a-473e-afb6-99b1e91da0be" />
+
+- **League Tables** — all simulated top flights in your save, zones, W/D/L form pills, season pulse (goals/game, home/draw/away %), biggest wins, per-league top scorers.
+
+<img width="1572" height="819" alt="Screenshot 2026-09-25 at 00-04-31 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/2330a4eb-3322-47e0-aa9f-1912855e9967" />
+
+- **My Club Deep Dive** — running-points chart (bars = pts per match, line = running total), results timeline with Top-3/Goals/Assists details, sortable squad table with OVR tiers (`<68 / 68–76 / 77–83 / 84+`), next fixtures.
+<img width="1471" height="738" alt="Screenshot 2026-09-25 at 00-04-46 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/f70f2f1e-6acf-4fd5-9cf7-b50dd69fbace" />
+
+- **Transfers** — your club's SIGNED/SOLD deals, world top-20 marquee moves with fee bars, agreed January pre-contracts, manager merry-go-round.
+<img width="1356" height="676" alt="Screenshot 2026-09-25 at 01-10-04 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/17967db5-d47d-45b0-a848-c4c6c11972a3" />
+
+- **Stars** — Golden Boot race bars, TOTS pitch (4-3-3) + bench, per-league stat tabs, heroes/flops/veterans/teens/defensive elite cards, then-vs-now season comparison with droughts + improvers.
+<img width="1314" height="858" alt="Screenshot 2026-09-25 at 01-10-59 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/af0d902c-9123-4fc5-b936-c49489e21f22" />
+
+- **Cups** — real single-elimination bracket trees (winners feed forward, SVG connectors), aggregate + pens + legs, champion banner, search any club.
+- **World** — compact cards for MLS, Sweden, Norway, China, Korea, Championship, LaLiga Hypermotion, Saudi league, etc.
 
 ---
 
@@ -90,35 +119,6 @@ What gets exported: your manager/club/league/season header, live league tables (
 2. Double-click **`index.html`** — it opens with built-in example data.
 3. Click **"Load report file"** (top right) and pick your `fc26_season_export.txt`, **or drag & drop the file anywhere on the page**.
 4. Click **Enter →** when the preloader says ready. (Untick *"Fast load"* first if you want it to pre-fetch all ~400 player photos before entering — default ON streams them as you scroll.)
-
----
-
-## What you get in the UI
-
-<img width="1579" height="770" alt="Screenshot 2026-09-25 at 00-02-02 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/b9a7d954-80a6-4bcf-97da-5ca391323316" />
-
-- **Hero** — club crest, league logo, record tiles (P/W/D/L/GF/GA), last-5 form, next fixtures, headlines ticker, Golden Boot snapshot.
-
-<img width="1449" height="435" alt="Screenshot 2026-09-25 at 01-07-03 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/91bb7e35-a6ec-4170-87e3-35f3419fe24a" />
-
-- **Headline Stories** — title race gap, boot leader, record transfer, your story, wonderkid, cold streak.
-<img width="1507" height="855" alt="Screenshot 2026-09-25 at 00-04-18 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/bf173c11-be4a-473e-afb6-99b1e91da0be" />
-
-- **League Tables** — all simulated top flights in your save, zones, W/D/L form pills, season pulse (goals/game, home/draw/away %), biggest wins, per-league top scorers.
-
-<img width="1572" height="819" alt="Screenshot 2026-09-25 at 00-04-31 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/2330a4eb-3322-47e0-aa9f-1912855e9967" />
-
-- **My Club Deep Dive** — running-points chart (bars = pts per match, line = running total), results timeline with Top-3/Goals/Assists details, sortable squad table with OVR tiers (`<68 / 68–76 / 77–83 / 84+`), next fixtures.
-<img width="1471" height="738" alt="Screenshot 2026-09-25 at 00-04-46 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/f70f2f1e-6acf-4fd5-9cf7-b50dd69fbace" />
-
-- **Transfers** — your club's SIGNED/SOLD deals, world top-20 marquee moves with fee bars, agreed January pre-contracts, manager merry-go-round.
-<img width="1356" height="676" alt="Screenshot 2026-09-25 at 01-10-04 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/17967db5-d47d-45b0-a848-c4c6c11972a3" />
-
-- **Stars** — Golden Boot race bars, TOTS pitch (4-3-3) + bench, per-league stat tabs, heroes/flops/veterans/teens/defensive elite cards, then-vs-now season comparison with droughts + improvers.
-<img width="1314" height="858" alt="Screenshot 2026-09-25 at 01-10-59 FC 26 — Season Review Show" src="https://github.com/user-attachments/assets/af0d902c-9123-4fc5-b936-c49489e21f22" />
-
-- **Cups** — real single-elimination bracket trees (winners feed forward, SVG connectors), aggregate + pens + legs, champion banner, search any club.
-- **World** — compact cards for MLS, Sweden, Norway, China, Korea, Championship, LaLiga Hypermotion, Saudi league, etc.
 
 ---
 
