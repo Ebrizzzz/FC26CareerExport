@@ -1,5 +1,7 @@
 # FC26CareerExport — export your FC 26 Career at any point + web UI
 
+<img width="1280" height="720" alt="1(5)" src="https://github.com/user-attachments/assets/11b92aa7-2c43-4923-be5c-05cb8c7c7fd3" />
+
 Export **any EA SPORTS FC 26 Career Mode save at any point in the season** (early, mid-season, run-in, or end of season) and turn it into a broadcast-style **Season Review Show** in your browser: league tables, cups with real knockout brackets, transfers, Golden Boot race, Team of the Season, wonderkids/flops, and a full deep-dive on your club.
 
 No servers. No build step. No API keys. One Lua script + static HTML/JS files.
@@ -116,7 +118,10 @@ Open `results.txt` in any text editor to see exactly what the Lua script produce
 
 ---
 
-## Use your export with NotebookLM
+## Use case: Use your export with NotebookLM or other AI platforms
+
+<img width="1890" height="843" alt="Screenshot 2026-09-25 at 00-22-07 FC 26 Football Career - Gemini Notebook" src="https://github.com/user-attachments/assets/3fdfd0e9-fa17-4f97-a732-ad9607e5a2d9" />
+
 
 Your export (`fc26_season_export.txt`) is plain human-readable text, so you can also drop it straight into [NotebookLM](https://notebooklm.google.com/) as a source — no reformatting needed.
 
