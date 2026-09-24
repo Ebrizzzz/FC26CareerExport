@@ -347,7 +347,7 @@ User: Tom Wirtz | Club: Borussia Mönchengladbach | League: Bundesliga | Season:
 
 === EUROPEAN & TOURNAMENT TABLES (Swiss League Phase & Invitational) ===
 
--- UEFA Super Cup (league phase / group table)
+-- UEFA Champions League (league phase / group table)
     1. Arsenal                    P8  W7  D1  L0  GF17  GA6   GD+11   22 pts
     2. Atlético de Madrid        P8  W7  D0  L1  GF15  GA5   GD+10   21 pts
     3. Paris Saint-Germain        P8  W6  D2  L0  GF13  GA4   GD+9   20 pts

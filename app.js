@@ -394,8 +394,8 @@ function parseReport(text){
       continue;
     }
     if(sec==="europe"){
-      if(m=t.match(/^--\s*(.+?)\s*\(league phase \/ group table\)\s*$/)){curEuro={title:m[1].trim(),rows:[]};D.europe.push(curEuro);continue;}
-      if(m=t.match(/^--\s*(.+)$/)&&!curEuro){curEuro={title:m[1].trim(),rows:[]};D.europe.push(curEuro);continue;}
+      if(m=t.match(/^--\s*(.+?)\s*\(league phase \/ group table\)\s*$/)){let ttl=m[1].trim();if(/super\s*cup/i.test(ttl))ttl="UEFA Champions League";curEuro={title:ttl,rows:[]};D.europe.push(curEuro);continue;}
+      if(m=t.match(/^--\s*(.+)$/)&&!curEuro){let ttl=m[1].trim();if(/super\s*cup/i.test(ttl))ttl="UEFA Champions League";curEuro={title:ttl,rows:[]};D.europe.push(curEuro);continue;}
       if(curEuro&&(m=t.match(/^\s*(\d+)\.\s+(.+?)\s+P(\d+)\s+W(\d+)\s+D(\d+)\s+L(\d+)\s+GF(\d+)\s+GA(\d+)\s+GD([+-]?\d+)\s+(\d+)\s+pts(.*)$/))){
         curEuro.rows.push({pos:+m[1],team:m[2].trim(),P:+m[3],W:+m[4],D:+m[5],L:+m[6],GF:+m[7],GA:+m[8],GD:m[9],pts:+m[10],mine:/YOUR CLUB/.test(t)});continue;}
       continue;
@@ -544,7 +544,7 @@ function renderAll(D){
   DATA=D;
   if(!D.leagueOrder.length){toast("No leagues found in this file — is it a season export?");$("#bootLoader").classList.add("done");return;}
   curLeagueName=D.meta.league&&D.leagues[D.meta.league]?D.meta.league:D.leagueOrder[0];
-  curEuroTitle=D.europe[0]&&D.europe[0].title;curStarLeague=D.leagueOrder[0];
+  curEuroTitle=(D.europe.find(e=>/champions league/i.test(e.title))||D.europe[0]||{}).title;curStarLeague=D.leagueOrder[0];
   curCupFilter=D.cups[0]?D.cups[0].name:"";
   leagueSort={k:"pos",d:1};euroSort={k:"pos",d:1};squadSort={k:"rating",d:-1};
   try{buildOvrLookup(D);}catch(e){}

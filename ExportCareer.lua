@@ -981,7 +981,16 @@ end
 -- ============================================================
 local function euro_title(t)
     local direct_name = cname(t.cid)
-    if not unknown_comp(direct_name) then return direct_name end
+    -- Super Cup is a single-match final, it never has a league phase.
+    -- The game reports the UCL Swiss phase under the Super Cup CID in
+    -- standings memory, so a "Super Cup league table" is always UCL.
+    if not unknown_comp(direct_name) then
+        local lt = string.lower(tostring(direct_name))
+        if string.find(lt, "super cup", 1, true) and t.rows and #t.rows >= 8 then
+            return "UEFA Champions League"
+        end
+        return direct_name
+    end
 
     local best_c, best_ov = nil, 0
     for _, c in ipairs(comp_ids) do
